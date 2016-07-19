@@ -34,7 +34,18 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
-  }
+  },
+
+  /*************************** Start School *********************************/
+  'GET /school': 'School.list',
+  'POST /school/add': 'School.add',
+  'GET /school/add': {
+    view : 'addSchool'
+  },
+  'GET /school/delete/:id': 'School.delete'
+
+  /*************************** End School *********************************/
+
 
   /***************************************************************************
   *                                                                          *

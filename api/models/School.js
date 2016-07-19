@@ -8,7 +8,20 @@
 module.exports = {
 
   attributes: {
-
+    name: {
+      type: 'string'
+    },
+    address: {
+      type: 'string'
+    },
+    logo: {
+      model: 'image'
+    },
+    majors: {
+      collection: 'major',
+      via: 'schools',
+      dominant: true
+    }
   }
 };
 

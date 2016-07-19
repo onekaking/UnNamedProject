@@ -8,7 +8,13 @@
 module.exports = {
 
   attributes: {
-
+    name: {
+      type: 'string'
+    },
+    schools: {
+      collection: 'school',
+      via: 'majors'
+    }
   }
 };
 
