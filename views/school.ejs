@@ -1,25 +1,40 @@
-<div class="container">
-  <h1>Danh sách trường <a class="btn btn-default" href="/school/add">Tạo mới</a></h1>
-  <table class="table">
+<div class="ui container">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Danh sách trường
+  </h2>
+  <table class="ui compact celled definition table">
     <thead>
       <tr>
+        <th></th>
         <th>#</th>
         <th>Tên trường</th>
         <th>Địa chỉ</th>
         <th>Ngày cập nhật</th>
-        <th></th>
       </tr>
     </thead>
     <tbody>
       <% schools.forEach( function(ele, index) { %> 
         <tr>
+          <td class="collapsing">
+            <a href="/school/delete/<%= ele.id %>"><i class="remove icon"></i></a>
+          </td>
           <td><%= ++index %></td>
           <td><%= ele.name %></td>
           <td><%= ele.address %></td>
           <td><%= ele.updatedAt %></td>
-          <td><a href="/school/delete/<%= ele.id %>"><i class="glyphicon glyphicon-remove"></i></a></td>
         </tr>
       <% }); %>
     </tbody>
-</table>
+    <tfoot class="full-width">
+      <tr>
+        <th></th>
+        <th colspan="4">
+          <a href="/school/add" class="ui right floated small primary labeled icon button">
+            <i class="add icon"></i> Thêm trường
+          </a>
+        </th>
+      </tr>
+    </tfoot>
+  </table>
 </div>

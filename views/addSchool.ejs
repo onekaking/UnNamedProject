@@ -1,13 +1,19 @@
-<div class="container">
-  <form action="/school/add" method="POST">
-    <div class="form-group">
-      <label for="inputSchoolName">Tên trường</label>
+<div class="ui container">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Tạo mới trường học
+  </h2>
+  <form class="ui form" action="/school/add" method="POST">
+    <div class="field">
+      <label>Tên trường</label>
       <input type="text" name="school.name" class="form-control" id="inputSchoolName" placeholder="Vd: Đại học Bách Khoa...">
     </div>
-    <div class="form-group">
-      <label for="inputSchoolAddress">Địa chỉ</label>
+    <div class="field">
+      <label>Địa chỉ</label>
       <input type="text" name="school.address" class="form-control" id="inputSchoolAddress" placeholder="Vd: 267/2 Điện Biên Phủ...">
     </div>
-    <button type="submit" class="btn btn-default">Tạo mới</button>
+    <button type="submit" class="ui small primary labeled icon button">
+      <i class="add icon"></i>
+      Tạo mới</button>
   </form>
 </div>
