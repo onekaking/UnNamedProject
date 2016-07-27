@@ -42,10 +42,18 @@ module.exports.routes = {
   'GET /school/add': {
     view : 'addSchool'
   },
-  'GET /school/delete/:id': 'School.delete'
+  'GET /school/delete/:id': 'School.delete',
 
-  /*************************** End School *********************************/
+  /*************************** End School ***********************************/
 
+  /*************************** Start Image***********************************/
+  'GET /image': 'Image.list',
+  'POST /image/add': 'Image.add',
+  'GET /image/add': {
+    view : 'addImage'
+  },
+  'GET /image/delete/:id': 'Image.delete',
+  /*************************** End Image ************************************/
 
   /***************************************************************************
   *                                                                          *

@@ -1,0 +1,23 @@
+<div class="ui container">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Danh sách hình ảnh
+    <a href="/image/add" class="ui primary button">
+      <i class="add icon"></i> Thêm hình
+    </a>
+  </h2>
+  <div class="list" style="display: flex;flex-direction: row;">
+  <% images.forEach( function(ele, index) { %> 
+    <div class="ui card" style="display: flex;margin: 10px;">
+      <div class="image">
+        <img src="<%= ele.url %>">
+      </div>
+      <div class="content">
+        <div class="description">
+          <span style="word-break: break-all;"><%= ele.url %></span>
+        </div>
+      </div>
+    </div>
+
+  <% }); %>
+</div>
