@@ -2,9 +2,6 @@
   <h2 class="ui center aligned icon header">
     <i class="circular users icon"></i>
     Danh sách hình ảnh
-    <a href="/image/add" class="ui primary button">
-      <i class="add icon"></i> Thêm hình
-    </a>
   </h2>
   <div class="list" style="display: flex;flex-direction: row;">
   <% images.forEach( function(ele, index) { %> 
@@ -18,6 +15,9 @@
         </div>
       </div>
     </div>
-
   <% }); %>
+  </div>
+  <a href="/image/add" class="ui small labeled icon primary button">
+    <i class="add icon"></i> Thêm hình
+  </a>
 </div>

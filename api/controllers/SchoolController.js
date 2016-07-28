@@ -13,8 +13,6 @@ module.exports = {
         return;
       }
 
-      console.log(schools);
-
       return res.view('school', {
         schools: schools
       });
@@ -42,8 +40,19 @@ module.exports = {
         return res.negotiate(err);
       }
 
-      res.redirect('/school'); 
+      return res.ok();
     });
-  } 
+  },
+
+  dataList: function(req, res) {
+    School.find().exec(function(err, schools) {
+      if (err) { 
+        console.log(err);
+        return;
+      }
+
+      return res.json({ schools: schools});
+    });
+  }
 };
 

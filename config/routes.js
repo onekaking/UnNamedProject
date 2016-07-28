@@ -37,12 +37,13 @@ module.exports.routes = {
   },
 
   /*************************** Start School *********************************/
-  'GET /school': 'School.list',
+  // 'GET /school': 'School.list',
   'POST /school/add': 'School.add',
   'GET /school/add': {
     view : 'addSchool'
   },
-  'GET /school/delete/:id': 'School.delete',
+  'PUT /school/delete/:id': 'School.delete',
+  //'GET /school/data/list': 'School.dataList',
 
   /*************************** End School ***********************************/
 
