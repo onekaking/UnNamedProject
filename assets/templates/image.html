@@ -1,0 +1,21 @@
+<div class="ui container" ng-controller="imageController" data-ng-init="initListImage()">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Danh sách hình ảnh
+  </h2>
+  <div class="list" style="display: flex;flex-direction: row;">
+    <div class="ui card" ng-repeat="image in images" style="display: flex;margin: 10px;">
+      <div class="image">
+        <img ng-src="image.url">
+      </div>
+      <div class="content">
+        <div class="description">
+          <span style="word-break: break-all;">{{ image.url }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a href="/image/add" class="ui small labeled icon primary button">
+    <i class="add icon"></i> Thêm hình
+  </a>
+</div>
