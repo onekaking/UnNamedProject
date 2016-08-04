@@ -1,21 +1,26 @@
-var egoApp = angular.module('egoApp');
+(function(){
+  "use strict";
 
-egoApp.service('schoolService', ['$http', function ($http) {
-  return {
-    getListSchool: function() {
-      return $http.get('/api/school');
-    },
+  var egoApp = angular.module('egoApp');
 
-    deleteSchool: function(id) {
-      return $http.delete('/api/school/' + id );
-    },
+  egoApp.service('schoolService', ['$http', function ($http) {
+    return {
+      getListSchool: function() {
+        return $http.get('/api/school');
+      },
 
-    getSchool: function(id) {
-      return $http.get('/api/school/' + id );
-    },
+      deleteSchool: function(id) {
+        return $http.delete('/api/school/' + id );
+      },
 
-    addMajorToSchool: function(schoolId, majorId) {
-      return $http.post('/api/school/'+ schoolId +'/addmajor/' + majorId );
+      getSchool: function(id) {
+        return $http.get('/api/school/' + id );
+      },
+
+      addMajorToSchool: function(schoolId, majorId) {
+        return $http.post('/api/school/'+ schoolId +'/addmajor/' + majorId );
+      }
     }
-  }
-}]);
+  }]);
+})();
+

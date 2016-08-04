@@ -1,9 +1,15 @@
-var egoApp = angular.module('egoApp');
+(function(){
+  "use strict";
 
-egoApp.service('imageService', ['$http', function ($http) {
-  return {
-    getListImage: function() {
-      return $http.get('/api/image');
+ var egoApp = angular.module('egoApp');
+
+  egoApp.service('imageService', ['$http', function ($http) {
+    return {
+      getListImage: function() {
+        return $http.get('/api/image');
+      }
     }
-  }
-}]);
+  }]);
+})();
+
+

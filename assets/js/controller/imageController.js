@@ -1,18 +1,25 @@
-var egoApp = angular.module('egoApp');
+(function(){
+  "use strict";
 
-egoApp.controller('majorController', ['$scope', '$location', '$window','imageService', 'StatusReq', '$routeParams',
-  function ($scope, $location, $window, imageService, StatusReq, $routeParams) {
-    // Declare variables
-    $scope.images = [];
+  var egoApp = angular.module('egoApp');
 
-    // Event Handler
-    
+  egoApp.controller('majorController', ['$scope', '$location', '$window','imageService', 'StatusReq', '$routeParams',
+    function ($scope, $location, $window, imageService, StatusReq, $routeParams) {
+      // Declare variables
+      $scope.images = [];
 
-    $scope.initListImage = function() {
-      imageService.getListImage().then(function(result) {
-        $scope.images = result.data;
-      });
+      // Event Handler
+      
+
+      $scope.initListImage = function() {
+        imageService.getListImage().then(function(result) {
+          $scope.images = result.data;
+        });
+      }
+
     }
+  ]);
+  
+})();
 
-  }
-]);
+
