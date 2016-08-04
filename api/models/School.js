@@ -19,8 +19,7 @@ module.exports = {
     },
     majors: {
       collection: 'major',
-      via: 'schools',
-      dominant: true
+      via: 'schools'
     }
   }
 };

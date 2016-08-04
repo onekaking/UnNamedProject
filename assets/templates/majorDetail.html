@@ -1,0 +1,24 @@
+<div class="ui container" ng-controller="majorController" data-ng-init="loadMajorEdit()">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Tạo ngành
+  </h2>
+
+  <form action="/major/edit" method="POST" class="ui form" ng-class="{ loading: majorEdit.loading }">
+    <div class="fields">
+    <div class="fourteen wide field">
+      <label>Tên ngành</label>
+      <input type="text" name="major.name" ng-model="majorEdit.name" placeholder="Ex: Ngành công nghệ thông tin" autofocus="true">
+    </div>
+    <div class="two wide field">
+      <label>Mã số</label>
+      <input type="text" name="major.id" ng-model="majorEdit.id" readonly="" placeholder="Ex: Ngành công nghệ thông tin" autofocus="true">
+    </div>
+    </div>
+    <div class="field">
+      <label>Mô tả</label>
+      <textarea ng-model="majorEdit.description" placeholder="Nhập mô tả" name="major.description"></textarea>
+    </div>
+    <button class="ui button" type="submit">Save</button>
+  </form>
+</div>

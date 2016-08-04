@@ -1,4 +1,4 @@
-<div class="ui container" ng-controller="schoolController">
+<div class="ui container" ng-controller="schoolController" data-ng-init="initListSchool()">
   <h2 class="ui center aligned icon header">
     <i class="circular users icon"></i>
     Danh sách trường học
@@ -7,28 +7,27 @@
     <thead>
       <tr>
         <th></th>
-        <th>#</th>
         <th>Tên trường</th>
         <th>Địa chỉ</th>
-        <th>Ngày cập nhật</th>
+        <th>Cập nhật</th>
       </tr>
     </thead>
     <tbody> 
         <tr ng-repeat="school in schools track by $index" ng-class="{disabled: school.disabled != undefined}">
           <td class="collapsing">
-            <a ng-click="deleteSchool(school)" href="#"><i class="remove icon"></i></a>
+            <a title="Remove" ng-click="deleteSchool(school)" href="/#"><i class="remove icon"></i></a>
+            <a title="Edit" href="/school/{{ school.id }}"><i class="edit icon"></i></a>
           </td>
-          <td>{{ $index + 1 }}</td>
           <td>{{ school.name }}</td>
           <td>{{ school.address }}</td>
-          <td>{{ school.updatedAt }}</td>
+          <td><span am-time-ago="school.updatedAt" title="{{ school.updatedAt }}"></span></td>
         </tr>
     </tbody>
     <tfoot class="full-width">
       <tr>
         <th></th>
-        <th colspan="4">
-          <a ui-sref=".addPopup"  class="ui right floated small primary labeled icon button">
+        <th colspan="3">
+          <a href="/school/add" class="ui right floated small primary labeled icon button">
             <i class="add icon"></i> Thêm trường
           </a>
         </th>

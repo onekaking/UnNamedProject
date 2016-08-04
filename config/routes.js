@@ -37,15 +37,38 @@ module.exports.routes = {
   },
 
   /*************************** Start School *********************************/
-  // 'GET /school': 'School.list',
+  'GET /school': {
+    view: 'homepage'
+  },
   'POST /school/add': 'School.add',
   'GET /school/add': {
-    view : 'addSchool'
+    view : 'homepage'
   },
-  'PUT /school/delete/:id': 'School.delete',
-  //'GET /school/data/list': 'School.dataList',
+  'GET /school/:id': {
+    view : 'homepage'
+  },
+  'DELETE /school/delete/:id': 'School.delete',
+  'POST /school/edit': 'School.update',
+  'POST /api/school/:schoolid/addmajor/:majorid': 'School.addMajor',
 
   /*************************** End School ***********************************/
+
+  /**************************** Start Major *********************************/
+  'GET /major': {
+    view: 'homepage'
+  },
+  'POST /major/add': 'Major.add',
+  'GET /major/add': {
+    view : 'homepage'
+  },
+  'PUT /major/delete/:id': 'Major.delete',
+  'GET /api/major/remainbyschool/:id': 'Major.getRemainBySchool',
+  'POST /major/edit': 'Major.update',
+  'GET /major/:id': {
+    view : 'homepage'
+  },
+
+  /**************************** End Major ***********************************/
 
   /*************************** Start Image***********************************/
   'GET /image': 'Image.list',

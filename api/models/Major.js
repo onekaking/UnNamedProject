@@ -11,10 +11,21 @@ module.exports = {
     name: {
       type: 'string'
     },
+    description: {
+      type: 'string'
+    },
     schools: {
       collection: 'school',
-      via: 'majors'
-    }
+      via: 'majors',
+      dominant: true
+    },
+
+    // Override toJSON method to remove password from API
+    // toJSON: function() {
+    //   var obj = this.toObject();
+    //   delete obj.schools;
+    //   return obj;
+    // }
   }
 };
 

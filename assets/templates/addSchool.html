@@ -1,25 +1,19 @@
-<div class="ui modal">
-  <i class="close icon"></i>
-  <div class="header">
-    Profile Picture
-  </div>
-  <div class="image content">
-    <div class="ui medium image">
-      <img src="/images/avatar/large/chris.jpg">
+<div class="ui container" ng-controller="schoolController">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Tạo trường 
+  </h2>
+
+  <form action="/school/add" method="POST" class="ui form">
+    <div class="field">
+      <label>Tên trường</label>
+      <input type="text" name="school.name" placeholder="Ex: Đại học Bách Khoa ..." autofocus="true">
     </div>
-    <div class="description">
-      <div class="ui header">We've auto-chosen a profile image for you.</div>
-      <p>We've grabbed the following image from the <a href="https://www.gravatar.com" target="_blank">gravatar</a> image associated with your registered e-mail address.</p>
-      <p>Is it okay to use this photo?</p>
+    <div class="field">
+      <label>Địa chỉ</label>
+      <input type="text" name="school.address" placeholder="Ex: 262 Điện biên phủ ...">
     </div>
-  </div>
-  <div class="actions">
-    <div class="ui black deny button">
-      Nope
-    </div>
-    <div class="ui positive right labeled icon button">
-      Yep, that's me
-      <i class="checkmark icon"></i>
-    </div>
-  </div>
+    <button class="ui button" type="submit">Submit</button>
+  </form>
 </div>
+

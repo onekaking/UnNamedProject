@@ -1,0 +1,18 @@
+<div class="ui container" ng-controller="majorController">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Tạo ngành
+  </h2>
+
+  <form action="/major/add" method="POST" class="ui form">
+    <div class="field">
+      <label>Tên ngành</label>
+      <input type="text" name="major.name" placeholder="Ex: Ngành công nghệ thông tin" autofocus="true">
+    </div>
+    <div class="field">
+      <label>Mô tả</label>
+      <textarea name="major.description"></textarea>
+    </div>
+    <button class="ui button" type="submit">Submit</button>
+  </form>
+</div>

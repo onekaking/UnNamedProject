@@ -1,0 +1,77 @@
+<div class="ui container" ng-controller="schoolController" data-ng-init="loadSchoolEdit()">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Cập nhập thông tin trường 
+  </h2>
+
+  <form action="/school/edit" method="POST" class="ui form" ng-class="{ loading: schoolEdit.loading }">
+    <h4 class="ui dividing header">Thông tin trường học</h4>
+    <div class="fields">
+      <div class="fourteen wide field">
+        <label>Tên trường</label>
+        <input type="text" name="school.name" ng-model="schoolEdit.name" placeholder="Ex: Đại học Bách Khoa ..." autofocus="true">
+      </div>
+      <div class="two wide field">
+        <label>Mã số</label>
+        <input type="text" name="school.id" ng-model="schoolEdit.id" readonly="" autofocus="true">
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Địa chỉ</label>
+      <input type="text" name="school.address" ng-model="schoolEdit.address" placeholder="Ex: 262 Điện biên phủ ...">
+    </div>
+
+    <h4 class="ui dividing header">Thông tin ngành học</h4>
+    <div class="field">
+      <div class="ui labeled button" tabindex="0" ng-click="showModalAddMajor()">
+        <div class="ui blue button">
+          <i class="fork icon"></i> Add major
+        </div>
+        <a class="ui basic left blue pointing label">
+          {{ remainMajors.length }}
+        </a>
+      </div>
+    </div>
+    <div class="ui middle aligned divided list">
+      <div class="item" ng-repeat="major in schoolEdit.majors">
+        <div class="right floated content">
+          <div class="ui button">Remove</div>
+        </div>
+        <i class="ui large avatar icon browser"></i>
+        <div class="content">
+          {{ major.name }}
+        </div>
+      </div>
+    </div>
+    <button class="ui button" type="submit">Save</button>
+  </form>
+
+  <modal ng-model="show_modal">
+    <i class="close icon"></i>
+    <div class="header">
+      Profile Picture
+    </div>
+    <div class="content">
+      <div class="ui cards">
+        <div class="card" ng-repeat="major in remainMajors">
+          <div class="content">
+            <div class="header">
+              {{ major.name }}
+            </div>
+            <div class="description">
+              {{ major.description }}
+            </div>
+          </div>
+          <div class="extra content">
+            <i class="check icon"></i>
+            {{ major.schools.length }} <span ng-if="major.schools.length > 1">schools</span>
+            <span ng-if="major.schools.length < 2">school</span> added
+            <div ng-click="addMajorToSchool(schoolEdit.id, major)" class="ui right floated basic green button">Add</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </modal>
+</div>
+

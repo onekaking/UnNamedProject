@@ -1,0 +1,35 @@
+<div class="ui container" ng-controller="majorController" data-ng-init="initListMajor()">
+  <h2 class="ui center aligned icon header">
+    <i class="circular users icon"></i>
+    Danh sách ngành
+  </h2>
+  <table class="ui compact celled definition table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Tên ngành</th>
+        <th>Cập nhật</th>
+      </tr>
+    </thead>
+    <tbody> 
+        <tr ng-repeat="major in majors track by $index" ng-class="{disabled: major.disabled != undefined}">
+          <td class="collapsing">
+            <a title="Remove" ng-click="deleteMajor(major)" href="/#"><i class="remove icon"></i></a>
+            <a title="Edit" href="/major/{{ major.id }}"><i class="edit icon"></i></a>
+          </td>
+          <td>{{ major.name }}</td>
+          <td><span am-time-ago="major.updatedAt" title="{{ major.updatedAt }}"></span></td>
+        </tr>
+    </tbody>
+    <tfoot class="full-width">
+      <tr>
+        <th></th>
+        <th colspan="2">
+          <a href="/major/add" class="ui right floated small primary labeled icon button">
+            <i class="add icon"></i> Thêm ngành
+          </a>
+        </th>
+      </tr>
+    </tfoot>
+  </table>
+</div>

@@ -5,8 +5,17 @@ egoApp.service('schoolService', ['$http', function ($http) {
     getListSchool: function() {
       return $http.get('/api/school');
     },
+
     deleteSchool: function(id) {
       return $http.delete('/api/school/' + id );
+    },
+
+    getSchool: function(id) {
+      return $http.get('/api/school/' + id );
+    },
+
+    addMajorToSchool: function(schoolId, majorId) {
+      return $http.post('/api/school/'+ schoolId +'/addmajor/' + majorId );
     }
   }
 }]);
