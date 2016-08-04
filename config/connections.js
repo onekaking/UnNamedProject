@@ -78,11 +78,11 @@ module.exports.connections = {
     //url: 'postgres://jaymoqelyxgzio:upu3rwfP3C1AU3FSthdCZ4hkwS@ec2-50-17-255-6.compute-1.amazonaws.com:5432/d8b29kd0orbp9v',
     ssl: true,
     adapter: 'sails-postgresql',
-    host: 'ec2-50-17-255-6.compute-1.amazonaws.com',
-    user: 'jaymoqelyxgzio', // optional
-    password: 'upu3rwfP3C1AU3FSthdCZ4hkwS', // optional
-    database: 'd8b29kd0orbp9v', //optional
-    poolSize: 10,
+    host: 'ec2-23-21-50-120.compute-1.amazonaws.com',
+    user: 'swzwuyqltcjews', // optional
+    password: 'znfT6ER4x5HS3paKdNzhXKs0BT', // optional
+    database: 'd2ov2av9spe29e', //optional
+    poolSize: 15,
     port: 5432
   }
 

@@ -18,7 +18,7 @@ module.exports = {
    ***************************************************************************/
 
   // models: {
-  //   connection: 'someMysqlServer'
+  //   connection: 'PostgresqlServer'
   // },
 
   /***************************************************************************
@@ -34,5 +34,4 @@ module.exports = {
   // log: {
   //   level: "silent"
   // }
-
 };
