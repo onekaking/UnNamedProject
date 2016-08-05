@@ -5,9 +5,7 @@
       'ngRoute',
       'ngSanitize',
       'angularMoment',
-      'ui-notification',
-      'angularify.semantic.dropdown',
-      'angularify.semantic.modal'
+      'ui-notification'
   ];
 
   var egoApp = angular.module('egoApp', modules);
@@ -16,7 +14,7 @@
     ok: 200
   });
 
-  egoApp.config(function($routeProvider, $locationProvider, NotificationProvider) {
+  egoApp.config(['$routeProvider', '$locationProvider', 'NotificationProvider' , function($routeProvider, $locationProvider, NotificationProvider) {
     $routeProvider.when('/', {
       redirectTo: "/school"
     });
@@ -67,11 +65,11 @@
         positionY: 'top'
     });
 
-  });
+  }]);
 
-  egoApp.run(function(amMoment) {
+  egoApp.run(['amMoment', function(amMoment) {
       amMoment.changeLocale('vi');
-  });
+  }]);
 })();
 
 
