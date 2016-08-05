@@ -62,15 +62,27 @@
       }
 
       $scope.addMajorToSchool = function(schoolId, major) {
-        if( $scope.schoolEdit != undefined) {
-          schoolService.addMajorToSchool(schoolId, major.id).then(function(result) {
-            if(result.status == StatusReq.ok) {
-              var index = $scope.remainMajors.indexOf(major);
-              $scope.remainMajors.splice(index, 1);
-              Notification.success('Add major sucessfull !!!');
-            }
-          });
-        }
+        major.loading = true;
+        schoolService.addMajorToSchool(schoolId, major.id).then(function(result) {
+          if(result.status == StatusReq.ok) {
+            var index = $scope.remainMajors.indexOf(major);
+            $scope.remainMajors.splice(index, 1);
+            major.loading = false;
+            Notification.success('Add major sucessfull !!!');
+            $scope.schoolEdit.majors.push(major);
+          }
+        });
+      }
+
+      $scope.removeMajorFromSchool = function(schoolId, major) {
+        schoolService.removeMajorFromSchool(schoolId, major.id).then(function(result) {
+          if(result.status == StatusReq.ok) {
+            var index = $scope.schoolEdit.majors.indexOf(major);
+            $scope.schoolEdit.majors.splice(index, 1);
+            $scope.remainMajors.push(major);
+          }
+        });
+        
       }
 
     }

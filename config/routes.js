@@ -50,6 +50,7 @@ module.exports.routes = {
   'DELETE /school/delete/:id': 'School.delete',
   'POST /school/edit': 'School.update',
   'POST /api/school/:schoolid/addmajor/:majorid': 'School.addMajor',
+  'DELETE /api/school/:schoolid/removemajor/:majorid': 'School.removeMajor',
 
   /*************************** End School ***********************************/
 

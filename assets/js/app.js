@@ -5,7 +5,8 @@
       'ngRoute',
       'ngSanitize',
       'angularMoment',
-      'ui-notification'
+      'ui-notification',
+      'angularify.semantic'
   ];
 
   var egoApp = angular.module('egoApp', modules);
@@ -45,7 +46,7 @@
       controller: 'majorController'
     })
     .when('/major/:majorId', {
-      templateUrl: '/templates/majordetail.html',
+      templateUrl: '/templates/majorDetail.html',
       controller: 'majorController'
     });
 

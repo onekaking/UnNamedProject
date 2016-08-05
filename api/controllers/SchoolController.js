@@ -74,9 +74,24 @@ module.exports = {
     School.findOne(req.param('schoolid')).populate('majors').exec(function(err, school) {
 
       if (err) { return res.serverError(err); }
-      if (!school) { return res.notFound('Could not find a school named Finn.'); }
+      if (!school) { return res.notFound('Could not find a school'); }
 
       school.majors.add(req.param('majorid'));
+      school.save(function(err){
+        if (err) { return res.serverError(err); }
+        return res.ok();
+      });//</save()>
+
+    });
+  },
+
+  removeMajor: function(req, res) {
+    School.findOne(req.param('schoolid')).populate('majors').exec(function(err, school) {
+
+      if (err) { return res.serverError(err); }
+      if (!school) { return res.notFound('Could not find a school'); }
+
+      school.majors.remove(req.param('majorid'));
       school.save(function(err){
         if (err) { return res.serverError(err); }
         return res.ok();

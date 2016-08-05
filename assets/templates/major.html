@@ -15,9 +15,8 @@
         <tr ng-repeat="major in majors track by $index" ng-class="{disabled: major.disabled != undefined}">
           <td class="collapsing">
             <a title="Remove" ng-click="deleteMajor(major)" href="/#"><i class="remove icon"></i></a>
-            <a title="Edit" href="/major/{{ major.id }}"><i class="edit icon"></i></a>
           </td>
-          <td>{{ major.name }}</td>
+          <td><a href="/major/{{ major.id }}">{{ major.name }}</a></td>
           <td><span am-time-ago="major.updatedAt" title="{{ major.updatedAt }}"></span></td>
         </tr>
     </tbody>

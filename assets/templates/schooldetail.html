@@ -36,7 +36,7 @@
     <div class="ui middle aligned divided list">
       <div class="item" ng-repeat="major in schoolEdit.majors">
         <div class="right floated content">
-          <div class="ui button">Remove</div>
+          <div ng-click="removeMajorFromSchool(schoolEdit.id, major)" class="ui button">Remove</div>
         </div>
         <i class="ui large avatar icon browser"></i>
         <div class="content">
@@ -44,23 +44,26 @@
         </div>
       </div>
     </div>
-    <button class="ui button" type="submit">Save</button>
+    <button class="ui button positive" type="submit">Save Information</button>
   </form>
 
   <modal ng-model="show_modal">
     <i class="close icon"></i>
     <div class="header">
-      Profile Picture
+      Add Major To School
     </div>
     <div class="content">
       <div class="ui cards">
-        <div class="card" ng-repeat="major in remainMajors">
+        <div class="card ui basic segment" ng-repeat="major in remainMajors">
+          <div class="ui active dimmer" ng-if="major.loading">
+            <div class="ui loader"></div>
+          </div>
           <div class="content">
-            <div class="header">
+            <a href="/major/{{ major.id }}" class="header">
               {{ major.name }}
-            </div>
+            </a>
             <div class="description">
-              {{ major.description }}
+              <span title="{{ major.description }}">{{ major.description | limitTo: 100 }}</span>
             </div>
           </div>
           <div class="extra content">

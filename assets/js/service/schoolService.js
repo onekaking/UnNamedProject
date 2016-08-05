@@ -19,6 +19,10 @@
 
       addMajorToSchool: function(schoolId, majorId) {
         return $http.post('/api/school/'+ schoolId +'/addmajor/' + majorId );
+      },
+
+      removeMajorFromSchool: function(schoolId, majorId) {
+        return $http.delete('/api/school/'+ schoolId +'/removemajor/' + majorId );
       }
     }
   }]);

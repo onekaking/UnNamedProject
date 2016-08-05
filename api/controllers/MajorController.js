@@ -31,15 +31,31 @@ module.exports = {
   },
 
   getRemainBySchool: function(req, res) {
-    Major.find().populate('schools').exec(function(err, majors) {
+    School.findOne(req.param('id')).populate('majors').exec(function(err, school) {
       if (err) { 
         console.log(err);
         return;
       }
 
-      return res.json({ majors: majors });
+      var majorArr = [];
 
-    })
+      if (school.majors.length) {
+        school.majors.map(function (item) {
+          majorArr.push(item.id);
+        });
+      }
+
+      Major.find({ id: { '!' : majorArr} }).populate('schools').exec(function(err, majors) {
+        if (err) { 
+          console.log(err);
+          return;
+        }
+
+        return res.json({ majors: majors });
+      })
+
+    });
+    
   },
 
   update: function(req, res) {
