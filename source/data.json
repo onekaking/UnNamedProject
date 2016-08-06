@@ -1,0 +1,4448 @@
+[
+  {
+    "name": ".DS_Store",
+    "createdAt": "2016-08-06T10:28:43.499Z",
+    "updatedAt": "2016-08-06T10:28:43.499Z",
+    "id": 16588
+  },
+  {
+    "name": "data.json",
+    "createdAt": "2016-08-06T10:28:43.499Z",
+    "updatedAt": "2016-08-06T10:28:43.499Z",
+    "id": 16589
+  },
+  {
+    "name": "10Trường Cao đẳng nghề Đường sắt",
+    "createdAt": "2016-08-06T10:28:43.500Z",
+    "updatedAt": "2016-08-06T10:28:43.500Z",
+    "id": 16590
+  },
+  {
+    "name": "11Trường Cao đẳng nghề FPT",
+    "createdAt": "2016-08-06T10:28:43.500Z",
+    "updatedAt": "2016-08-06T10:28:43.500Z",
+    "id": 16591
+  },
+  {
+    "name": "12Trường Cao đẳng nghề Giao thông vận tải Trung ương I",
+    "createdAt": "2016-08-06T10:28:43.501Z",
+    "updatedAt": "2016-08-06T10:28:43.501Z",
+    "id": 16592
+  },
+  {
+    "name": "13Trường Cao đẳng nghề Hùng Vương",
+    "createdAt": "2016-08-06T10:28:43.501Z",
+    "updatedAt": "2016-08-06T10:28:43.501Z",
+    "id": 16593
+  },
+  {
+    "name": "14Trường Cao đẳng nghề Kinh doanh và Công nghệ Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.502Z",
+    "updatedAt": "2016-08-06T10:28:43.502Z",
+    "id": 16594
+  },
+  {
+    "name": "15Trường Cao đẳng nghề Kỹ thuật Công nghệ",
+    "createdAt": "2016-08-06T10:28:43.502Z",
+    "updatedAt": "2016-08-06T10:28:43.502Z",
+    "id": 16595
+  },
+  {
+    "name": "16Trường Cao đẳng nghề Kỹ thuật",
+    "createdAt": "2016-08-06T10:28:43.503Z",
+    "updatedAt": "2016-08-06T10:28:43.503Z",
+    "id": 16596
+  },
+  {
+    "name": "17Trường Cao đẳng nghề Kỹ thuật",
+    "createdAt": "2016-08-06T10:28:43.504Z",
+    "updatedAt": "2016-08-06T10:28:43.504Z",
+    "id": 16597
+  },
+  {
+    "name": "18Trường Cao đẳng nghề Kỹ thuật Thiết bị Y tế",
+    "createdAt": "2016-08-06T10:28:43.504Z",
+    "updatedAt": "2016-08-06T10:28:43.504Z",
+    "id": 16598
+  },
+  {
+    "name": "19Trường Cao đẳng nghề Kỹ thuật và Nghiệp vụ Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.505Z",
+    "updatedAt": "2016-08-06T10:28:43.505Z",
+    "id": 16599
+  },
+  {
+    "name": "1Trường Cao đẳng nghề Bách Khoa",
+    "createdAt": "2016-08-06T10:28:43.505Z",
+    "updatedAt": "2016-08-06T10:28:43.505Z",
+    "id": 16600
+  },
+  {
+    "name": "20Trường Cao đẳng nghề Long Biên",
+    "createdAt": "2016-08-06T10:28:43.505Z",
+    "updatedAt": "2016-08-06T10:28:43.505Z",
+    "id": 16601
+  },
+  {
+    "name": "21Trường Cao đẳng nghề Phú Châu",
+    "createdAt": "2016-08-06T10:28:43.506Z",
+    "updatedAt": "2016-08-06T10:28:43.506Z",
+    "id": 16602
+  },
+  {
+    "name": "22Trường Cao đẳng nghề Quốc tế Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.506Z",
+    "updatedAt": "2016-08-06T10:28:43.506Z",
+    "id": 16603
+  },
+  {
+    "name": "23Trường Cao đẳng nghề số 17",
+    "createdAt": "2016-08-06T10:28:43.507Z",
+    "updatedAt": "2016-08-06T10:28:43.507Z",
+    "id": 16604
+  },
+  {
+    "name": "24Trường Cao đẳng nghề Thăng Long",
+    "createdAt": "2016-08-06T10:28:43.507Z",
+    "updatedAt": "2016-08-06T10:28:43.507Z",
+    "id": 16605
+  },
+  {
+    "name": "25Trường Cao đẳng nghề thiết kế thời trang LONDON",
+    "createdAt": "2016-08-06T10:28:43.509Z",
+    "updatedAt": "2016-08-06T10:28:43.509Z",
+    "id": 16606
+  },
+  {
+    "name": "26Trường Cao đẳng nghề Trần Hưng Đạo",
+    "createdAt": "2016-08-06T10:28:43.509Z",
+    "updatedAt": "2016-08-06T10:28:43.509Z",
+    "id": 16607
+  },
+  {
+    "name": "27Trường Cao Đẳng nghề Văn Lang Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.510Z",
+    "updatedAt": "2016-08-06T10:28:43.510Z",
+    "id": 16608
+  },
+  {
+    "name": "28Trường Cao đẳng nghề Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.510Z",
+    "updatedAt": "2016-08-06T10:28:43.510Z",
+    "id": 16609
+  },
+  {
+    "name": "2Trường Cao đẳng nghề Bách Khoa Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.511Z",
+    "updatedAt": "2016-08-06T10:28:43.511Z",
+    "id": 16610
+  },
+  {
+    "name": "3Trường Cao đẳng nghề Công nghệ cao Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.511Z",
+    "updatedAt": "2016-08-06T10:28:43.511Z",
+    "id": 16611
+  },
+  {
+    "name": "4Trường Cao đẳng nghề Công nghệ",
+    "createdAt": "2016-08-06T10:28:43.512Z",
+    "updatedAt": "2016-08-06T10:28:43.512Z",
+    "id": 16612
+  },
+  {
+    "name": "5Trường Cao đẳng nghề Công nghiệp Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.512Z",
+    "updatedAt": "2016-08-06T10:28:43.512Z",
+    "id": 16613
+  },
+  {
+    "name": "6Trường Cao đẳng nghề Công thương Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.513Z",
+    "updatedAt": "2016-08-06T10:28:43.513Z",
+    "id": 16614
+  },
+  {
+    "name": "7Trường Cao đẳng nghề Cơ điện Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.513Z",
+    "updatedAt": "2016-08-06T10:28:43.513Z",
+    "id": 16615
+  },
+  {
+    "name": "8Trường Cao đẳng nghề Cơ điện và Công nghệ thực phẩm Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.514Z",
+    "updatedAt": "2016-08-06T10:28:43.514Z",
+    "id": 16616
+  },
+  {
+    "name": "9Trường Cao đẳng nghề Điện",
+    "createdAt": "2016-08-06T10:28:43.514Z",
+    "updatedAt": "2016-08-06T10:28:43.514Z",
+    "id": 16617
+  },
+  {
+    "name": "10Trường Trung cấp nghề số 10",
+    "createdAt": "2016-08-06T10:28:43.515Z",
+    "updatedAt": "2016-08-06T10:28:43.515Z",
+    "id": 16618
+  },
+  {
+    "name": "11Trường Trung cấp nghề Du lịch Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.515Z",
+    "updatedAt": "2016-08-06T10:28:43.515Z",
+    "id": 16619
+  },
+  {
+    "name": "12Trường Trung cấp nghề Cơ khí I Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.516Z",
+    "updatedAt": "2016-08-06T10:28:43.516Z",
+    "id": 16620
+  },
+  {
+    "name": "13Trường Trung cấp nghề May và thời trang Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.517Z",
+    "updatedAt": "2016-08-06T10:28:43.517Z",
+    "id": 16621
+  },
+  {
+    "name": "14Trường Trung cấp nghề Quốc tế Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.517Z",
+    "updatedAt": "2016-08-06T10:28:43.517Z",
+    "id": 16622
+  },
+  {
+    "name": "15Trường Trung cấp nghề Quốc tế Việt Úc",
+    "createdAt": "2016-08-06T10:28:43.518Z",
+    "updatedAt": "2016-08-06T10:28:43.518Z",
+    "id": 16623
+  },
+  {
+    "name": "16Trường Trung cấp nghề Công đoàn Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.519Z",
+    "updatedAt": "2016-08-06T10:28:43.519Z",
+    "id": 16624
+  },
+  {
+    "name": "17Trường Trung cấp nghề Công nghệ Ôtô",
+    "createdAt": "2016-08-06T10:28:43.519Z",
+    "updatedAt": "2016-08-06T10:28:43.519Z",
+    "id": 16625
+  },
+  {
+    "name": "18Trường Trung cấp nghề Việt Tiệp",
+    "createdAt": "2016-08-06T10:28:43.520Z",
+    "updatedAt": "2016-08-06T10:28:43.520Z",
+    "id": 16626
+  },
+  {
+    "name": "19Trường Trung cấp nghề Số 18",
+    "createdAt": "2016-08-06T10:28:43.521Z",
+    "updatedAt": "2016-08-06T10:28:43.521Z",
+    "id": 16627
+  },
+  {
+    "name": "1Trường Trung cấp nghề Dân Lập Cờ Đỏ",
+    "createdAt": "2016-08-06T10:28:43.521Z",
+    "updatedAt": "2016-08-06T10:28:43.521Z",
+    "id": 16628
+  },
+  {
+    "name": "20Trường Trung cấp nghề Tổng hợp Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.522Z",
+    "updatedAt": "2016-08-06T10:28:43.522Z",
+    "id": 16629
+  },
+  {
+    "name": "21Trường Trung cấp nghề Số 1 Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.523Z",
+    "updatedAt": "2016-08-06T10:28:43.523Z",
+    "id": 16630
+  },
+  {
+    "name": "22Trường Trung cấp nghề Nhân lực quốc tế Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.523Z",
+    "updatedAt": "2016-08-06T10:28:43.523Z",
+    "id": 16631
+  },
+  {
+    "name": "23Trường Trung cấp nghề Công nghệ Tây An",
+    "createdAt": "2016-08-06T10:28:43.524Z",
+    "updatedAt": "2016-08-06T10:28:43.524Z",
+    "id": 16632
+  },
+  {
+    "name": "24Trường Trung cấp nghề Sơn Tây",
+    "createdAt": "2016-08-06T10:28:43.525Z",
+    "updatedAt": "2016-08-06T10:28:43.525Z",
+    "id": 16633
+  },
+  {
+    "name": "25Trường Trung cấp Nghề Kỹ thuật và Nghiệp vụ Du lịch Quang Minh",
+    "createdAt": "2016-08-06T10:28:43.525Z",
+    "updatedAt": "2016-08-06T10:28:43.525Z",
+    "id": 16634
+  },
+  {
+    "name": "26Trường Trung cấp nghề Đào tạo nhân lực VINACONEX",
+    "createdAt": "2016-08-06T10:28:43.526Z",
+    "updatedAt": "2016-08-06T10:28:43.526Z",
+    "id": 16635
+  },
+  {
+    "name": "27Trường Trung cấp nghề Hội cựu chiến binh Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.527Z",
+    "updatedAt": "2016-08-06T10:28:43.527Z",
+    "id": 16636
+  },
+  {
+    "name": "28Trường Trung cấp nghề Thông tin và Truyền thông Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.528Z",
+    "updatedAt": "2016-08-06T10:28:43.528Z",
+    "id": 16637
+  },
+  {
+    "name": "29Trường Trung cấp nghề Kỹ thuật công nghệ Vạn Xuân",
+    "createdAt": "2016-08-06T10:28:43.529Z",
+    "updatedAt": "2016-08-06T10:28:43.529Z",
+    "id": 16638
+  },
+  {
+    "name": "2Trường Trung cấp nghề Giao thông vận tải",
+    "createdAt": "2016-08-06T10:28:43.530Z",
+    "updatedAt": "2016-08-06T10:28:43.530Z",
+    "id": 16639
+  },
+  {
+    "name": "30Trường Trung cấp nghề Công đoàn Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.530Z",
+    "updatedAt": "2016-08-06T10:28:43.530Z",
+    "id": 16640
+  },
+  {
+    "name": "31Trường Trung cấp nghề Hội nông dân Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.531Z",
+    "updatedAt": "2016-08-06T10:28:43.531Z",
+    "id": 16641
+  },
+  {
+    "name": "3Trường Trung cấp nghề Nấu ăn và Nghiệp vụ Khách sạn Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.532Z",
+    "updatedAt": "2016-08-06T10:28:43.532Z",
+    "id": 16642
+  },
+  {
+    "name": "4Trường Trung cấp nghề Giao thông vận tải Thăng Long",
+    "createdAt": "2016-08-06T10:28:43.533Z",
+    "updatedAt": "2016-08-06T10:28:43.533Z",
+    "id": 16643
+  },
+  {
+    "name": "5Trường Trung cấp nghề Cơ khí Xây dựng",
+    "createdAt": "2016-08-06T10:28:43.534Z",
+    "updatedAt": "2016-08-06T10:28:43.534Z",
+    "id": 16644
+  },
+  {
+    "name": "6Trường Trung cấp nghề Giao thông công chính Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.535Z",
+    "updatedAt": "2016-08-06T10:28:43.535Z",
+    "id": 16645
+  },
+  {
+    "name": "7Trường Trung cấp nghề Dân lập Kỹ thuật Tổng hợp Hà Nội",
+    "createdAt": "2016-08-06T10:28:43.535Z",
+    "updatedAt": "2016-08-06T10:28:43.535Z",
+    "id": 16646
+  },
+  {
+    "name": "8Trường Trung cấp nghề Công nghệ Thăng Long",
+    "createdAt": "2016-08-06T10:28:43.537Z",
+    "updatedAt": "2016-08-06T10:28:43.537Z",
+    "id": 16647
+  },
+  {
+    "name": "9Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.537Z",
+    "updatedAt": "2016-08-06T10:28:43.537Z",
+    "id": 16648
+  },
+  {
+    "name": "10Trường Cao đẳng nghề Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:43.538Z",
+    "updatedAt": "2016-08-06T10:28:43.538Z",
+    "id": 16649
+  },
+  {
+    "name": "11Trường Cao đẳng nghề Hoa Sen",
+    "createdAt": "2016-08-06T10:28:43.540Z",
+    "updatedAt": "2016-08-06T10:28:43.540Z",
+    "id": 16650
+  },
+  {
+    "name": "12Trường Cao đẳng nghề Nguyễn Văn Trỗi",
+    "createdAt": "2016-08-06T10:28:43.540Z",
+    "updatedAt": "2016-08-06T10:28:43.540Z",
+    "id": 16651
+  },
+  {
+    "name": "13Trường Cao đẳng nghề Du lịch Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:43.541Z",
+    "updatedAt": "2016-08-06T10:28:43.541Z",
+    "id": 16652
+  },
+  {
+    "name": "14Trường Cao đẳng nghề số 5",
+    "createdAt": "2016-08-06T10:28:43.542Z",
+    "updatedAt": "2016-08-06T10:28:43.542Z",
+    "id": 16653
+  },
+  {
+    "name": "16Trường Cao đẳng nghề Chu Lai",
+    "createdAt": "2016-08-06T10:28:43.543Z",
+    "updatedAt": "2016-08-06T10:28:43.543Z",
+    "id": 16654
+  },
+  {
+    "name": "15Trường Cao đẳng nghề Việt",
+    "createdAt": "2016-08-06T10:28:43.544Z",
+    "updatedAt": "2016-08-06T10:28:43.544Z",
+    "id": 16655
+  },
+  {
+    "name": "17Trường Cao đẳng nghề tỉnh Quảng Nam",
+    "createdAt": "2016-08-06T10:28:43.545Z",
+    "updatedAt": "2016-08-06T10:28:43.545Z",
+    "id": 16656
+  },
+  {
+    "name": "18Trường Cao đẳng nghề Kỹ thuật Công nghệ Dung Quất",
+    "createdAt": "2016-08-06T10:28:43.546Z",
+    "updatedAt": "2016-08-06T10:28:43.546Z",
+    "id": 16657
+  },
+  {
+    "name": "1Trường Cao đẳng Nghề Kỹ thuật Việt",
+    "createdAt": "2016-08-06T10:28:43.547Z",
+    "updatedAt": "2016-08-06T10:28:43.547Z",
+    "id": 16658
+  },
+  {
+    "name": "19Trường Cao đẳng nghề Cơ giới",
+    "createdAt": "2016-08-06T10:28:43.548Z",
+    "updatedAt": "2016-08-06T10:28:43.548Z",
+    "id": 16659
+  },
+  {
+    "name": "20Trường Cao đẳng nghề Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.549Z",
+    "updatedAt": "2016-08-06T10:28:43.549Z",
+    "id": 16660
+  },
+  {
+    "name": "21Trường Cao đẳng nghề Cơ điện",
+    "createdAt": "2016-08-06T10:28:43.549Z",
+    "updatedAt": "2016-08-06T10:28:43.549Z",
+    "id": 16661
+  },
+  {
+    "name": "22Trường Cao đẳng nghề Quy Nhơn",
+    "createdAt": "2016-08-06T10:28:43.550Z",
+    "updatedAt": "2016-08-06T10:28:43.550Z",
+    "id": 16662
+  },
+  {
+    "name": "23Trường Cao đẳng nghề Phú Yên",
+    "createdAt": "2016-08-06T10:28:43.551Z",
+    "updatedAt": "2016-08-06T10:28:43.551Z",
+    "id": 16663
+  },
+  {
+    "name": "24Trường Cao đẳng nghề Nha Trang",
+    "createdAt": "2016-08-06T10:28:43.552Z",
+    "updatedAt": "2016-08-06T10:28:43.552Z",
+    "id": 16664
+  },
+  {
+    "name": "25Trường Cao Đẳng Nghề Quốc Tế Nam Việt",
+    "createdAt": "2016-08-06T10:28:43.553Z",
+    "updatedAt": "2016-08-06T10:28:43.553Z",
+    "id": 16665
+  },
+  {
+    "name": "26Trường Cao đẳng nghề Du lịch Nha Trang",
+    "createdAt": "2016-08-06T10:28:43.554Z",
+    "updatedAt": "2016-08-06T10:28:43.554Z",
+    "id": 16666
+  },
+  {
+    "name": "27Trường Cao đẳng nghề Ninh Thuận",
+    "createdAt": "2016-08-06T10:28:43.555Z",
+    "updatedAt": "2016-08-06T10:28:43.555Z",
+    "id": 16667
+  },
+  {
+    "name": "28Trường Cao đẳng nghề Bình Thuận",
+    "createdAt": "2016-08-06T10:28:43.556Z",
+    "updatedAt": "2016-08-06T10:28:43.556Z",
+    "id": 16668
+  },
+  {
+    "name": "29Trường Cao đẳng nghề Gia Lai",
+    "createdAt": "2016-08-06T10:28:43.557Z",
+    "updatedAt": "2016-08-06T10:28:43.557Z",
+    "id": 16669
+  },
+  {
+    "name": "2Trường Cao đẳng Nghề Kỹ thuật Công nghiệp Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.558Z",
+    "updatedAt": "2016-08-06T10:28:43.558Z",
+    "id": 16670
+  },
+  {
+    "name": "30Trường Cao đẳng nghề Thanh niên Dân tộc Tây Nguyên",
+    "createdAt": "2016-08-06T10:28:43.559Z",
+    "updatedAt": "2016-08-06T10:28:43.559Z",
+    "id": 16671
+  },
+  {
+    "name": "31Trường Cao đẳng nghề Đăk Lăk",
+    "createdAt": "2016-08-06T10:28:43.560Z",
+    "updatedAt": "2016-08-06T10:28:43.560Z",
+    "id": 16672
+  },
+  {
+    "name": "32Trường Cao đẳng nghề Đà Lạt",
+    "createdAt": "2016-08-06T10:28:43.561Z",
+    "updatedAt": "2016-08-06T10:28:43.561Z",
+    "id": 16673
+  },
+  {
+    "name": "33Trường Cao đẳng nghề Du lịch Đà Lạt",
+    "createdAt": "2016-08-06T10:28:43.563Z",
+    "updatedAt": "2016-08-06T10:28:43.563Z",
+    "id": 16674
+  },
+  {
+    "name": "3Trường cao đẳng nghề Du Lịch",
+    "createdAt": "2016-08-06T10:28:43.563Z",
+    "updatedAt": "2016-08-06T10:28:43.563Z",
+    "id": 16675
+  },
+  {
+    "name": "4Trường cao đẳng nghề kinh tế kỹ thuật số 1 Nghệ An",
+    "createdAt": "2016-08-06T10:28:43.565Z",
+    "updatedAt": "2016-08-06T10:28:43.565Z",
+    "id": 16676
+  },
+  {
+    "name": "5Trường Cao đẳng nghề số 4",
+    "createdAt": "2016-08-06T10:28:43.566Z",
+    "updatedAt": "2016-08-06T10:28:43.566Z",
+    "id": 16677
+  },
+  {
+    "name": "6Trường Cao đẳng Nghề Việt Đức Hà Tĩnh",
+    "createdAt": "2016-08-06T10:28:43.567Z",
+    "updatedAt": "2016-08-06T10:28:43.567Z",
+    "id": 16678
+  },
+  {
+    "name": "7Trường Cao đẳng nghề Quảng Bình",
+    "createdAt": "2016-08-06T10:28:43.568Z",
+    "updatedAt": "2016-08-06T10:28:43.568Z",
+    "id": 16679
+  },
+  {
+    "name": "8Trường Cao đẳng Nghề Du lịch Huế",
+    "createdAt": "2016-08-06T10:28:43.569Z",
+    "updatedAt": "2016-08-06T10:28:43.569Z",
+    "id": 16680
+  },
+  {
+    "name": "9Trường Cao đẳng nghề Thừa Thiên",
+    "createdAt": "2016-08-06T10:28:43.571Z",
+    "updatedAt": "2016-08-06T10:28:43.571Z",
+    "id": 16681
+  },
+  {
+    "name": "10Trường Cao đẳng nghề Thương mại và Công nghiệp",
+    "createdAt": "2016-08-06T10:28:43.572Z",
+    "updatedAt": "2016-08-06T10:28:43.572Z",
+    "id": 16682
+  },
+  {
+    "name": "11Trường Cao đẳng nghề LICOGI",
+    "createdAt": "2016-08-06T10:28:43.573Z",
+    "updatedAt": "2016-08-06T10:28:43.573Z",
+    "id": 16683
+  },
+  {
+    "name": "12Trường Cao đẳng nghề Giao thông vận tải Đường thủy 1",
+    "createdAt": "2016-08-06T10:28:43.574Z",
+    "updatedAt": "2016-08-06T10:28:43.574Z",
+    "id": 16684
+  },
+  {
+    "name": "13Trường Cao đẳng nghề Duyên Hải",
+    "createdAt": "2016-08-06T10:28:43.575Z",
+    "updatedAt": "2016-08-06T10:28:43.575Z",
+    "id": 16685
+  },
+  {
+    "name": "14Trường Cao đẳng nghề Giao thông vận tải Trung ương II",
+    "createdAt": "2016-08-06T10:28:43.577Z",
+    "updatedAt": "2016-08-06T10:28:43.577Z",
+    "id": 16686
+  },
+  {
+    "name": "15Trường Cao đẳng nghề số 3",
+    "createdAt": "2016-08-06T10:28:43.578Z",
+    "updatedAt": "2016-08-06T10:28:43.578Z",
+    "id": 16687
+  },
+  {
+    "name": "16Trường Cao đẳng nghề Công nghiệp Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.580Z",
+    "updatedAt": "2016-08-06T10:28:43.580Z",
+    "id": 16688
+  },
+  {
+    "name": "17Trường Cao đẳng nghề Bách nghệ Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.581Z",
+    "updatedAt": "2016-08-06T10:28:43.581Z",
+    "id": 16689
+  },
+  {
+    "name": "18Trường Cao đẳng nghề Bắc Nam",
+    "createdAt": "2016-08-06T10:28:43.582Z",
+    "updatedAt": "2016-08-06T10:28:43.582Z",
+    "id": 16690
+  },
+  {
+    "name": "19Trường Cao đẳng nghề VMU",
+    "createdAt": "2016-08-06T10:28:43.584Z",
+    "updatedAt": "2016-08-06T10:28:43.584Z",
+    "id": 16691
+  },
+  {
+    "name": "1Trường Cao đẳng nghề Vĩnh Phúc",
+    "createdAt": "2016-08-06T10:28:43.585Z",
+    "updatedAt": "2016-08-06T10:28:43.585Z",
+    "id": 16692
+  },
+  {
+    "name": "20Trường Cao đẳng Nghề Du lịch và Dịch vụ Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.586Z",
+    "updatedAt": "2016-08-06T10:28:43.586Z",
+    "id": 16693
+  },
+  {
+    "name": "21Trường Cao đẳng nghề Công nghệ",
+    "createdAt": "2016-08-06T10:28:43.588Z",
+    "updatedAt": "2016-08-06T10:28:43.588Z",
+    "id": 16694
+  },
+  {
+    "name": "22Trường Cao đẳng nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.589Z",
+    "updatedAt": "2016-08-06T10:28:43.589Z",
+    "id": 16695
+  },
+  {
+    "name": "23Trường Cao đẳng nghề Lao Động",
+    "createdAt": "2016-08-06T10:28:43.590Z",
+    "updatedAt": "2016-08-06T10:28:43.590Z",
+    "id": 16696
+  },
+  {
+    "name": "24Trường Cao đẳng nghề Cơ điện và Thủy lợi",
+    "createdAt": "2016-08-06T10:28:43.591Z",
+    "updatedAt": "2016-08-06T10:28:43.591Z",
+    "id": 16697
+  },
+  {
+    "name": "25Trường Cao đẳng nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.592Z",
+    "updatedAt": "2016-08-06T10:28:43.592Z",
+    "id": 16698
+  },
+  {
+    "name": "26Trường Cao đẳng nghề Kỹ thuật",
+    "createdAt": "2016-08-06T10:28:43.593Z",
+    "updatedAt": "2016-08-06T10:28:43.593Z",
+    "id": 16699
+  },
+  {
+    "name": "27Trường Cao đẳng nghề Thái Bình",
+    "createdAt": "2016-08-06T10:28:43.595Z",
+    "updatedAt": "2016-08-06T10:28:43.595Z",
+    "id": 16700
+  },
+  {
+    "name": "28Trường Cao đẳng nghề số 19",
+    "createdAt": "2016-08-06T10:28:43.596Z",
+    "updatedAt": "2016-08-06T10:28:43.596Z",
+    "id": 16701
+  },
+  {
+    "name": "29Trường Cao đẳng nghề Công nghệ",
+    "createdAt": "2016-08-06T10:28:43.597Z",
+    "updatedAt": "2016-08-06T10:28:43.597Z",
+    "id": 16702
+  },
+  {
+    "name": "2Trường Cao đẳng nghề Cơ khí Nông nghiệp",
+    "createdAt": "2016-08-06T10:28:43.598Z",
+    "updatedAt": "2016-08-06T10:28:43.598Z",
+    "id": 16703
+  },
+  {
+    "name": "30Trường Cao đẳng nghề Hà Nam",
+    "createdAt": "2016-08-06T10:28:43.599Z",
+    "updatedAt": "2016-08-06T10:28:43.599Z",
+    "id": 16704
+  },
+  {
+    "name": "31Trường Cao đẳng nghề Nam Định",
+    "createdAt": "2016-08-06T10:28:43.601Z",
+    "updatedAt": "2016-08-06T10:28:43.601Z",
+    "id": 16705
+  },
+  {
+    "name": "32Trường Cao đẳng nghề Kinh tế Kỹ thuật VINATEX",
+    "createdAt": "2016-08-06T10:28:43.602Z",
+    "updatedAt": "2016-08-06T10:28:43.602Z",
+    "id": 16706
+  },
+  {
+    "name": "33Trường Cao đẳng nghề Số 20",
+    "createdAt": "2016-08-06T10:28:43.603Z",
+    "updatedAt": "2016-08-06T10:28:43.603Z",
+    "id": 16707
+  },
+  {
+    "name": "34Trường Cao đẳng nghề Cơ điện Xây dựng Việt Xô",
+    "createdAt": "2016-08-06T10:28:43.605Z",
+    "updatedAt": "2016-08-06T10:28:43.605Z",
+    "id": 16708
+  },
+  {
+    "name": "35Trường Cao đẳng nghề Cơ giới Ninh Bình",
+    "createdAt": "2016-08-06T10:28:43.606Z",
+    "updatedAt": "2016-08-06T10:28:43.606Z",
+    "id": 16709
+  },
+  {
+    "name": "36Trường Cao đẳng nghề LILAMA",
+    "createdAt": "2016-08-06T10:28:43.607Z",
+    "updatedAt": "2016-08-06T10:28:43.607Z",
+    "id": 16710
+  },
+  {
+    "name": "37Trường Cao đẳng nghề số 13",
+    "createdAt": "2016-08-06T10:28:43.609Z",
+    "updatedAt": "2016-08-06T10:28:43.609Z",
+    "id": 16711
+  },
+  {
+    "name": "38Trường Cao đẳng nghề tỉnh Hà Giang",
+    "createdAt": "2016-08-06T10:28:43.610Z",
+    "updatedAt": "2016-08-06T10:28:43.610Z",
+    "id": 16712
+  },
+  {
+    "name": "39Trường Cao đẳng nghề Kỹ thuật",
+    "createdAt": "2016-08-06T10:28:43.612Z",
+    "updatedAt": "2016-08-06T10:28:43.612Z",
+    "id": 16713
+  },
+  {
+    "name": "3Trường Cao đẳng nghề Việt Xô số 1",
+    "createdAt": "2016-08-06T10:28:43.614Z",
+    "updatedAt": "2016-08-06T10:28:43.614Z",
+    "id": 16714
+  },
+  {
+    "name": "40Trường Cao đẳng nghề Lào Cai",
+    "createdAt": "2016-08-06T10:28:43.615Z",
+    "updatedAt": "2016-08-06T10:28:43.615Z",
+    "id": 16715
+  },
+  {
+    "name": "41Trường Cao đẳng nghề Âu Lạc",
+    "createdAt": "2016-08-06T10:28:43.616Z",
+    "updatedAt": "2016-08-06T10:28:43.616Z",
+    "id": 16716
+  },
+  {
+    "name": "42Trường Cao đẳng nghề Yên Bái",
+    "createdAt": "2016-08-06T10:28:43.618Z",
+    "updatedAt": "2016-08-06T10:28:43.618Z",
+    "id": 16717
+  },
+  {
+    "name": "43Trường Cao đẳng nghề Cơ điện",
+    "createdAt": "2016-08-06T10:28:43.620Z",
+    "updatedAt": "2016-08-06T10:28:43.620Z",
+    "id": 16718
+  },
+  {
+    "name": "44Trường Cao đẳng nghề Công nghiệp Việt Bắc",
+    "createdAt": "2016-08-06T10:28:43.622Z",
+    "updatedAt": "2016-08-06T10:28:43.622Z",
+    "id": 16719
+  },
+  {
+    "name": "45Trường Cao đẳng nghề số 1",
+    "createdAt": "2016-08-06T10:28:43.623Z",
+    "updatedAt": "2016-08-06T10:28:43.623Z",
+    "id": 16720
+  },
+  {
+    "name": "46Trường Cao đẳng nghề Công thương Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.624Z",
+    "updatedAt": "2016-08-06T10:28:43.624Z",
+    "id": 16721
+  },
+  {
+    "name": "47Trường Cao đẳng nghề Công nghệ và Nông Lâm Đông Bắc",
+    "createdAt": "2016-08-06T10:28:43.626Z",
+    "updatedAt": "2016-08-06T10:28:43.626Z",
+    "id": 16722
+  },
+  {
+    "name": "48Trường Cao đẳng nghề Lạng Sơn",
+    "createdAt": "2016-08-06T10:28:43.627Z",
+    "updatedAt": "2016-08-06T10:28:43.627Z",
+    "id": 16723
+  },
+  {
+    "name": "49Trường Cao đẳng nghề Than",
+    "createdAt": "2016-08-06T10:28:43.629Z",
+    "updatedAt": "2016-08-06T10:28:43.629Z",
+    "id": 16724
+  },
+  {
+    "name": "4Trường Cao đẳng nghề Số 2",
+    "createdAt": "2016-08-06T10:28:43.630Z",
+    "updatedAt": "2016-08-06T10:28:43.630Z",
+    "id": 16725
+  },
+  {
+    "name": "50Trường Cao đẳng nghề Xây dựng",
+    "createdAt": "2016-08-06T10:28:43.631Z",
+    "updatedAt": "2016-08-06T10:28:43.631Z",
+    "id": 16726
+  },
+  {
+    "name": "51Trường Cao đẳng nghề Giao thông Cơ điện Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:43.633Z",
+    "updatedAt": "2016-08-06T10:28:43.633Z",
+    "id": 16727
+  },
+  {
+    "name": "53Trường Cao đẳng nghề Công nghệ Việt",
+    "createdAt": "2016-08-06T10:28:43.635Z",
+    "updatedAt": "2016-08-06T10:28:43.635Z",
+    "id": 16728
+  },
+  {
+    "name": "52Trường Cao đẳng nghề Bắc Giang",
+    "createdAt": "2016-08-06T10:28:43.636Z",
+    "updatedAt": "2016-08-06T10:28:43.636Z",
+    "id": 16729
+  },
+  {
+    "name": "54Trường Cao đẳng nghề Cơ điện Phú Thọ",
+    "createdAt": "2016-08-06T10:28:43.637Z",
+    "updatedAt": "2016-08-06T10:28:43.637Z",
+    "id": 16730
+  },
+  {
+    "name": "55Trường Cao đẳng nghề Công nghệ Giấy và Cơ điện",
+    "createdAt": "2016-08-06T10:28:43.639Z",
+    "updatedAt": "2016-08-06T10:28:43.639Z",
+    "id": 16731
+  },
+  {
+    "name": "56Trường Cao đẳng nghề Phú Thọ",
+    "createdAt": "2016-08-06T10:28:43.640Z",
+    "updatedAt": "2016-08-06T10:28:43.640Z",
+    "id": 16732
+  },
+  {
+    "name": "57Trường Cao đẳng nghề Công nghệ và Nông Lâm Phú Thọ",
+    "createdAt": "2016-08-06T10:28:43.642Z",
+    "updatedAt": "2016-08-06T10:28:43.642Z",
+    "id": 16733
+  },
+  {
+    "name": "58Trường Cao đẳng nghề Điện Biên",
+    "createdAt": "2016-08-06T10:28:43.644Z",
+    "updatedAt": "2016-08-06T10:28:43.644Z",
+    "id": 16734
+  },
+  {
+    "name": "59Trường Cao đẳng nghề tỉnh Sơn La",
+    "createdAt": "2016-08-06T10:28:43.645Z",
+    "updatedAt": "2016-08-06T10:28:43.645Z",
+    "id": 16735
+  },
+  {
+    "name": "5Trường Cao đẳng nghề Cơ điện và Xây Dựng Bắc Ninh",
+    "createdAt": "2016-08-06T10:28:43.647Z",
+    "updatedAt": "2016-08-06T10:28:43.647Z",
+    "id": 16736
+  },
+  {
+    "name": "61Trường Cao đẳng nghề Sông Đà",
+    "createdAt": "2016-08-06T10:28:43.649Z",
+    "updatedAt": "2016-08-06T10:28:43.649Z",
+    "id": 16737
+  },
+  {
+    "name": "62Trường Cao đẳng nghề Cơ Điện Tây Bắc",
+    "createdAt": "2016-08-06T10:28:43.651Z",
+    "updatedAt": "2016-08-06T10:28:43.651Z",
+    "id": 16738
+  },
+  {
+    "name": "63Trường Cao đẳng nghề Hòa Bình",
+    "createdAt": "2016-08-06T10:28:43.652Z",
+    "updatedAt": "2016-08-06T10:28:43.652Z",
+    "id": 16739
+  },
+  {
+    "name": "64Trường Cao đẳng nghề Công nghiệp Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.654Z",
+    "updatedAt": "2016-08-06T10:28:43.654Z",
+    "id": 16740
+  },
+  {
+    "name": "65Trường Cao đẳng nghề An Nhất Vinh",
+    "createdAt": "2016-08-06T10:28:43.655Z",
+    "updatedAt": "2016-08-06T10:28:43.655Z",
+    "id": 16741
+  },
+  {
+    "name": "66Trường Cao đẳng nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.657Z",
+    "updatedAt": "2016-08-06T10:28:43.657Z",
+    "id": 16742
+  },
+  {
+    "name": "6Trường Cao đẳng nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.658Z",
+    "updatedAt": "2016-08-06T10:28:43.658Z",
+    "id": 16743
+  },
+  {
+    "name": "7Trường Cao đẳng nghề Quản lý và Công nghệ",
+    "createdAt": "2016-08-06T10:28:43.660Z",
+    "updatedAt": "2016-08-06T10:28:43.660Z",
+    "id": 16744
+  },
+  {
+    "name": "8Trường Cao đẳng nghề Viglacera",
+    "createdAt": "2016-08-06T10:28:43.661Z",
+    "updatedAt": "2016-08-06T10:28:43.661Z",
+    "id": 16745
+  },
+  {
+    "name": "9Trường Cao đẳng nghề Hải Dương",
+    "createdAt": "2016-08-06T10:28:43.663Z",
+    "updatedAt": "2016-08-06T10:28:43.663Z",
+    "id": 16746
+  },
+  {
+    "name": "10Trường Trung cấp nghề Giao thông vận tải Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.665Z",
+    "updatedAt": "2016-08-06T10:28:43.665Z",
+    "id": 16747
+  },
+  {
+    "name": "11Trường Trung cấp nghề Công nghiệp tàu thủy Bạch Đằng",
+    "createdAt": "2016-08-06T10:28:43.667Z",
+    "updatedAt": "2016-08-06T10:28:43.667Z",
+    "id": 16748
+  },
+  {
+    "name": "12Trường Trung cấp nghề Kỹ thuật Xi măng",
+    "createdAt": "2016-08-06T10:28:43.668Z",
+    "updatedAt": "2016-08-06T10:28:43.668Z",
+    "id": 16749
+  },
+  {
+    "name": "13Trường Trung cấp nghề Xây dựng Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.670Z",
+    "updatedAt": "2016-08-06T10:28:43.670Z",
+    "id": 16750
+  },
+  {
+    "name": "14Trường Trung cấp nghề Công nghiệp tàu thủy Phà Rừng",
+    "createdAt": "2016-08-06T10:28:43.672Z",
+    "updatedAt": "2016-08-06T10:28:43.672Z",
+    "id": 16751
+  },
+  {
+    "name": "15Trường Trung cấp nghề An Dương",
+    "createdAt": "2016-08-06T10:28:43.674Z",
+    "updatedAt": "2016-08-06T10:28:43.674Z",
+    "id": 16752
+  },
+  {
+    "name": "16Trường Trung cấp nghề Công nghiệp",
+    "createdAt": "2016-08-06T10:28:43.675Z",
+    "updatedAt": "2016-08-06T10:28:43.675Z",
+    "id": 16753
+  },
+  {
+    "name": "17Trường Trung cấp nghề Thủy Nguyên",
+    "createdAt": "2016-08-06T10:28:43.677Z",
+    "updatedAt": "2016-08-06T10:28:43.677Z",
+    "id": 16754
+  },
+  {
+    "name": "18Trường Trung cấp nghề Nghiệp vụ cảng",
+    "createdAt": "2016-08-06T10:28:43.679Z",
+    "updatedAt": "2016-08-06T10:28:43.679Z",
+    "id": 16755
+  },
+  {
+    "name": "19Trường Trung cấp nghề Phát triển nông thôn Thành Phát",
+    "createdAt": "2016-08-06T10:28:43.681Z",
+    "updatedAt": "2016-08-06T10:28:43.681Z",
+    "id": 16756
+  },
+  {
+    "name": "1Trường Trung cấp nghề số 11",
+    "createdAt": "2016-08-06T10:28:43.683Z",
+    "updatedAt": "2016-08-06T10:28:43.683Z",
+    "id": 16757
+  },
+  {
+    "name": "20Trường Trung cấp nghề Giao thông vận tải Hưng Yên",
+    "createdAt": "2016-08-06T10:28:43.685Z",
+    "updatedAt": "2016-08-06T10:28:43.685Z",
+    "id": 16758
+  },
+  {
+    "name": "21Trường Trung cấp nghề Hưng Yên",
+    "createdAt": "2016-08-06T10:28:43.686Z",
+    "updatedAt": "2016-08-06T10:28:43.686Z",
+    "id": 16759
+  },
+  {
+    "name": "22Trường Trung cấp nghề Thái Bình",
+    "createdAt": "2016-08-06T10:28:43.689Z",
+    "updatedAt": "2016-08-06T10:28:43.689Z",
+    "id": 16760
+  },
+  {
+    "name": "23Trường Trung cấp nghề cho người khuyết tật Thái Bình",
+    "createdAt": "2016-08-06T10:28:43.692Z",
+    "updatedAt": "2016-08-06T10:28:43.692Z",
+    "id": 16761
+  },
+  {
+    "name": "24Trường Trung cấp nghề Tư thục Việt Đức Thái Bình",
+    "createdAt": "2016-08-06T10:28:43.694Z",
+    "updatedAt": "2016-08-06T10:28:43.694Z",
+    "id": 16762
+  },
+  {
+    "name": "25Trường Trung cấp nghề Giao thông vận tải Thái Bình",
+    "createdAt": "2016-08-06T10:28:43.696Z",
+    "updatedAt": "2016-08-06T10:28:43.696Z",
+    "id": 16763
+  },
+  {
+    "name": "26Trường Trung cấp nghề Thủ công mỹ nghệ Kiến Xương",
+    "createdAt": "2016-08-06T10:28:43.699Z",
+    "updatedAt": "2016-08-06T10:28:43.699Z",
+    "id": 16764
+  },
+  {
+    "name": "27Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.702Z",
+    "updatedAt": "2016-08-06T10:28:43.702Z",
+    "id": 16765
+  },
+  {
+    "name": "28Trường TCN Giao thông - Xây dựng Việt Úc",
+    "createdAt": "2016-08-06T10:28:43.704Z",
+    "updatedAt": "2016-08-06T10:28:43.704Z",
+    "id": 16766
+  },
+  {
+    "name": "29Trường Trung cấp nghề Công nghiệp Hà Nam",
+    "createdAt": "2016-08-06T10:28:43.705Z",
+    "updatedAt": "2016-08-06T10:28:43.705Z",
+    "id": 16767
+  },
+  {
+    "name": "2Trường Trung cấp nghề Kỹ thuật Xây dựng và Nghiệp vụ",
+    "createdAt": "2016-08-06T10:28:43.708Z",
+    "updatedAt": "2016-08-06T10:28:43.708Z",
+    "id": 16768
+  },
+  {
+    "name": "30Trường Trung cấp nghề số 8",
+    "createdAt": "2016-08-06T10:28:43.709Z",
+    "updatedAt": "2016-08-06T10:28:43.709Z",
+    "id": 16769
+  },
+  {
+    "name": "31Trường Trung cấp nghề Kỹ thuật Công nghiệp Nam Định",
+    "createdAt": "2016-08-06T10:28:43.711Z",
+    "updatedAt": "2016-08-06T10:28:43.711Z",
+    "id": 16770
+  },
+  {
+    "name": "32Trường Trung cấp nghề Thủ công mỹ nghệ truyền thống Nam Định",
+    "createdAt": "2016-08-06T10:28:43.713Z",
+    "updatedAt": "2016-08-06T10:28:43.713Z",
+    "id": 16771
+  },
+  {
+    "name": "33Trường Trung cấp nghề Giao thông vận tải Nam Định",
+    "createdAt": "2016-08-06T10:28:43.716Z",
+    "updatedAt": "2016-08-06T10:28:43.716Z",
+    "id": 16772
+  },
+  {
+    "name": "34Trường Trung cấp nghề Đại Lâm",
+    "createdAt": "2016-08-06T10:28:43.718Z",
+    "updatedAt": "2016-08-06T10:28:43.718Z",
+    "id": 16773
+  },
+  {
+    "name": "35Trường Trung cấp nghề Thương mại",
+    "createdAt": "2016-08-06T10:28:43.720Z",
+    "updatedAt": "2016-08-06T10:28:43.720Z",
+    "id": 16774
+  },
+  {
+    "name": "36Trường Trung cấp nghề số 14",
+    "createdAt": "2016-08-06T10:28:43.723Z",
+    "updatedAt": "2016-08-06T10:28:43.723Z",
+    "id": 16775
+  },
+  {
+    "name": "37Trường Trung cấp nghề Thành Nam",
+    "createdAt": "2016-08-06T10:28:43.725Z",
+    "updatedAt": "2016-08-06T10:28:43.725Z",
+    "id": 16776
+  },
+  {
+    "name": "38Trường Trung cấp nghề Nho Quan",
+    "createdAt": "2016-08-06T10:28:43.727Z",
+    "updatedAt": "2016-08-06T10:28:43.727Z",
+    "id": 16777
+  },
+  {
+    "name": "39Trường Trung cấp nghề Tư thục Mỹ thuật cơ khí Thanh Bình",
+    "createdAt": "2016-08-06T10:28:43.729Z",
+    "updatedAt": "2016-08-06T10:28:43.729Z",
+    "id": 16778
+  },
+  {
+    "name": "3Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.731Z",
+    "updatedAt": "2016-08-06T10:28:43.731Z",
+    "id": 16779
+  },
+  {
+    "name": "40Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.735Z",
+    "updatedAt": "2016-08-06T10:28:43.735Z",
+    "id": 16780
+  },
+  {
+    "name": "41Trường Trung cấp nghề Bắc Quang",
+    "createdAt": "2016-08-06T10:28:43.738Z",
+    "updatedAt": "2016-08-06T10:28:43.738Z",
+    "id": 16781
+  },
+  {
+    "name": "42Trường Trung cấp nghề tỉnh Cao Bằng",
+    "createdAt": "2016-08-06T10:28:43.741Z",
+    "updatedAt": "2016-08-06T10:28:43.741Z",
+    "id": 16782
+  },
+  {
+    "name": "43Trường Trung cấp nghề Bắc Kạn",
+    "createdAt": "2016-08-06T10:28:43.744Z",
+    "updatedAt": "2016-08-06T10:28:43.744Z",
+    "id": 16783
+  },
+  {
+    "name": "44Trường Trung cấp nghề Tiến bộ Quốc tế",
+    "createdAt": "2016-08-06T10:28:43.748Z",
+    "updatedAt": "2016-08-06T10:28:43.748Z",
+    "id": 16784
+  },
+  {
+    "name": "45Trường Trung cấp nghề Công nghệ Tuyên Quang",
+    "createdAt": "2016-08-06T10:28:43.752Z",
+    "updatedAt": "2016-08-06T10:28:43.752Z",
+    "id": 16785
+  },
+  {
+    "name": "46Trường Trung cấp nghề Công ty Apatit Lào Cai",
+    "createdAt": "2016-08-06T10:28:43.756Z",
+    "updatedAt": "2016-08-06T10:28:43.756Z",
+    "id": 16786
+  },
+  {
+    "name": "47Trường Trung cấp nghề Nghĩa Lộ",
+    "createdAt": "2016-08-06T10:28:43.760Z",
+    "updatedAt": "2016-08-06T10:28:43.760Z",
+    "id": 16787
+  },
+  {
+    "name": "48Trường Trung cấp Nghề Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:43.763Z",
+    "updatedAt": "2016-08-06T10:28:43.763Z",
+    "id": 16788
+  },
+  {
+    "name": "49Trường Trung cấp nghề Nam Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:43.766Z",
+    "updatedAt": "2016-08-06T10:28:43.766Z",
+    "id": 16789
+  },
+  {
+    "name": "4Trường trung cấp nghề Thuận Thành",
+    "createdAt": "2016-08-06T10:28:43.769Z",
+    "updatedAt": "2016-08-06T10:28:43.769Z",
+    "id": 16790
+  },
+  {
+    "name": "50Trường Trung cấp nghề Thái Hà",
+    "createdAt": "2016-08-06T10:28:43.774Z",
+    "updatedAt": "2016-08-06T10:28:43.774Z",
+    "id": 16791
+  },
+  {
+    "name": "51Trường TCN Dân tộc nội trú Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:43.779Z",
+    "updatedAt": "2016-08-06T10:28:43.779Z",
+    "id": 16792
+  },
+  {
+    "name": "52Trường Trung cấp nghề Xây dựng và Công nghiệp Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:43.784Z",
+    "updatedAt": "2016-08-06T10:28:43.784Z",
+    "id": 16793
+  },
+  {
+    "name": "53Trường Trung cấp nghề Giao thông cơ điện Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:43.788Z",
+    "updatedAt": "2016-08-06T10:28:43.788Z",
+    "id": 16794
+  },
+  {
+    "name": "54Trường Trung cấp nghề Công nghệ Hạ Long",
+    "createdAt": "2016-08-06T10:28:43.791Z",
+    "updatedAt": "2016-08-06T10:28:43.791Z",
+    "id": 16795
+  },
+  {
+    "name": "55Trường Trung cấp nghề số 12",
+    "createdAt": "2016-08-06T10:28:43.793Z",
+    "updatedAt": "2016-08-06T10:28:43.793Z",
+    "id": 16796
+  },
+  {
+    "name": "56Trường Trung cấp nghề Giao thông vận tải Bắc Giang",
+    "createdAt": "2016-08-06T10:28:43.798Z",
+    "updatedAt": "2016-08-06T10:28:43.798Z",
+    "id": 16797
+  },
+  {
+    "name": "57Trường Trung cấp nghề Miền núi Yên Thế",
+    "createdAt": "2016-08-06T10:28:43.801Z",
+    "updatedAt": "2016-08-06T10:28:43.801Z",
+    "id": 16798
+  },
+  {
+    "name": "58Trường Trung cấp nghề Số 1",
+    "createdAt": "2016-08-06T10:28:43.805Z",
+    "updatedAt": "2016-08-06T10:28:43.805Z",
+    "id": 16799
+  },
+  {
+    "name": "59Trường Trung cấp nghề Thủ công mỹ nghệ 19",
+    "createdAt": "2016-08-06T10:28:43.808Z",
+    "updatedAt": "2016-08-06T10:28:43.808Z",
+    "id": 16800
+  },
+  {
+    "name": "5Trường Trung cấp nghề Kinh tế kỹ thuật và thủ công mỹ nghệ truyền thống Thuận Thành",
+    "createdAt": "2016-08-06T10:28:43.812Z",
+    "updatedAt": "2016-08-06T10:28:43.812Z",
+    "id": 16801
+  },
+  {
+    "name": "60Trường Trung cấp nghề Xương Giang",
+    "createdAt": "2016-08-06T10:28:43.815Z",
+    "updatedAt": "2016-08-06T10:28:43.815Z",
+    "id": 16802
+  },
+  {
+    "name": "61Trường Trung cấp nghề Herman Gmerner Việt Trì",
+    "createdAt": "2016-08-06T10:28:43.818Z",
+    "updatedAt": "2016-08-06T10:28:43.818Z",
+    "id": 16803
+  },
+  {
+    "name": "62Trường Trung cấp nghề Công nghệ và Vận tải Phú Thọ",
+    "createdAt": "2016-08-06T10:28:43.821Z",
+    "updatedAt": "2016-08-06T10:28:43.821Z",
+    "id": 16804
+  },
+  {
+    "name": "63Trường Trung cấp nghề tỉnh Lai Châu",
+    "createdAt": "2016-08-06T10:28:43.824Z",
+    "updatedAt": "2016-08-06T10:28:43.824Z",
+    "id": 16805
+  },
+  {
+    "name": "64Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:43.826Z",
+    "updatedAt": "2016-08-06T10:28:43.826Z",
+    "id": 16806
+  },
+  {
+    "name": "65Trường Trung cấp nghề miền núi Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.830Z",
+    "updatedAt": "2016-08-06T10:28:43.830Z",
+    "id": 16807
+  },
+  {
+    "name": "66Trường Trung cấp nghề Kỹ nghệ Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.833Z",
+    "updatedAt": "2016-08-06T10:28:43.833Z",
+    "id": 16808
+  },
+  {
+    "name": "67Trường Trung cấp nghề Thương mại",
+    "createdAt": "2016-08-06T10:28:43.837Z",
+    "updatedAt": "2016-08-06T10:28:43.837Z",
+    "id": 16809
+  },
+  {
+    "name": "68Trường Trung cấp nghề Phát thanh",
+    "createdAt": "2016-08-06T10:28:43.840Z",
+    "updatedAt": "2016-08-06T10:28:43.840Z",
+    "id": 16810
+  },
+  {
+    "name": "69Trường Trung cấp nghề Giao thông vận tải Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.844Z",
+    "updatedAt": "2016-08-06T10:28:43.844Z",
+    "id": 16811
+  },
+  {
+    "name": "6Trường Trung cấp nghề Cơ giới đường bộ",
+    "createdAt": "2016-08-06T10:28:43.848Z",
+    "updatedAt": "2016-08-06T10:28:43.848Z",
+    "id": 16812
+  },
+  {
+    "name": "70Trường Trung cấp nghề Xây dựng Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.851Z",
+    "updatedAt": "2016-08-06T10:28:43.851Z",
+    "id": 16813
+  },
+  {
+    "name": "71Trường Trung cấp nghề Nông nghiệp và phát triền nông thôn",
+    "createdAt": "2016-08-06T10:28:43.854Z",
+    "updatedAt": "2016-08-06T10:28:43.854Z",
+    "id": 16814
+  },
+  {
+    "name": "72Trường Trung cấp nghề Bỉm Sơn",
+    "createdAt": "2016-08-06T10:28:43.858Z",
+    "updatedAt": "2016-08-06T10:28:43.858Z",
+    "id": 16815
+  },
+  {
+    "name": "73Trường Trung cấp nghề Nghi Sơn",
+    "createdAt": "2016-08-06T10:28:43.861Z",
+    "updatedAt": "2016-08-06T10:28:43.861Z",
+    "id": 16816
+  },
+  {
+    "name": "74Trường Trung cấp nghề VINASHIN 9",
+    "createdAt": "2016-08-06T10:28:43.865Z",
+    "updatedAt": "2016-08-06T10:28:43.865Z",
+    "id": 16817
+  },
+  {
+    "name": "75Trường Trung cấp nghề Tư thục Việt Trung",
+    "createdAt": "2016-08-06T10:28:43.868Z",
+    "updatedAt": "2016-08-06T10:28:43.868Z",
+    "id": 16818
+  },
+  {
+    "name": "76Trường Trung cấp nghề Thanh thiếu niên đặc biệt khó khăn",
+    "createdAt": "2016-08-06T10:28:43.872Z",
+    "updatedAt": "2016-08-06T10:28:43.872Z",
+    "id": 16819
+  },
+  {
+    "name": "77Trường Trung cấp nghề Hưng Đô",
+    "createdAt": "2016-08-06T10:28:43.875Z",
+    "updatedAt": "2016-08-06T10:28:43.875Z",
+    "id": 16820
+  },
+  {
+    "name": "78Trường Trung cấp nghề Nga Sơn",
+    "createdAt": "2016-08-06T10:28:43.879Z",
+    "updatedAt": "2016-08-06T10:28:43.879Z",
+    "id": 16821
+  },
+  {
+    "name": "79Trường Trung cấp nghề Quảng Xương",
+    "createdAt": "2016-08-06T10:28:43.883Z",
+    "updatedAt": "2016-08-06T10:28:43.883Z",
+    "id": 16822
+  },
+  {
+    "name": "7Trường Trung cấp nghề Việt Nam",
+    "createdAt": "2016-08-06T10:28:43.886Z",
+    "updatedAt": "2016-08-06T10:28:43.886Z",
+    "id": 16823
+  },
+  {
+    "name": "80Trường Trung cấp nghề Số 1 thành phố Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:43.890Z",
+    "updatedAt": "2016-08-06T10:28:43.890Z",
+    "id": 16824
+  },
+  {
+    "name": "81Trường Trung cấp nghề Thạch Thành",
+    "createdAt": "2016-08-06T10:28:43.894Z",
+    "updatedAt": "2016-08-06T10:28:43.894Z",
+    "id": 16825
+  },
+  {
+    "name": "8Trường Trung cấp nghề CNT",
+    "createdAt": "2016-08-06T10:28:43.898Z",
+    "updatedAt": "2016-08-06T10:28:43.898Z",
+    "id": 16826
+  },
+  {
+    "name": "9Trường Trung cấp nghề Thủy sản Hải Phòng",
+    "createdAt": "2016-08-06T10:28:43.902Z",
+    "updatedAt": "2016-08-06T10:28:43.902Z",
+    "id": 16827
+  },
+  {
+    "name": "1 Truong Cao Dang Cong Dong Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.906Z",
+    "updatedAt": "2016-08-06T10:28:43.906Z",
+    "id": 16828
+  },
+  {
+    "name": "10 Truong Cao Dang Kinh Te Ky Thuat Thuong Mai",
+    "createdAt": "2016-08-06T10:28:43.910Z",
+    "updatedAt": "2016-08-06T10:28:43.910Z",
+    "id": 16829
+  },
+  {
+    "name": "11 Truong Cao Dang Kinh Te Ky Thuat Trung Uong",
+    "createdAt": "2016-08-06T10:28:43.914Z",
+    "updatedAt": "2016-08-06T10:28:43.914Z",
+    "id": 16830
+  },
+  {
+    "name": "12 Truong Cao Dang Mua Viet Nam",
+    "createdAt": "2016-08-06T10:28:43.918Z",
+    "updatedAt": "2016-08-06T10:28:43.918Z",
+    "id": 16831
+  },
+  {
+    "name": "13 Truong Cao Dang Nghe Thuat Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.922Z",
+    "updatedAt": "2016-08-06T10:28:43.922Z",
+    "id": 16832
+  },
+  {
+    "name": "14 Truong Cao Dang Nong Nghiep va Phat Trien Nong Thon Bắc Bộ",
+    "createdAt": "2016-08-06T10:28:43.928Z",
+    "updatedAt": "2016-08-06T10:28:43.928Z",
+    "id": 16833
+  },
+  {
+    "name": "15 Truong Cao Dang Su Pham Trung Uong",
+    "createdAt": "2016-08-06T10:28:43.932Z",
+    "updatedAt": "2016-08-06T10:28:43.932Z",
+    "id": 16834
+  },
+  {
+    "name": "16 Truong Cao Dang Su Pham Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.936Z",
+    "updatedAt": "2016-08-06T10:28:43.936Z",
+    "id": 16835
+  },
+  {
+    "name": "17 Truong Cao Dang Su Pham Ha Tay",
+    "createdAt": "2016-08-06T10:28:43.940Z",
+    "updatedAt": "2016-08-06T10:28:43.940Z",
+    "id": 16836
+  },
+  {
+    "name": "18 Truong Cao Dang Thuong Mai va Du Lich Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.951Z",
+    "updatedAt": "2016-08-06T10:28:43.951Z",
+    "id": 16837
+  },
+  {
+    "name": "19 Truong Cao Dang Truyen Hinh",
+    "createdAt": "2016-08-06T10:28:43.953Z",
+    "updatedAt": "2016-08-06T10:28:43.953Z",
+    "id": 16838
+  },
+  {
+    "name": "2 Truong Cao Dang Cong Dong Ha Tay",
+    "createdAt": "2016-08-06T10:28:43.955Z",
+    "updatedAt": "2016-08-06T10:28:43.955Z",
+    "id": 16839
+  },
+  {
+    "name": "20 Truong Cao Dang Xay Dung Cong Trinh Do Thi",
+    "createdAt": "2016-08-06T10:28:43.958Z",
+    "updatedAt": "2016-08-06T10:28:43.958Z",
+    "id": 16840
+  },
+  {
+    "name": "21 Truong Cao Dang Xay Dung So 1",
+    "createdAt": "2016-08-06T10:28:43.962Z",
+    "updatedAt": "2016-08-06T10:28:43.962Z",
+    "id": 16841
+  },
+  {
+    "name": "22 Truong Cao Dang Y Te Bach Mai",
+    "createdAt": "2016-08-06T10:28:43.964Z",
+    "updatedAt": "2016-08-06T10:28:43.964Z",
+    "id": 16842
+  },
+  {
+    "name": "23 Truong Cao Dang Y Te Ha Dong",
+    "createdAt": "2016-08-06T10:28:43.967Z",
+    "updatedAt": "2016-08-06T10:28:43.967Z",
+    "id": 16843
+  },
+  {
+    "name": "24 Truong Cao Dang Y Te Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.969Z",
+    "updatedAt": "2016-08-06T10:28:43.969Z",
+    "id": 16844
+  },
+  {
+    "name": "25 Truong Cao Dang Kinh Te Ky Thuat Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.972Z",
+    "updatedAt": "2016-08-06T10:28:43.972Z",
+    "id": 16845
+  },
+  {
+    "name": "26 Truong Cao Dang Cong Nghe Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.975Z",
+    "updatedAt": "2016-08-06T10:28:43.975Z",
+    "id": 16846
+  },
+  {
+    "name": "27 Truong Cao Dang Cong Nghe va Thuong Mai Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.979Z",
+    "updatedAt": "2016-08-06T10:28:43.979Z",
+    "id": 16847
+  },
+  {
+    "name": "28 Truong Cao Dang Dai Viet",
+    "createdAt": "2016-08-06T10:28:43.984Z",
+    "updatedAt": "2016-08-06T10:28:43.984Z",
+    "id": 16848
+  },
+  {
+    "name": "4 Truong Cao Dang Cong Nghe va Moi Truong Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.987Z",
+    "updatedAt": "2016-08-06T10:28:43.987Z",
+    "id": 16849
+  },
+  {
+    "name": "5 Truong Cao Dang Cong Nghiep Det May Thoi Trang Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.990Z",
+    "updatedAt": "2016-08-06T10:28:43.990Z",
+    "id": 16850
+  },
+  {
+    "name": "3 Truong Cao Dang Cong Nghe va Kinh Te Ha Noi",
+    "createdAt": "2016-08-06T10:28:43.993Z",
+    "updatedAt": "2016-08-06T10:28:43.993Z",
+    "id": 16851
+  },
+  {
+    "name": "6 Truong Cao Dang Cong Nghiep In",
+    "createdAt": "2016-08-06T10:28:43.995Z",
+    "updatedAt": "2016-08-06T10:28:43.995Z",
+    "id": 16852
+  },
+  {
+    "name": "7 Truong Cao Dang Du Lich Ha noi",
+    "createdAt": "2016-08-06T10:28:43.999Z",
+    "updatedAt": "2016-08-06T10:28:43.999Z",
+    "id": 16853
+  },
+  {
+    "name": "8 Truong Cao Dang Dien Tu - Dien Lanh Ha Noi",
+    "createdAt": "2016-08-06T10:28:44.002Z",
+    "updatedAt": "2016-08-06T10:28:44.002Z",
+    "id": 16854
+  },
+  {
+    "name": "9 Cao Dang Kinh Te Cong Nghiep Ha Noi",
+    "createdAt": "2016-08-06T10:28:44.004Z",
+    "updatedAt": "2016-08-06T10:28:44.004Z",
+    "id": 16855
+  },
+  {
+    "name": "~$Truong Cao Dang Cong Dong Ha Noi",
+    "createdAt": "2016-08-06T10:28:44.007Z",
+    "updatedAt": "2016-08-06T10:28:44.007Z",
+    "id": 16856
+  },
+  {
+    "name": "10TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP VÀ XÂY DỰNG",
+    "createdAt": "2016-08-06T10:28:44.009Z",
+    "updatedAt": "2016-08-06T10:28:44.009Z",
+    "id": 16857
+  },
+  {
+    "name": "11TRƯỜNG CAO ĐẲNG CƠ KHÍ LUYỆN KIM",
+    "createdAt": "2016-08-06T10:28:44.012Z",
+    "updatedAt": "2016-08-06T10:28:44.012Z",
+    "id": 16858
+  },
+  {
+    "name": "12TRƯỜNG CAO ĐẲNG CỘNG ĐỒNG BẮC KẠN",
+    "createdAt": "2016-08-06T10:28:44.015Z",
+    "updatedAt": "2016-08-06T10:28:44.015Z",
+    "id": 16859
+  },
+  {
+    "name": "13TRƯỜNG CAO ĐẲNG CỘNG ĐỒNG HẢI PHÒNG",
+    "createdAt": "2016-08-06T10:28:44.017Z",
+    "updatedAt": "2016-08-06T10:28:44.017Z",
+    "id": 16860
+  },
+  {
+    "name": "14TRƯỜNG CAO ĐẲNG CỘNG ĐỒNG LAI CHÂU",
+    "createdAt": "2016-08-06T10:28:44.020Z",
+    "updatedAt": "2016-08-06T10:28:44.020Z",
+    "id": 16861
+  },
+  {
+    "name": "15TRƯỜNG CAO ĐẲNG DƯỢC TRUNG ƯƠNG",
+    "createdAt": "2016-08-06T10:28:44.022Z",
+    "updatedAt": "2016-08-06T10:28:44.022Z",
+    "id": 16862
+  },
+  {
+    "name": "16TRƯỜNG CAO ĐẲNG HÀNG HẢI I",
+    "createdAt": "2016-08-06T10:28:44.025Z",
+    "updatedAt": "2016-08-06T10:28:44.025Z",
+    "id": 16863
+  },
+  {
+    "name": "17TRƯỜNG CAO ĐẲNG KINH TẾ KỸ THUẬT CÔNG THƯƠNG",
+    "createdAt": "2016-08-06T10:28:44.028Z",
+    "updatedAt": "2016-08-06T10:28:44.028Z",
+    "id": 16864
+  },
+  {
+    "name": "18TRƯỜNG CAO ĐẲNG KINH TẾ KỸ THUẬT ĐIỆN BIÊN",
+    "createdAt": "2016-08-06T10:28:44.031Z",
+    "updatedAt": "2016-08-06T10:28:44.031Z",
+    "id": 16865
+  },
+  {
+    "name": "19TRƯỜNG CAO ĐẲNG KINH TẾ KỸ THUẬT PHÚ THỌ",
+    "createdAt": "2016-08-06T10:28:44.034Z",
+    "updatedAt": "2016-08-06T10:28:44.034Z",
+    "id": 16866
+  },
+  {
+    "name": "1Trường Cao đẳng Công nghệ Viettronics",
+    "createdAt": "2016-08-06T10:28:44.036Z",
+    "updatedAt": "2016-08-06T10:28:44.036Z",
+    "id": 16867
+  },
+  {
+    "name": "20TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.039Z",
+    "updatedAt": "2016-08-06T10:28:44.039Z",
+    "id": 16868
+  },
+  {
+    "name": "21TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.042Z",
+    "updatedAt": "2016-08-06T10:28:44.042Z",
+    "id": 16869
+  },
+  {
+    "name": "22TRƯỜNG CAO ĐẲNG KINH TẾ TÀI CHÍNH THÁI NGUYÊN",
+    "createdAt": "2016-08-06T10:28:44.045Z",
+    "updatedAt": "2016-08-06T10:28:44.045Z",
+    "id": 16870
+  },
+  {
+    "name": "23Trường Cao đẳng Kinh tế và Công nghệ Thực phẩm",
+    "createdAt": "2016-08-06T10:28:44.048Z",
+    "updatedAt": "2016-08-06T10:28:44.048Z",
+    "id": 16871
+  },
+  {
+    "name": "24TRƯỜNG CAO ĐẲNG DU LỊCH VÀ THƯƠNG MẠI",
+    "createdAt": "2016-08-06T10:28:44.051Z",
+    "updatedAt": "2016-08-06T10:28:44.051Z",
+    "id": 16872
+  },
+  {
+    "name": "25Trường Cao đẳng Kỹ thuật công nghiệp",
+    "createdAt": "2016-08-06T10:28:44.053Z",
+    "updatedAt": "2016-08-06T10:28:44.053Z",
+    "id": 16873
+  },
+  {
+    "name": "26Trường Cao đẳng Nông Lâm Đông Bắc",
+    "createdAt": "2016-08-06T10:28:44.057Z",
+    "updatedAt": "2016-08-06T10:28:44.057Z",
+    "id": 16874
+  },
+  {
+    "name": "27Trường Cao đẳng Nông Lâm Sơn La",
+    "createdAt": "2016-08-06T10:28:44.060Z",
+    "updatedAt": "2016-08-06T10:28:44.060Z",
+    "id": 16875
+  },
+  {
+    "name": "28Trường Cao đẳng Nông Lâm Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:44.063Z",
+    "updatedAt": "2016-08-06T10:28:44.063Z",
+    "id": 16876
+  },
+  {
+    "name": "29TRƯỜNG CAO ĐẲNG PHÁT THANH TRUYỀN HÌNH I",
+    "createdAt": "2016-08-06T10:28:44.066Z",
+    "updatedAt": "2016-08-06T10:28:44.066Z",
+    "id": 16877
+  },
+  {
+    "name": "2Trường Cao đẳng Công nghệ và Kinh tế Công nghiệp",
+    "createdAt": "2016-08-06T10:28:44.068Z",
+    "updatedAt": "2016-08-06T10:28:44.068Z",
+    "id": 16878
+  },
+  {
+    "name": "30Trường Cao đẳng Tài nguyên và Môi trường Miền Trung",
+    "createdAt": "2016-08-06T10:28:44.071Z",
+    "updatedAt": "2016-08-06T10:28:44.071Z",
+    "id": 16879
+  },
+  {
+    "name": "31Trường Cao đẳng Thể dục Thể thao Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:44.074Z",
+    "updatedAt": "2016-08-06T10:28:44.074Z",
+    "id": 16880
+  },
+  {
+    "name": "32Trường Cao đẳng Thống kê",
+    "createdAt": "2016-08-06T10:28:44.077Z",
+    "updatedAt": "2016-08-06T10:28:44.077Z",
+    "id": 16881
+  },
+  {
+    "name": "33TRƯỜNG CAO ĐẲNG THỦY LỢI BẮC BỘ",
+    "createdAt": "2016-08-06T10:28:44.080Z",
+    "updatedAt": "2016-08-06T10:28:44.080Z",
+    "id": 16882
+  },
+  {
+    "name": "34TRƯỜNG CAO ĐẲNG THỦY SẢN",
+    "createdAt": "2016-08-06T10:28:44.085Z",
+    "updatedAt": "2016-08-06T10:28:44.085Z",
+    "id": 16883
+  },
+  {
+    "name": "35Trường Cao đẳng Thương mại và Du lịch",
+    "createdAt": "2016-08-06T10:28:44.089Z",
+    "updatedAt": "2016-08-06T10:28:44.089Z",
+    "id": 16884
+  },
+  {
+    "name": "36Trường Cao đẳng Xây dựng Nam Định",
+    "createdAt": "2016-08-06T10:28:44.092Z",
+    "updatedAt": "2016-08-06T10:28:44.092Z",
+    "id": 16885
+  },
+  {
+    "name": "37Trường Cao đẳng Sư phạm Bắc Ninh",
+    "createdAt": "2016-08-06T10:28:44.095Z",
+    "updatedAt": "2016-08-06T10:28:44.095Z",
+    "id": 16886
+  },
+  {
+    "name": "38Trường Cao đẳng Sư phạm Cao Bằng",
+    "createdAt": "2016-08-06T10:28:44.099Z",
+    "updatedAt": "2016-08-06T10:28:44.099Z",
+    "id": 16887
+  },
+  {
+    "name": "39TRƯỜNG CAO ĐẲNG SƯ PHẠM ĐIỆN BIÊN",
+    "createdAt": "2016-08-06T10:28:44.102Z",
+    "updatedAt": "2016-08-06T10:28:44.102Z",
+    "id": 16888
+  },
+  {
+    "name": "3Trường Cao đẳng Công nghiệp Cẩm Phả",
+    "createdAt": "2016-08-06T10:28:44.105Z",
+    "updatedAt": "2016-08-06T10:28:44.105Z",
+    "id": 16889
+  },
+  {
+    "name": "40TRƯỜNG CAO ĐẲNG SƯ PHẠM HÀ GIANG",
+    "createdAt": "2016-08-06T10:28:44.108Z",
+    "updatedAt": "2016-08-06T10:28:44.108Z",
+    "id": 16890
+  },
+  {
+    "name": "41TRƯỜNG CAO ĐẲNG SƯ PHẠM HÀ NAM",
+    "createdAt": "2016-08-06T10:28:44.110Z",
+    "updatedAt": "2016-08-06T10:28:44.110Z",
+    "id": 16891
+  },
+  {
+    "name": "42TRƯỜNG CAO ĐẲNG HẢI DƯƠNG",
+    "createdAt": "2016-08-06T10:28:44.113Z",
+    "updatedAt": "2016-08-06T10:28:44.113Z",
+    "id": 16892
+  },
+  {
+    "name": "43TRƯỜNG CAO ĐẲNG SƯ PHẠM HƯNG YÊN",
+    "createdAt": "2016-08-06T10:28:44.116Z",
+    "updatedAt": "2016-08-06T10:28:44.116Z",
+    "id": 16893
+  },
+  {
+    "name": "44TRƯỜNG CAO ĐẲNG SƯ PHẠM HÒA BÌNH",
+    "createdAt": "2016-08-06T10:28:44.120Z",
+    "updatedAt": "2016-08-06T10:28:44.120Z",
+    "id": 16894
+  },
+  {
+    "name": "45Trường Cao đẳng Sư phạm Lào Cai",
+    "createdAt": "2016-08-06T10:28:44.123Z",
+    "updatedAt": "2016-08-06T10:28:44.123Z",
+    "id": 16895
+  },
+  {
+    "name": "46TRƯỜNG CAO ĐẲNG SƯ PHẠM LẠNG SƠN",
+    "createdAt": "2016-08-06T10:28:44.126Z",
+    "updatedAt": "2016-08-06T10:28:44.126Z",
+    "id": 16896
+  },
+  {
+    "name": "47TRƯỜNG CAO ĐẲNG SƯ PHẠM NAM ĐỊNH",
+    "createdAt": "2016-08-06T10:28:44.130Z",
+    "updatedAt": "2016-08-06T10:28:44.130Z",
+    "id": 16897
+  },
+  {
+    "name": "48TRƯỜNG CAO ĐẲNG NGÔ GIA TỰ",
+    "createdAt": "2016-08-06T10:28:44.133Z",
+    "updatedAt": "2016-08-06T10:28:44.133Z",
+    "id": 16898
+  },
+  {
+    "name": "49Trường Cao đẳng Sư phạm Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:44.137Z",
+    "updatedAt": "2016-08-06T10:28:44.137Z",
+    "id": 16899
+  },
+  {
+    "name": "4Trường Cao đẳng Công nghiệp Hóa chất",
+    "createdAt": "2016-08-06T10:28:44.140Z",
+    "updatedAt": "2016-08-06T10:28:44.140Z",
+    "id": 16900
+  },
+  {
+    "name": "50TRƯỜNG CAO ĐẲNG SƠN LA",
+    "createdAt": "2016-08-06T10:28:44.144Z",
+    "updatedAt": "2016-08-06T10:28:44.144Z",
+    "id": 16901
+  },
+  {
+    "name": "51TRƯỜNG CAO ĐẲNG SƯ PHẠM THÁI BÌNH",
+    "createdAt": "2016-08-06T10:28:44.148Z",
+    "updatedAt": "2016-08-06T10:28:44.148Z",
+    "id": 16902
+  },
+  {
+    "name": "52Trường Cao đẳng Sư phạm Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:44.152Z",
+    "updatedAt": "2016-08-06T10:28:44.152Z",
+    "id": 16903
+  },
+  {
+    "name": "53Trường Cao đẳng Tuyên Quang",
+    "createdAt": "2016-08-06T10:28:44.155Z",
+    "updatedAt": "2016-08-06T10:28:44.155Z",
+    "id": 16904
+  },
+  {
+    "name": "54Trường Cao đẳng Vĩnh Phúc",
+    "createdAt": "2016-08-06T10:28:44.158Z",
+    "updatedAt": "2016-08-06T10:28:44.158Z",
+    "id": 16905
+  },
+  {
+    "name": "55Trường Cao đẳng Văn hóa Nghệ thuật Tây Bắc",
+    "createdAt": "2016-08-06T10:28:44.162Z",
+    "updatedAt": "2016-08-06T10:28:44.162Z",
+    "id": 16906
+  },
+  {
+    "name": "56Trường Cao đẳng Văn hóa Nghệ thuật Thái Bình",
+    "createdAt": "2016-08-06T10:28:44.166Z",
+    "updatedAt": "2016-08-06T10:28:44.166Z",
+    "id": 16907
+  },
+  {
+    "name": "57Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Hạ Long",
+    "createdAt": "2016-08-06T10:28:44.170Z",
+    "updatedAt": "2016-08-06T10:28:44.170Z",
+    "id": 16908
+  },
+  {
+    "name": "58TRƯỜNG CAO ĐẲNG SƯ PHẠM YÊN BÁI",
+    "createdAt": "2016-08-06T10:28:44.173Z",
+    "updatedAt": "2016-08-06T10:28:44.173Z",
+    "id": 16909
+  },
+  {
+    "name": "59Trường Cao đẳng Văn hóa Nghệ thuật Việt Bắc",
+    "createdAt": "2016-08-06T10:28:44.176Z",
+    "updatedAt": "2016-08-06T10:28:44.176Z",
+    "id": 16910
+  },
+  {
+    "name": "5Trường Cao đẳng Công nghiệp Hưng Yên",
+    "createdAt": "2016-08-06T10:28:44.180Z",
+    "updatedAt": "2016-08-06T10:28:44.180Z",
+    "id": 16911
+  },
+  {
+    "name": "60Trường Cao đẳng Văn hóa Nghệ thuật Du lịch Yên Bái",
+    "createdAt": "2016-08-06T10:28:44.183Z",
+    "updatedAt": "2016-08-06T10:28:44.183Z",
+    "id": 16912
+  },
+  {
+    "name": "61TRƯỜNG CAO ĐẲNG Y TẾ HÀ NAM",
+    "createdAt": "2016-08-06T10:28:44.187Z",
+    "updatedAt": "2016-08-06T10:28:44.187Z",
+    "id": 16913
+  },
+  {
+    "name": "62Trường Cao đẳng Y tế Lạng Sơn",
+    "createdAt": "2016-08-06T10:28:44.190Z",
+    "updatedAt": "2016-08-06T10:28:44.190Z",
+    "id": 16914
+  },
+  {
+    "name": "63Trường Cao đẳng Y tế Hải Phòng",
+    "createdAt": "2016-08-06T10:28:44.193Z",
+    "updatedAt": "2016-08-06T10:28:44.193Z",
+    "id": 16915
+  },
+  {
+    "name": "64Trường Cao đẳng Y tế Ninh Bình",
+    "createdAt": "2016-08-06T10:28:44.196Z",
+    "updatedAt": "2016-08-06T10:28:44.196Z",
+    "id": 16916
+  },
+  {
+    "name": "65Trường Cao đẳng Y tế Phú Thọ",
+    "createdAt": "2016-08-06T10:28:44.199Z",
+    "updatedAt": "2016-08-06T10:28:44.199Z",
+    "id": 16917
+  },
+  {
+    "name": "66Trường Cao đẳng Y tế Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:44.203Z",
+    "updatedAt": "2016-08-06T10:28:44.203Z",
+    "id": 16918
+  },
+  {
+    "name": "67Trường Cao đẳng Y tế Thái Bình",
+    "createdAt": "2016-08-06T10:28:44.206Z",
+    "updatedAt": "2016-08-06T10:28:44.206Z",
+    "id": 16919
+  },
+  {
+    "name": "68Trường Cao đẳng Y tế Thanh Hóa",
+    "createdAt": "2016-08-06T10:28:44.209Z",
+    "updatedAt": "2016-08-06T10:28:44.209Z",
+    "id": 16920
+  },
+  {
+    "name": "69Trường Cao đẳng Y tế Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:44.212Z",
+    "updatedAt": "2016-08-06T10:28:44.212Z",
+    "id": 16921
+  },
+  {
+    "name": "6TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP NAM ĐỊNH",
+    "createdAt": "2016-08-06T10:28:44.216Z",
+    "updatedAt": "2016-08-06T10:28:44.216Z",
+    "id": 16922
+  },
+  {
+    "name": "70TRƯỜNG CAO ĐẲNG Y TẾ ĐIỆN BIÊN",
+    "createdAt": "2016-08-06T10:28:44.219Z",
+    "updatedAt": "2016-08-06T10:28:44.219Z",
+    "id": 16923
+  },
+  {
+    "name": "71Trường Cao đẳng Y tế Hưng Yên",
+    "createdAt": "2016-08-06T10:28:44.222Z",
+    "updatedAt": "2016-08-06T10:28:44.222Z",
+    "id": 16924
+  },
+  {
+    "name": "72Trường Cao đẳng Y tế Sơn La",
+    "createdAt": "2016-08-06T10:28:44.225Z",
+    "updatedAt": "2016-08-06T10:28:44.225Z",
+    "id": 16925
+  },
+  {
+    "name": "73Trường Cao đẳng Y tế Yên Bái",
+    "createdAt": "2016-08-06T10:28:44.229Z",
+    "updatedAt": "2016-08-06T10:28:44.229Z",
+    "id": 16926
+  },
+  {
+    "name": "74Trường Cao đẳng Bách khoa Hưng Yên",
+    "createdAt": "2016-08-06T10:28:44.232Z",
+    "updatedAt": "2016-08-06T10:28:44.232Z",
+    "id": 16927
+  },
+  {
+    "name": "75TRƯỜNG CAO ĐẲNG NGOẠI NGỮ",
+    "createdAt": "2016-08-06T10:28:44.235Z",
+    "updatedAt": "2016-08-06T10:28:44.235Z",
+    "id": 16928
+  },
+  {
+    "name": "76Trường Cao đẳng Công nghệ Bắc Hà",
+    "createdAt": "2016-08-06T10:28:44.238Z",
+    "updatedAt": "2016-08-06T10:28:44.238Z",
+    "id": 16929
+  },
+  {
+    "name": "77Trường Cao đẳng Dược Phú Thọ",
+    "createdAt": "2016-08-06T10:28:44.242Z",
+    "updatedAt": "2016-08-06T10:28:44.242Z",
+    "id": 16930
+  },
+  {
+    "name": "78TRƯỜNG CAO ĐẲNG ASEAN",
+    "createdAt": "2016-08-06T10:28:44.245Z",
+    "updatedAt": "2016-08-06T10:28:44.245Z",
+    "id": 16931
+  },
+  {
+    "name": "7TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP PHÚC YÊN",
+    "createdAt": "2016-08-06T10:28:44.249Z",
+    "updatedAt": "2016-08-06T10:28:44.249Z",
+    "id": 16932
+  },
+  {
+    "name": "8TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP THÁI NGUYÊN",
+    "createdAt": "2016-08-06T10:28:44.252Z",
+    "updatedAt": "2016-08-06T10:28:44.252Z",
+    "id": 16933
+  },
+  {
+    "name": "9TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP THỰC PHẨM",
+    "createdAt": "2016-08-06T10:28:44.255Z",
+    "updatedAt": "2016-08-06T10:28:44.255Z",
+    "id": 16934
+  },
+  {
+    "name": "10TRƯỜNG CAO ĐẲNG KINH TẾ CÔNG NGHỆ TP",
+    "createdAt": "2016-08-06T10:28:44.259Z",
+    "updatedAt": "2016-08-06T10:28:44.259Z",
+    "id": 16935
+  },
+  {
+    "name": "11TRƯỜNG CAO ĐẲNG KINH TẾ ĐỐI NGOẠI",
+    "createdAt": "2016-08-06T10:28:44.262Z",
+    "updatedAt": "2016-08-06T10:28:44.262Z",
+    "id": 16936
+  },
+  {
+    "name": "12TRƯỜNG CAO ĐẲNG KINH TẾ KỸ THUẬT MIỀN NAM",
+    "createdAt": "2016-08-06T10:28:44.266Z",
+    "updatedAt": "2016-08-06T10:28:44.266Z",
+    "id": 16937
+  },
+  {
+    "name": "13TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.269Z",
+    "updatedAt": "2016-08-06T10:28:44.269Z",
+    "id": 16938
+  },
+  {
+    "name": "14TRƯỜNG CAO ĐẲNG KỸ THUẬT CAO THẮNG",
+    "createdAt": "2016-08-06T10:28:44.273Z",
+    "updatedAt": "2016-08-06T10:28:44.273Z",
+    "id": 16939
+  },
+  {
+    "name": "15TRƯỜNG CAO ĐẲNG SƯ PHẠM TRUNG ƯƠNG TP.HCM",
+    "createdAt": "2016-08-06T10:28:44.277Z",
+    "updatedAt": "2016-08-06T10:28:44.277Z",
+    "id": 16940
+  },
+  {
+    "name": "16TRƯỜNG CAO ĐẲNG XÂY DỰNG SỐ 2",
+    "createdAt": "2016-08-06T10:28:44.281Z",
+    "updatedAt": "2016-08-06T10:28:44.281Z",
+    "id": 16941
+  },
+  {
+    "name": "17TRƯỜNG CAO ĐẲNG KINH TẾ - KỸ THUẬT PHÚ LÂM",
+    "createdAt": "2016-08-06T10:28:44.285Z",
+    "updatedAt": "2016-08-06T10:28:44.285Z",
+    "id": 16942
+  },
+  {
+    "name": "18TRƯỜNG CĐ KINH TẾ TP.HỒ CHÍ MINH",
+    "createdAt": "2016-08-06T10:28:44.288Z",
+    "updatedAt": "2016-08-06T10:28:44.288Z",
+    "id": 16943
+  },
+  {
+    "name": "19TRƯỜNG CAO ĐẲNG KỸ THUẬT LÝ TỰ TRỌNG TP.HCM",
+    "createdAt": "2016-08-06T10:28:44.292Z",
+    "updatedAt": "2016-08-06T10:28:44.292Z",
+    "id": 16944
+  },
+  {
+    "name": "1Trường Cao đẳng Bách Việt",
+    "createdAt": "2016-08-06T10:28:44.296Z",
+    "updatedAt": "2016-08-06T10:28:44.296Z",
+    "id": 16945
+  },
+  {
+    "name": "20TRƯỜNG CAO ĐẲNG TÀI CHÍNH HẢI QUAN",
+    "createdAt": "2016-08-06T10:28:44.300Z",
+    "updatedAt": "2016-08-06T10:28:44.300Z",
+    "id": 16946
+  },
+  {
+    "name": "21TRƯỜNG CAO ĐẲNG VĂN HOÁ NGHỆ THUẬT TP.HCM ",
+    "createdAt": "2016-08-06T10:28:44.305Z",
+    "updatedAt": "2016-08-06T10:28:44.305Z",
+    "id": 16947
+  },
+  {
+    "name": "22TRƯỜNG CAO ĐẲNG KINH TẾ - KỸ THUẬT VINATEX TP.HCM",
+    "createdAt": "2016-08-06T10:28:44.309Z",
+    "updatedAt": "2016-08-06T10:28:44.309Z",
+    "id": 16948
+  },
+  {
+    "name": "23TRƯỜNG CAO ĐẲNG PHÁT THANH TRUYỀN HÌNH II",
+    "createdAt": "2016-08-06T10:28:44.313Z",
+    "updatedAt": "2016-08-06T10:28:44.313Z",
+    "id": 16949
+  },
+  {
+    "name": "24Trường Cao đẳng Kỹ thuật Công nghệ Vạn Xuândocx",
+    "createdAt": "2016-08-06T10:28:44.317Z",
+    "updatedAt": "2016-08-06T10:28:44.317Z",
+    "id": 16950
+  },
+  {
+    "name": "25TRƯỜNG CAO ĐẲNG VĂN HÓA NGHỆ THUẬT VÀ DU LỊCH SÀI GÒN",
+    "createdAt": "2016-08-06T10:28:44.321Z",
+    "updatedAt": "2016-08-06T10:28:44.321Z",
+    "id": 16951
+  },
+  {
+    "name": "26TRƯỜNG CAO ĐẲNG VIỄN ĐÔNG",
+    "createdAt": "2016-08-06T10:28:44.325Z",
+    "updatedAt": "2016-08-06T10:28:44.325Z",
+    "id": 16952
+  },
+  {
+    "name": "27TRƯỜNG CAO ĐẲNG Y DƯỢC HỒNG ĐỨC",
+    "createdAt": "2016-08-06T10:28:44.329Z",
+    "updatedAt": "2016-08-06T10:28:44.329Z",
+    "id": 16953
+  },
+  {
+    "name": "2TRƯỜNG CAO ĐẲNG BÁN CÔNG CÔNG NGHỆ VÀ QUẢN TRỊ DOANH NGHIỆP",
+    "createdAt": "2016-08-06T10:28:44.333Z",
+    "updatedAt": "2016-08-06T10:28:44.333Z",
+    "id": 16954
+  },
+  {
+    "name": "3TRƯỜNG CAO ĐẲNG CÔNG NGHỆ THÔNG TIN TP",
+    "createdAt": "2016-08-06T10:28:44.337Z",
+    "updatedAt": "2016-08-06T10:28:44.337Z",
+    "id": 16955
+  },
+  {
+    "name": "4Trường Cao đẳng Công nghệ Thủ Đức",
+    "createdAt": "2016-08-06T10:28:44.341Z",
+    "updatedAt": "2016-08-06T10:28:44.341Z",
+    "id": 16956
+  },
+  {
+    "name": "6TRƯỜNG CAO ĐẲNG ĐẠI VIỆT SÀI GÒN",
+    "createdAt": "2016-08-06T10:28:44.345Z",
+    "updatedAt": "2016-08-06T10:28:44.345Z",
+    "id": 16957
+  },
+  {
+    "name": "5TRƯỜNG CAO ĐẲNG CÔNG THƯƠNG TP",
+    "createdAt": "2016-08-06T10:28:44.348Z",
+    "updatedAt": "2016-08-06T10:28:44.348Z",
+    "id": 16958
+  },
+  {
+    "name": "7TRƯỜNG CAO ĐẲNG ĐIỆN LỰC TP",
+    "createdAt": "2016-08-06T10:28:44.351Z",
+    "updatedAt": "2016-08-06T10:28:44.351Z",
+    "id": 16959
+  },
+  {
+    "name": "8TRƯỜNG CĐ GIAO THÔNG VẬN TẢI III",
+    "createdAt": "2016-08-06T10:28:44.356Z",
+    "updatedAt": "2016-08-06T10:28:44.356Z",
+    "id": 16960
+  },
+  {
+    "name": "9TRƯỜNG CĐ GIAO THÔNG VẬN TẢI TP",
+    "createdAt": "2016-08-06T10:28:44.361Z",
+    "updatedAt": "2016-08-06T10:28:44.361Z",
+    "id": 16961
+  },
+  {
+    "name": "10Trường Trung cấp nghề Lý Tự Trọng",
+    "createdAt": "2016-08-06T10:28:44.365Z",
+    "updatedAt": "2016-08-06T10:28:44.365Z",
+    "id": 16962
+  },
+  {
+    "name": "11Trường Trung cấp nghề Kỹ nghệ Hà Tĩnh",
+    "createdAt": "2016-08-06T10:28:44.370Z",
+    "updatedAt": "2016-08-06T10:28:44.370Z",
+    "id": 16963
+  },
+  {
+    "name": "12Trường Trung cấp nghề số 9",
+    "createdAt": "2016-08-06T10:28:44.375Z",
+    "updatedAt": "2016-08-06T10:28:44.375Z",
+    "id": 16964
+  },
+  {
+    "name": "1Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:44.380Z",
+    "updatedAt": "2016-08-06T10:28:44.380Z",
+    "id": 16965
+  },
+  {
+    "name": "2Trường TCN KT - CN - TCN Nghệ An",
+    "createdAt": "2016-08-06T10:28:44.385Z",
+    "updatedAt": "2016-08-06T10:28:44.385Z",
+    "id": 16966
+  },
+  {
+    "name": "3Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:44.388Z",
+    "updatedAt": "2016-08-06T10:28:44.388Z",
+    "id": 16967
+  },
+  {
+    "name": "4Trường Trung cấp nghề Kỹ thuật Công",
+    "createdAt": "2016-08-06T10:28:44.392Z",
+    "updatedAt": "2016-08-06T10:28:44.392Z",
+    "id": 16968
+  },
+  {
+    "name": "5Trường Trung cấp nghề Dân tộc miền núi Nghệ An",
+    "createdAt": "2016-08-06T10:28:44.396Z",
+    "updatedAt": "2016-08-06T10:28:44.396Z",
+    "id": 16969
+  },
+  {
+    "name": "6Trường Trung cấp nghề kinh tế",
+    "createdAt": "2016-08-06T10:28:44.399Z",
+    "updatedAt": "2016-08-06T10:28:44.399Z",
+    "id": 16970
+  },
+  {
+    "name": "7Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:44.405Z",
+    "updatedAt": "2016-08-06T10:28:44.405Z",
+    "id": 16971
+  },
+  {
+    "name": "8Trường Trung cấp nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:44.412Z",
+    "updatedAt": "2016-08-06T10:28:44.412Z",
+    "id": 16972
+  },
+  {
+    "name": "9Trường Trung cấp nghề Hà Tĩnh",
+    "createdAt": "2016-08-06T10:28:44.419Z",
+    "updatedAt": "2016-08-06T10:28:44.419Z",
+    "id": 16973
+  },
+  {
+    "name": "10Trường Cao đẳng nghề Sài Gòn",
+    "createdAt": "2016-08-06T10:28:44.427Z",
+    "updatedAt": "2016-08-06T10:28:44.427Z",
+    "id": 16974
+  },
+  {
+    "name": "11Trường Cao đẳng nghề số 7",
+    "createdAt": "2016-08-06T10:28:44.436Z",
+    "updatedAt": "2016-08-06T10:28:44.436Z",
+    "id": 16975
+  },
+  {
+    "name": "12Trường Cao đẳng nghề TP",
+    "createdAt": "2016-08-06T10:28:44.445Z",
+    "updatedAt": "2016-08-06T10:28:44.445Z",
+    "id": 16976
+  },
+  {
+    "name": "13Trường Cao đẳng nghề Thủ Đức",
+    "createdAt": "2016-08-06T10:28:44.454Z",
+    "updatedAt": "2016-08-06T10:28:44.454Z",
+    "id": 16977
+  },
+  {
+    "name": "14Trường Cao đẳng nghề Thủ Thiêm",
+    "createdAt": "2016-08-06T10:28:44.461Z",
+    "updatedAt": "2016-08-06T10:28:44.461Z",
+    "id": 16978
+  },
+  {
+    "name": "1Trường Cao đẳng nghề CNTT iSPACE",
+    "createdAt": "2016-08-06T10:28:44.468Z",
+    "updatedAt": "2016-08-06T10:28:44.468Z",
+    "id": 16979
+  },
+  {
+    "name": "15Trường Cao Đẳng Nghề Việt Mỹ",
+    "createdAt": "2016-08-06T10:28:44.479Z",
+    "updatedAt": "2016-08-06T10:28:44.479Z",
+    "id": 16980
+  },
+  {
+    "name": "2Trường Cao đẳng nghề Du lịch Sài Gòn",
+    "createdAt": "2016-08-06T10:28:44.486Z",
+    "updatedAt": "2016-08-06T10:28:44.486Z",
+    "id": 16981
+  },
+  {
+    "name": "3Trường Cao đẳng nghề Giao thông vận tải Đường thủy II",
+    "createdAt": "2016-08-06T10:28:44.492Z",
+    "updatedAt": "2016-08-06T10:28:44.492Z",
+    "id": 16982
+  },
+  {
+    "name": "4Trường Cao đẳng nghề Giao thông vận tải Trung ương III",
+    "createdAt": "2016-08-06T10:28:44.499Z",
+    "updatedAt": "2016-08-06T10:28:44.499Z",
+    "id": 16983
+  },
+  {
+    "name": "5Trường Cao đẳng nghề Hàng hải TP",
+    "createdAt": "2016-08-06T10:28:44.507Z",
+    "updatedAt": "2016-08-06T10:28:44.507Z",
+    "id": 16984
+  },
+  {
+    "name": "6Trường Cao đẳng nghề Kinh tế Công nghệ TP",
+    "createdAt": "2016-08-06T10:28:44.516Z",
+    "updatedAt": "2016-08-06T10:28:44.516Z",
+    "id": 16985
+  },
+  {
+    "name": "7Trường Cao đẳng nghề Kinh tế",
+    "createdAt": "2016-08-06T10:28:44.524Z",
+    "updatedAt": "2016-08-06T10:28:44.524Z",
+    "id": 16986
+  },
+  {
+    "name": "8Trường Cao đẳng nghề Kỹ thuật Công nghệ TP",
+    "createdAt": "2016-08-06T10:28:44.533Z",
+    "updatedAt": "2016-08-06T10:28:44.533Z",
+    "id": 16987
+  },
+  {
+    "name": "9Trường Cao đẳng nghề Nguyễn Trường Tộ",
+    "createdAt": "2016-08-06T10:28:44.542Z",
+    "updatedAt": "2016-08-06T10:28:44.542Z",
+    "id": 16988
+  },
+  {
+    "name": "10TRƯỜNG CAO ĐẲNG ĐẠI VIỆT ĐÀ NẴNG",
+    "createdAt": "2016-08-06T10:28:44.548Z",
+    "updatedAt": "2016-08-06T10:28:44.548Z",
+    "id": 16989
+  },
+  {
+    "name": "11TRƯỜNG CAO ĐẲNG ĐIỆN LỰC MIỀN TRUNG",
+    "createdAt": "2016-08-06T10:28:44.554Z",
+    "updatedAt": "2016-08-06T10:28:44.554Z",
+    "id": 16990
+  },
+  {
+    "name": "12TRƯỜNG CAO ĐẲNG KINH TẾ KỸ THUẬT ĐÔNG DU ĐÀ NẴNG",
+    "createdAt": "2016-08-06T10:28:44.562Z",
+    "updatedAt": "2016-08-06T10:28:44.562Z",
+    "id": 16991
+  },
+  {
+    "name": "13TRƯỜNG CAO ĐẲNG GIAO THÔNG VẬN TẢI II",
+    "createdAt": "2016-08-06T10:28:44.576Z",
+    "updatedAt": "2016-08-06T10:28:44.576Z",
+    "id": 16992
+  },
+  {
+    "name": "14TRƯỜNG CAO ĐẲNG GIAO THÔNG VẬN TẢI MIỀN TRUNG",
+    "createdAt": "2016-08-06T10:28:44.580Z",
+    "updatedAt": "2016-08-06T10:28:44.580Z",
+    "id": 16993
+  },
+  {
+    "name": "15TRƯỜNG CAO ĐẲNG HOAN CHÂU",
+    "createdAt": "2016-08-06T10:28:44.584Z",
+    "updatedAt": "2016-08-06T10:28:44.584Z",
+    "id": 16994
+  },
+  {
+    "name": "16TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.588Z",
+    "updatedAt": "2016-08-06T10:28:44.588Z",
+    "id": 16995
+  },
+  {
+    "name": "17TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.592Z",
+    "updatedAt": "2016-08-06T10:28:44.592Z",
+    "id": 16996
+  },
+  {
+    "name": "18TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.596Z",
+    "updatedAt": "2016-08-06T10:28:44.596Z",
+    "id": 16997
+  },
+  {
+    "name": "19Trường Cao đẳng Kinh tế Kỹ thuật Nghệ An",
+    "createdAt": "2016-08-06T10:28:44.601Z",
+    "updatedAt": "2016-08-06T10:28:44.601Z",
+    "id": 16998
+  },
+  {
+    "name": "1Trường Cao đẳng Bách khoa Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:44.607Z",
+    "updatedAt": "2016-08-06T10:28:44.607Z",
+    "id": 16999
+  },
+  {
+    "name": "20TRƯỜNG CAO ĐẲNG KINH TẾ",
+    "createdAt": "2016-08-06T10:28:44.611Z",
+    "updatedAt": "2016-08-06T10:28:44.611Z",
+    "id": 17000
+  },
+  {
+    "name": "21TRƯỜNG CAO ĐẲNG KỸ THUẬT CÔNG NGHIỆP QUẢNG NGÃI",
+    "createdAt": "2016-08-06T10:28:44.616Z",
+    "updatedAt": "2016-08-06T10:28:44.616Z",
+    "id": 17001
+  },
+  {
+    "name": "22TRƯỜNG CAO ĐẲNG LẠC VIỆT",
+    "createdAt": "2016-08-06T10:28:44.620Z",
+    "updatedAt": "2016-08-06T10:28:44.620Z",
+    "id": 17002
+  },
+  {
+    "name": "23TRƯỜNG CAO ĐẲNG LƯƠNG THỰC THỰC PHẨM ",
+    "createdAt": "2016-08-06T10:28:44.624Z",
+    "updatedAt": "2016-08-06T10:28:44.624Z",
+    "id": 17003
+  },
+  {
+    "name": "24TRƯỜNG CAO ĐẲNG QUỐC TẾ PEGASUS",
+    "createdAt": "2016-08-06T10:28:44.628Z",
+    "updatedAt": "2016-08-06T10:28:44.628Z",
+    "id": 17004
+  },
+  {
+    "name": "25Trường Cao đẳng Sư phạm Đà Lạt",
+    "createdAt": "2016-08-06T10:28:44.632Z",
+    "updatedAt": "2016-08-06T10:28:44.632Z",
+    "id": 17005
+  },
+  {
+    "name": "26TRƯỜNG CAO ĐẲNG SƯ PHẠM ĐĂK LẮK",
+    "createdAt": "2016-08-06T10:28:44.636Z",
+    "updatedAt": "2016-08-06T10:28:44.636Z",
+    "id": 17006
+  },
+  {
+    "name": "27TRƯỜNG CAO ĐẲNG SƯ PHẠM GIA LAI",
+    "createdAt": "2016-08-06T10:28:44.641Z",
+    "updatedAt": "2016-08-06T10:28:44.641Z",
+    "id": 17007
+  },
+  {
+    "name": "28TRƯỜNG CAO ĐẲNG SƯ PHẠM KON TUM",
+    "createdAt": "2016-08-06T10:28:44.645Z",
+    "updatedAt": "2016-08-06T10:28:44.645Z",
+    "id": 17008
+  },
+  {
+    "name": "29TRƯỜNG CAO ĐẲNG SƯ PHẠM NGHỆ AN",
+    "createdAt": "2016-08-06T10:28:44.650Z",
+    "updatedAt": "2016-08-06T10:28:44.650Z",
+    "id": 17009
+  },
+  {
+    "name": "2TRƯỜNG CAO ĐẲNG BÌNH ĐỊNH",
+    "createdAt": "2016-08-06T10:28:44.654Z",
+    "updatedAt": "2016-08-06T10:28:44.654Z",
+    "id": 17010
+  },
+  {
+    "name": "30TRƯỜNG CAO ĐẲNG SƯ PHẠM NINH THUẬN",
+    "createdAt": "2016-08-06T10:28:44.658Z",
+    "updatedAt": "2016-08-06T10:28:44.658Z",
+    "id": 17011
+  },
+  {
+    "name": "31TRƯỜNG CAO ĐẲNG SƯ PHẠM QUẢNG TRỊ",
+    "createdAt": "2016-08-06T10:28:44.661Z",
+    "updatedAt": "2016-08-06T10:28:44.661Z",
+    "id": 17012
+  },
+  {
+    "name": "32TRƯỜNG CAO ĐẲNG SƯ PHẠM THỪA THIÊN HUẾ",
+    "createdAt": "2016-08-06T10:28:44.665Z",
+    "updatedAt": "2016-08-06T10:28:44.665Z",
+    "id": 17013
+  },
+  {
+    "name": "33TRƯỜNG CAO ĐẲNG SƯ PHẠM TRUNG ƯƠNG NHA TRANG",
+    "createdAt": "2016-08-06T10:28:44.670Z",
+    "updatedAt": "2016-08-06T10:28:44.670Z",
+    "id": 17014
+  },
+  {
+    "name": "34TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+    "createdAt": "2016-08-06T10:28:44.674Z",
+    "updatedAt": "2016-08-06T10:28:44.674Z",
+    "id": 17015
+  },
+  {
+    "name": "35TRƯỜNG CAO ĐẲNG TƯ THỤC ĐỨC TRÍ",
+    "createdAt": "2016-08-06T10:28:44.678Z",
+    "updatedAt": "2016-08-06T10:28:44.678Z",
+    "id": 17016
+  },
+  {
+    "name": "36TRƯỜNG CAO ĐẲNG PHƯƠNG ĐÔNG ĐÀ NẴNG",
+    "createdAt": "2016-08-06T10:28:44.682Z",
+    "updatedAt": "2016-08-06T10:28:44.682Z",
+    "id": 17017
+  },
+  {
+    "name": "37TRƯỜNG CAO ĐẲNG PHƯƠNG ĐÔNG QUẢNG NAM",
+    "createdAt": "2016-08-06T10:28:44.686Z",
+    "updatedAt": "2016-08-06T10:28:44.686Z",
+    "id": 17018
+  },
+  {
+    "name": "38TRƯỜNG CAO ĐẲNG VĂN HÓA NGHỆ THUẬT ĐĂK LĂK",
+    "createdAt": "2016-08-06T10:28:44.691Z",
+    "updatedAt": "2016-08-06T10:28:44.691Z",
+    "id": 17019
+  },
+  {
+    "name": "39TRƯỜNG CAO ĐẲNG VĂN HÓA NGHỆ THUẬT NGHỆ AN",
+    "createdAt": "2016-08-06T10:28:44.696Z",
+    "updatedAt": "2016-08-06T10:28:44.696Z",
+    "id": 17020
+  },
+  {
+    "name": "3Trường Cao đẳng Cộng đồng Bình Thuận",
+    "createdAt": "2016-08-06T10:28:44.702Z",
+    "updatedAt": "2016-08-06T10:28:44.702Z",
+    "id": 17021
+  },
+  {
+    "name": "40TRƯỜNG CAO ĐẲNG VĂN HÓA NGHỆ THUẬT VÀ DU LỊCH NHA TRANG",
+    "createdAt": "2016-08-06T10:28:44.706Z",
+    "updatedAt": "2016-08-06T10:28:44.706Z",
+    "id": 17022
+  },
+  {
+    "name": "41TRƯỜNG CAO ĐẲNG VĂN HÓA THỂ THAO VÀ DU LỊCH NGUYỄN DU",
+    "createdAt": "2016-08-06T10:28:44.710Z",
+    "updatedAt": "2016-08-06T10:28:44.710Z",
+    "id": 17023
+  },
+  {
+    "name": "42Trường Cao đẳng Y tế Bình Định",
+    "createdAt": "2016-08-06T10:28:44.714Z",
+    "updatedAt": "2016-08-06T10:28:44.714Z",
+    "id": 17024
+  },
+  {
+    "name": "43TRƯỜNG CAO ĐẲNG Y TẾ BÌNH THUẬN",
+    "createdAt": "2016-08-06T10:28:44.719Z",
+    "updatedAt": "2016-08-06T10:28:44.719Z",
+    "id": 17025
+  },
+  {
+    "name": "44TRƯỜNG CAO ĐẲNG Y TẾ ĐẶNG THUỲ TRÂM",
+    "createdAt": "2016-08-06T10:28:44.723Z",
+    "updatedAt": "2016-08-06T10:28:44.723Z",
+    "id": 17026
+  },
+  {
+    "name": "45TRƯỜNG CAO ĐẲNG Y TẾ HÀ TĨNH",
+    "createdAt": "2016-08-06T10:28:44.728Z",
+    "updatedAt": "2016-08-06T10:28:44.728Z",
+    "id": 17027
+  },
+  {
+    "name": "46TRƯỜNG CAO ĐẲNG Y TẾ HUẾ",
+    "createdAt": "2016-08-06T10:28:44.735Z",
+    "updatedAt": "2016-08-06T10:28:44.735Z",
+    "id": 17028
+  },
+  {
+    "name": "47TRƯỜNG CAO ĐẲNG Y TẾ KHÁNH HÒA",
+    "createdAt": "2016-08-06T10:28:44.739Z",
+    "updatedAt": "2016-08-06T10:28:44.739Z",
+    "id": 17029
+  },
+  {
+    "name": "48TRƯỜNG CAO ĐẲNG Y TẾ LÂM ĐỒNG",
+    "createdAt": "2016-08-06T10:28:44.744Z",
+    "updatedAt": "2016-08-06T10:28:44.744Z",
+    "id": 17030
+  },
+  {
+    "name": "49TRƯỜNG CAO ĐẲNG Y TẾ PHÚ YÊN",
+    "createdAt": "2016-08-06T10:28:44.748Z",
+    "updatedAt": "2016-08-06T10:28:44.748Z",
+    "id": 17031
+  },
+  {
+    "name": "4TRƯỜNG CAO ĐẲNG CKN ĐÔNG Á",
+    "createdAt": "2016-08-06T10:28:44.752Z",
+    "updatedAt": "2016-08-06T10:28:44.752Z",
+    "id": 17032
+  },
+  {
+    "name": "50TRƯỜNG CAO ĐẲNG Y TẾ QUẢNG NAM",
+    "createdAt": "2016-08-06T10:28:44.756Z",
+    "updatedAt": "2016-08-06T10:28:44.756Z",
+    "id": 17033
+  },
+  {
+    "name": "51TRƯỜNG CAO ĐẲNG Y TẾ QUẢNG TRỊ",
+    "createdAt": "2016-08-06T10:28:44.760Z",
+    "updatedAt": "2016-08-06T10:28:44.760Z",
+    "id": 17034
+  },
+  {
+    "name": "5TRƯỜNG CAO ĐẲNG CÔNG NGHỆ ĐÀ NẴNG",
+    "createdAt": "2016-08-06T10:28:44.766Z",
+    "updatedAt": "2016-08-06T10:28:44.766Z",
+    "id": 17035
+  },
+  {
+    "name": "6TRƯỜNG CAO ĐẲNG CÔNG NGHỆ KINH TẾ VÀ THUỶ LỢI MIỀN TRUNG",
+    "createdAt": "2016-08-06T10:28:44.770Z",
+    "updatedAt": "2016-08-06T10:28:44.770Z",
+    "id": 17036
+  },
+  {
+    "name": "7TRƯỜNG CAO ĐẲNG CÔNG NGHỆ THÔNG TIN HỮU NGHỊ VIỆT HÀN",
+    "createdAt": "2016-08-06T10:28:44.775Z",
+    "updatedAt": "2016-08-06T10:28:44.775Z",
+    "id": 17037
+  },
+  {
+    "name": "8TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP HUẾ",
+    "createdAt": "2016-08-06T10:28:44.780Z",
+    "updatedAt": "2016-08-06T10:28:44.780Z",
+    "id": 17038
+  },
+  {
+    "name": "9TRƯỜNG CAO ĐẲNG CÔNG NGHIỆP TUY HÒA",
+    "createdAt": "2016-08-06T10:28:44.784Z",
+    "updatedAt": "2016-08-06T10:28:44.784Z",
+    "id": 17039
+  },
+  {
+    "name": "10Trường Trung cấp nghề Ngọc Phước",
+    "createdAt": "2016-08-06T10:28:44.789Z",
+    "updatedAt": "2016-08-06T10:28:44.789Z",
+    "id": 17040
+  },
+  {
+    "name": "11Trường Trung cấp nghề Du lịch và Tiếp thị Quốc tế",
+    "createdAt": "2016-08-06T10:28:44.793Z",
+    "updatedAt": "2016-08-06T10:28:44.793Z",
+    "id": 17041
+  },
+  {
+    "name": "12Trường Cao đẳng nghề số 7",
+    "createdAt": "2016-08-06T10:28:44.798Z",
+    "updatedAt": "2016-08-06T10:28:44.798Z",
+    "id": 17042
+  },
+  {
+    "name": "13Trường Trung cấp nghề Xây lắp điện",
+    "createdAt": "2016-08-06T10:28:44.802Z",
+    "updatedAt": "2016-08-06T10:28:44.802Z",
+    "id": 17043
+  },
+  {
+    "name": "14Trường Trung cấp nghề công nghiệp và xây dựng FICO",
+    "createdAt": "2016-08-06T10:28:44.807Z",
+    "updatedAt": "2016-08-06T10:28:44.807Z",
+    "id": 17044
+  },
+  {
+    "name": "15Trường Trung cấp nghề Công nghiệp tàu thuỷ II",
+    "createdAt": "2016-08-06T10:28:44.811Z",
+    "updatedAt": "2016-08-06T10:28:44.811Z",
+    "id": 17045
+  },
+  {
+    "name": "16Trường Trung cấp nghề Củ Chi",
+    "createdAt": "2016-08-06T10:28:44.816Z",
+    "updatedAt": "2016-08-06T10:28:44.816Z",
+    "id": 17046
+  },
+  {
+    "name": "17Trường Trung cấp nghề An Đức",
+    "createdAt": "2016-08-06T10:28:44.820Z",
+    "updatedAt": "2016-08-06T10:28:44.820Z",
+    "id": 17047
+  },
+  {
+    "name": "18Trường Trung cấp nghề Tư thục Hoàn Cầu",
+    "createdAt": "2016-08-06T10:28:44.825Z",
+    "updatedAt": "2016-08-06T10:28:44.825Z",
+    "id": 17048
+  },
+  {
+    "name": "19Trường Trung cấp nghề Việt Giao",
+    "createdAt": "2016-08-06T10:28:44.830Z",
+    "updatedAt": "2016-08-06T10:28:44.830Z",
+    "id": 17049
+  },
+  {
+    "name": "1Trường Trung cấp nghề Kỹ thuật Nghiệp vụ Tôn Đức Thắng",
+    "createdAt": "2016-08-06T10:28:44.835Z",
+    "updatedAt": "2016-08-06T10:28:44.835Z",
+    "id": 17050
+  },
+  {
+    "name": "20Trường Trung cấp nghề Công nghệ Bách Khoa",
+    "createdAt": "2016-08-06T10:28:44.839Z",
+    "updatedAt": "2016-08-06T10:28:44.839Z",
+    "id": 17051
+  },
+  {
+    "name": "21Trường TCN Kỹ thuật",
+    "createdAt": "2016-08-06T10:28:44.843Z",
+    "updatedAt": "2016-08-06T10:28:44.843Z",
+    "id": 17052
+  },
+  {
+    "name": "22Trường Trung cấp nghề Đông Sài Gòn",
+    "createdAt": "2016-08-06T10:28:44.848Z",
+    "updatedAt": "2016-08-06T10:28:44.848Z",
+    "id": 17053
+  },
+  {
+    "name": "23Trường Trung cấp nghề Suleco",
+    "createdAt": "2016-08-06T10:28:44.852Z",
+    "updatedAt": "2016-08-06T10:28:44.852Z",
+    "id": 17054
+  },
+  {
+    "name": "24Trường Trung cấp nghề Bình Thạnh",
+    "createdAt": "2016-08-06T10:28:44.857Z",
+    "updatedAt": "2016-08-06T10:28:44.857Z",
+    "id": 17055
+  },
+  {
+    "name": "25Trường Trung cấp nghề Trần Đại Nghĩa TPHCM",
+    "createdAt": "2016-08-06T10:28:44.862Z",
+    "updatedAt": "2016-08-06T10:28:44.862Z",
+    "id": 17056
+  },
+  {
+    "name": "26Trường CĐ nghề TP",
+    "createdAt": "2016-08-06T10:28:44.867Z",
+    "updatedAt": "2016-08-06T10:28:44.867Z",
+    "id": 17057
+  },
+  {
+    "name": "27Trường Trung học Công nghiệp TP",
+    "createdAt": "2016-08-06T10:28:44.871Z",
+    "updatedAt": "2016-08-06T10:28:44.871Z",
+    "id": 17058
+  },
+  {
+    "name": "28Trường Trung học Giao thông công chánh",
+    "createdAt": "2016-08-06T10:28:44.876Z",
+    "updatedAt": "2016-08-06T10:28:44.876Z",
+    "id": 17059
+  },
+  {
+    "name": "29Trường trung học kỹ thuật nghiệp vụ Phú Lâm",
+    "createdAt": "2016-08-06T10:28:44.880Z",
+    "updatedAt": "2016-08-06T10:28:44.880Z",
+    "id": 17060
+  },
+  {
+    "name": "2Trường Trung cấp nghề Quản lý Khách sạn Việt Úc",
+    "createdAt": "2016-08-06T10:28:44.885Z",
+    "updatedAt": "2016-08-06T10:28:44.885Z",
+    "id": 17061
+  },
+  {
+    "name": "30Trường Trung cấp Kinh tế Kỹ thuật Nguyễn Hữu Cảnh",
+    "createdAt": "2016-08-06T10:28:44.890Z",
+    "updatedAt": "2016-08-06T10:28:44.890Z",
+    "id": 17062
+  },
+  {
+    "name": "31Trường Trung cấp Kỹ thuật và Nghiệp vụ Nam Sài Gòn",
+    "createdAt": "2016-08-06T10:28:44.894Z",
+    "updatedAt": "2016-08-06T10:28:44.894Z",
+    "id": 17063
+  },
+  {
+    "name": "32Trường Trung học Kỹ thuật và nghiệp vụ Thủ Đức",
+    "createdAt": "2016-08-06T10:28:44.899Z",
+    "updatedAt": "2016-08-06T10:28:44.899Z",
+    "id": 17064
+  },
+  {
+    "name": "33Trường Trung Cấp Xây Dựng Thành Phố Hồ Chí Minh",
+    "createdAt": "2016-08-06T10:28:44.904Z",
+    "updatedAt": "2016-08-06T10:28:44.904Z",
+    "id": 17065
+  },
+  {
+    "name": "34Trường CĐ Kỹ thuật Lý Tự Trọng",
+    "createdAt": "2016-08-06T10:28:44.908Z",
+    "updatedAt": "2016-08-06T10:28:44.908Z",
+    "id": 17066
+  },
+  {
+    "name": "35Trường Cao Đẳng Kinh Tế Kỹ Thuật Nghiệp Vụ Nguyễn Tất Thành",
+    "createdAt": "2016-08-06T10:28:44.913Z",
+    "updatedAt": "2016-08-06T10:28:44.913Z",
+    "id": 17067
+  },
+  {
+    "name": "36Trường Trung cấp Thủy sản",
+    "createdAt": "2016-08-06T10:28:44.920Z",
+    "updatedAt": "2016-08-06T10:28:44.920Z",
+    "id": 17068
+  },
+  {
+    "name": "37Trường Trung cấp Văn thư lưu trữ Trung ương",
+    "createdAt": "2016-08-06T10:28:44.930Z",
+    "updatedAt": "2016-08-06T10:28:44.930Z",
+    "id": 17069
+  },
+  {
+    "name": "38Trường Trung học Hàng hải II",
+    "createdAt": "2016-08-06T10:28:44.936Z",
+    "updatedAt": "2016-08-06T10:28:44.936Z",
+    "id": 17070
+  },
+  {
+    "name": "39Trường Trung Học Kỹ Thuật Thực Hành",
+    "createdAt": "2016-08-06T10:28:44.940Z",
+    "updatedAt": "2016-08-06T10:28:44.940Z",
+    "id": 17071
+  },
+  {
+    "name": "3Trường Trung cấp nghề Quang Trung",
+    "createdAt": "2016-08-06T10:28:44.945Z",
+    "updatedAt": "2016-08-06T10:28:44.945Z",
+    "id": 17072
+  },
+  {
+    "name": "40Trường Trung Học Hàng Giang Trung Ương II",
+    "createdAt": "2016-08-06T10:28:44.950Z",
+    "updatedAt": "2016-08-06T10:28:44.950Z",
+    "id": 17073
+  },
+  {
+    "name": "41Trường Cao đẳng nghề Giao thông vận tải Trung ương III",
+    "createdAt": "2016-08-06T10:28:44.955Z",
+    "updatedAt": "2016-08-06T10:28:44.955Z",
+    "id": 17074
+  },
+  {
+    "name": "42Trường Cao đẳng nghề Kỹ thuật Công nghệ TP",
+    "createdAt": "2016-08-06T10:28:44.960Z",
+    "updatedAt": "2016-08-06T10:28:44.960Z",
+    "id": 17075
+  },
+  {
+    "name": "43Trường Cao đẳng Kỹ thuật Cao Thắng",
+    "createdAt": "2016-08-06T10:28:44.964Z",
+    "updatedAt": "2016-08-06T10:28:44.964Z",
+    "id": 17076
+  },
+  {
+    "name": "44Trường Cao đẳng Kinh tế Đối ngoại",
+    "createdAt": "2016-08-06T10:28:44.969Z",
+    "updatedAt": "2016-08-06T10:28:44.969Z",
+    "id": 17077
+  },
+  {
+    "name": "4Trường Trung cấp nghề Nhân lực Quốc tế",
+    "createdAt": "2016-08-06T10:28:44.974Z",
+    "updatedAt": "2016-08-06T10:28:44.974Z",
+    "id": 17078
+  },
+  {
+    "name": "5Trường Trung cấp nghề Du lịch Khôi Việt",
+    "createdAt": "2016-08-06T10:28:44.978Z",
+    "updatedAt": "2016-08-06T10:28:44.978Z",
+    "id": 17079
+  },
+  {
+    "name": "6Trường Trung cấp nghề Lê Thị Riêng",
+    "createdAt": "2016-08-06T10:28:44.984Z",
+    "updatedAt": "2016-08-06T10:28:44.984Z",
+    "id": 17080
+  },
+  {
+    "name": "7Trường Trung cấp nghề Thủ Đức",
+    "createdAt": "2016-08-06T10:28:44.989Z",
+    "updatedAt": "2016-08-06T10:28:44.989Z",
+    "id": 17081
+  },
+  {
+    "name": "8Trường Trung cấp nghề Kỹ thuật Công nghệ Hùng Vương",
+    "createdAt": "2016-08-06T10:28:44.993Z",
+    "updatedAt": "2016-08-06T10:28:44.993Z",
+    "id": 17082
+  },
+  {
+    "name": "9Trường Trung cấp nghề Nhân Đạo",
+    "createdAt": "2016-08-06T10:28:44.998Z",
+    "updatedAt": "2016-08-06T10:28:44.998Z",
+    "id": 17083
+  },
+  {
+    "name": "10Khoa Quốc tế",
+    "createdAt": "2016-08-06T10:28:45.003Z",
+    "updatedAt": "2016-08-06T10:28:45.003Z",
+    "id": 17084
+  },
+  {
+    "name": "11Phân hiệu Đại học Thái Nguyên tại Lào Cai",
+    "createdAt": "2016-08-06T10:28:45.007Z",
+    "updatedAt": "2016-08-06T10:28:45.007Z",
+    "id": 17085
+  },
+  {
+    "name": "12Trường Đại học Công nghiệp Quảng Ninh",
+    "createdAt": "2016-08-06T10:28:45.014Z",
+    "updatedAt": "2016-08-06T10:28:45.014Z",
+    "id": 17086
+  },
+  {
+    "name": "13rường Đại học Công nghiệp Việt Trì",
+    "createdAt": "2016-08-06T10:28:45.020Z",
+    "updatedAt": "2016-08-06T10:28:45.020Z",
+    "id": 17087
+  },
+  {
+    "name": "14Trường Đại học Điều dưỡng Nam Định",
+    "createdAt": "2016-08-06T10:28:45.026Z",
+    "updatedAt": "2016-08-06T10:28:45.026Z",
+    "id": 17088
+  },
+  {
+    "name": "15Trường Đại học Hạ Long",
+    "createdAt": "2016-08-06T10:28:45.032Z",
+    "updatedAt": "2016-08-06T10:28:45.032Z",
+    "id": 17089
+  },
+  {
+    "name": "16Trường Đại học Hải Dương",
+    "createdAt": "2016-08-06T10:28:45.036Z",
+    "updatedAt": "2016-08-06T10:28:45.036Z",
+    "id": 17090
+  },
+  {
+    "name": "17Trường Đại học Hải Phòng",
+    "createdAt": "2016-08-06T10:28:45.043Z",
+    "updatedAt": "2016-08-06T10:28:45.043Z",
+    "id": 17091
+  },
+  {
+    "name": "18Trường Đại học Hàng hải",
+    "createdAt": "2016-08-06T10:28:45.050Z",
+    "updatedAt": "2016-08-06T10:28:45.050Z",
+    "id": 17092
+  },
+  {
+    "name": "19Trường Đại học Hồng Đức",
+    "createdAt": "2016-08-06T10:28:45.055Z",
+    "updatedAt": "2016-08-06T10:28:45.055Z",
+    "id": 17093
+  },
+  {
+    "name": "1Đại học Thái Nguyên",
+    "createdAt": "2016-08-06T10:28:45.059Z",
+    "updatedAt": "2016-08-06T10:28:45.059Z",
+    "id": 17094
+  },
+  {
+    "name": "20Trường Đại học Hoa Lư Ninh Bình",
+    "createdAt": "2016-08-06T10:28:45.065Z",
+    "updatedAt": "2016-08-06T10:28:45.065Z",
+    "id": 17095
+  },
+  {
+    "name": "21Trường Đại học Hùng Vương",
+    "createdAt": "2016-08-06T10:28:45.070Z",
+    "updatedAt": "2016-08-06T10:28:45.070Z",
+    "id": 17096
+  },
+  {
+    "name": "22Trường Đại học Kỹ thuật Y tế Hải Dương",
+    "createdAt": "2016-08-06T10:28:45.076Z",
+    "updatedAt": "2016-08-06T10:28:45.076Z",
+    "id": 17097
+  },
+  {
+    "name": "23Trường Đại học Nông Lâm Bắc Giang",
+    "createdAt": "2016-08-06T10:28:45.082Z",
+    "updatedAt": "2016-08-06T10:28:45.082Z",
+    "id": 17098
+  },
+  {
+    "name": "24Trường Đại học Sao Đỏ",
+    "createdAt": "2016-08-06T10:28:45.087Z",
+    "updatedAt": "2016-08-06T10:28:45.087Z",
+    "id": 17099
+  },
+  {
+    "name": "25Trường Đại học Sư phạm Hà Nội 2",
+    "createdAt": "2016-08-06T10:28:45.092Z",
+    "updatedAt": "2016-08-06T10:28:45.092Z",
+    "id": 17100
+  },
+  {
+    "name": "26Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+    "createdAt": "2016-08-06T10:28:45.099Z",
+    "updatedAt": "2016-08-06T10:28:45.099Z",
+    "id": 17101
+  },
+  {
+    "name": "27Trường Đại học Sư phạm Kỹ thuật Nam Định",
+    "createdAt": "2016-08-06T10:28:45.105Z",
+    "updatedAt": "2016-08-06T10:28:45.105Z",
+    "id": 17102
+  },
+  {
+    "name": "28Trường Đại học Tài chính",
+    "createdAt": "2016-08-06T10:28:45.112Z",
+    "updatedAt": "2016-08-06T10:28:45.112Z",
+    "id": 17103
+  },
+  {
+    "name": "29Trường Đại học Tân Trào",
+    "createdAt": "2016-08-06T10:28:45.120Z",
+    "updatedAt": "2016-08-06T10:28:45.120Z",
+    "id": 17104
+  },
+  {
+    "name": "2Trường Đại học Kinh tế",
+    "createdAt": "2016-08-06T10:28:45.127Z",
+    "updatedAt": "2016-08-06T10:28:45.127Z",
+    "id": 17105
+  },
+  {
+    "name": "30Trường Đại học Tây Bắc",
+    "createdAt": "2016-08-06T10:28:45.132Z",
+    "updatedAt": "2016-08-06T10:28:45.132Z",
+    "id": 17106
+  },
+  {
+    "name": "31Trường Đại học Thái Bình",
+    "createdAt": "2016-08-06T10:28:45.137Z",
+    "updatedAt": "2016-08-06T10:28:45.137Z",
+    "id": 17107
+  },
+  {
+    "name": "32Trường Đại học Thể dục Thể thao Bắc Ninh",
+    "createdAt": "2016-08-06T10:28:45.142Z",
+    "updatedAt": "2016-08-06T10:28:45.142Z",
+    "id": 17108
+  },
+  {
+    "name": "33Trường Đại học Văn Hóa",
+    "createdAt": "2016-08-06T10:28:45.147Z",
+    "updatedAt": "2016-08-06T10:28:45.147Z",
+    "id": 17109
+  },
+  {
+    "name": "34Trường Đại học Việt Bắc",
+    "createdAt": "2016-08-06T10:28:45.153Z",
+    "updatedAt": "2016-08-06T10:28:45.153Z",
+    "id": 17110
+  },
+  {
+    "name": "35Trường Đại học Y Dược Hải Phòng",
+    "createdAt": "2016-08-06T10:28:45.158Z",
+    "updatedAt": "2016-08-06T10:28:45.158Z",
+    "id": 17111
+  },
+  {
+    "name": "36Trường Đại học Y Dược Thái Bình",
+    "createdAt": "2016-08-06T10:28:45.165Z",
+    "updatedAt": "2016-08-06T10:28:45.165Z",
+    "id": 17112
+  },
+  {
+    "name": "3Trường Đại học Kỹ thuật Công nghiệp",
+    "createdAt": "2016-08-06T10:28:45.171Z",
+    "updatedAt": "2016-08-06T10:28:45.171Z",
+    "id": 17113
+  },
+  {
+    "name": "4Trường Đại học Nông lâm",
+    "createdAt": "2016-08-06T10:28:45.177Z",
+    "updatedAt": "2016-08-06T10:28:45.177Z",
+    "id": 17114
+  },
+  {
+    "name": "5Trường Đại học Sư phạm",
+    "createdAt": "2016-08-06T10:28:45.183Z",
+    "updatedAt": "2016-08-06T10:28:45.183Z",
+    "id": 17115
+  },
+  {
+    "name": "6Trường Đại học Y",
+    "createdAt": "2016-08-06T10:28:45.189Z",
+    "updatedAt": "2016-08-06T10:28:45.189Z",
+    "id": 17116
+  },
+  {
+    "name": "7Trường ĐH Công nghệ thông tin và Truyền thông",
+    "createdAt": "2016-08-06T10:28:45.194Z",
+    "updatedAt": "2016-08-06T10:28:45.194Z",
+    "id": 17117
+  },
+  {
+    "name": "8Trường Đại học Khoa học",
+    "createdAt": "2016-08-06T10:28:45.199Z",
+    "updatedAt": "2016-08-06T10:28:45.199Z",
+    "id": 17118
+  },
+  {
+    "name": "9Khoa Ngoại ngữ",
+    "createdAt": "2016-08-06T10:28:45.204Z",
+    "updatedAt": "2016-08-06T10:28:45.204Z",
+    "id": 17119
+  },
+  {
+    "name": "10Trường Đại học Ngoại ngữ",
+    "createdAt": "2016-08-06T10:28:45.210Z",
+    "updatedAt": "2016-08-06T10:28:45.210Z",
+    "id": 17120
+  },
+  {
+    "name": "11Trường Đại học Kinh tế",
+    "createdAt": "2016-08-06T10:28:45.216Z",
+    "updatedAt": "2016-08-06T10:28:45.216Z",
+    "id": 17121
+  },
+  {
+    "name": "12Trường Đại học Nông Lâm",
+    "createdAt": "2016-08-06T10:28:45.221Z",
+    "updatedAt": "2016-08-06T10:28:45.221Z",
+    "id": 17122
+  },
+  {
+    "name": "13Trường Đại học Nghệ thuật",
+    "createdAt": "2016-08-06T10:28:45.226Z",
+    "updatedAt": "2016-08-06T10:28:45.226Z",
+    "id": 17123
+  },
+  {
+    "name": "14Trường Đại học Sư phạm",
+    "createdAt": "2016-08-06T10:28:45.231Z",
+    "updatedAt": "2016-08-06T10:28:45.231Z",
+    "id": 17124
+  },
+  {
+    "name": "15Trường Đại học Khoa học",
+    "createdAt": "2016-08-06T10:28:45.236Z",
+    "updatedAt": "2016-08-06T10:28:45.236Z",
+    "id": 17125
+  },
+  {
+    "name": "16Trường Đại học Y Dược",
+    "createdAt": "2016-08-06T10:28:45.242Z",
+    "updatedAt": "2016-08-06T10:28:45.242Z",
+    "id": 17126
+  },
+  {
+    "name": "17Phân hiệu ĐH Huế tại Quảng Trị",
+    "createdAt": "2016-08-06T10:28:45.248Z",
+    "updatedAt": "2016-08-06T10:28:45.248Z",
+    "id": 17127
+  },
+  {
+    "name": "18Trường Đại học Luật",
+    "createdAt": "2016-08-06T10:28:45.254Z",
+    "updatedAt": "2016-08-06T10:28:45.254Z",
+    "id": 17128
+  },
+  {
+    "name": "19Đại học Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:45.259Z",
+    "updatedAt": "2016-08-06T10:28:45.259Z",
+    "id": 17129
+  },
+  {
+    "name": "1Trường Đại học Sư phạm Kỹ thuật Vinh",
+    "createdAt": "2016-08-06T10:28:45.264Z",
+    "updatedAt": "2016-08-06T10:28:45.264Z",
+    "id": 17130
+  },
+  {
+    "name": "20Trường Đại học Sư phạm",
+    "createdAt": "2016-08-06T10:28:45.269Z",
+    "updatedAt": "2016-08-06T10:28:45.269Z",
+    "id": 17131
+  },
+  {
+    "name": "21Trường Đại học Bách Khoa",
+    "createdAt": "2016-08-06T10:28:45.274Z",
+    "updatedAt": "2016-08-06T10:28:45.274Z",
+    "id": 17132
+  },
+  {
+    "name": "22Trường Đại học Kinh tế",
+    "createdAt": "2016-08-06T10:28:45.279Z",
+    "updatedAt": "2016-08-06T10:28:45.279Z",
+    "id": 17133
+  },
+  {
+    "name": "23Trường Đại học Ngoại ngữ",
+    "createdAt": "2016-08-06T10:28:45.285Z",
+    "updatedAt": "2016-08-06T10:28:45.285Z",
+    "id": 17134
+  },
+  {
+    "name": "24Phân hiệu Đại học Đà Nẵng tại Kon Tum",
+    "createdAt": "2016-08-06T10:28:45.290Z",
+    "updatedAt": "2016-08-06T10:28:45.290Z",
+    "id": 17135
+  },
+  {
+    "name": "25Khoa Y",
+    "createdAt": "2016-08-06T10:28:45.295Z",
+    "updatedAt": "2016-08-06T10:28:45.295Z",
+    "id": 17136
+  },
+  {
+    "name": "26Học viện Âm nhạc Huế",
+    "createdAt": "2016-08-06T10:28:45.300Z",
+    "updatedAt": "2016-08-06T10:28:45.300Z",
+    "id": 17137
+  },
+  {
+    "name": "27Trường Đại học Đà Lạt",
+    "createdAt": "2016-08-06T10:28:45.306Z",
+    "updatedAt": "2016-08-06T10:28:45.306Z",
+    "id": 17138
+  },
+  {
+    "name": "28Trường Đại học Khánh Hòa",
+    "createdAt": "2016-08-06T10:28:45.312Z",
+    "updatedAt": "2016-08-06T10:28:45.312Z",
+    "id": 17139
+  },
+  {
+    "name": "29Trường Đại học Kỹ thuật Y Dược Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:45.317Z",
+    "updatedAt": "2016-08-06T10:28:45.317Z",
+    "id": 17140
+  },
+  {
+    "name": "2Trường Đại học Vinh",
+    "createdAt": "2016-08-06T10:28:45.322Z",
+    "updatedAt": "2016-08-06T10:28:45.322Z",
+    "id": 17141
+  },
+  {
+    "name": "30Trường Đại học Nha Trang",
+    "createdAt": "2016-08-06T10:28:45.327Z",
+    "updatedAt": "2016-08-06T10:28:45.327Z",
+    "id": 17142
+  },
+  {
+    "name": "31Trường Đại học Phú Yên",
+    "createdAt": "2016-08-06T10:28:45.333Z",
+    "updatedAt": "2016-08-06T10:28:45.333Z",
+    "id": 17143
+  },
+  {
+    "name": "32Trường Đại học Phạm Văn Đồng",
+    "createdAt": "2016-08-06T10:28:45.340Z",
+    "updatedAt": "2016-08-06T10:28:45.340Z",
+    "id": 17144
+  },
+  {
+    "name": "33Trường Đại học Quảng Nam",
+    "createdAt": "2016-08-06T10:28:45.346Z",
+    "updatedAt": "2016-08-06T10:28:45.346Z",
+    "id": 17145
+  },
+  {
+    "name": "34TRƯỜNG ĐẠI HỌC QUY NHƠN",
+    "createdAt": "2016-08-06T10:28:45.351Z",
+    "updatedAt": "2016-08-06T10:28:45.351Z",
+    "id": 17146
+  },
+  {
+    "name": "35Trường Đại học Tài chính Kế toán",
+    "createdAt": "2016-08-06T10:28:45.356Z",
+    "updatedAt": "2016-08-06T10:28:45.356Z",
+    "id": 17147
+  },
+  {
+    "name": "36Trường Đại học Tây Nguyên",
+    "createdAt": "2016-08-06T10:28:45.364Z",
+    "updatedAt": "2016-08-06T10:28:45.364Z",
+    "id": 17148
+  },
+  {
+    "name": "37Trường Đại học Thể dục Thể thao Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:45.374Z",
+    "updatedAt": "2016-08-06T10:28:45.374Z",
+    "id": 17149
+  },
+  {
+    "name": "38Trường Đại học xây dựng Miền Trung",
+    "createdAt": "2016-08-06T10:28:45.380Z",
+    "updatedAt": "2016-08-06T10:28:45.380Z",
+    "id": 17150
+  },
+  {
+    "name": "3Trường Đại học Y khoa Vinh",
+    "createdAt": "2016-08-06T10:28:45.386Z",
+    "updatedAt": "2016-08-06T10:28:45.386Z",
+    "id": 17151
+  },
+  {
+    "name": "4Trường Đại học Kinh tế Nghệ An",
+    "createdAt": "2016-08-06T10:28:45.392Z",
+    "updatedAt": "2016-08-06T10:28:45.392Z",
+    "id": 17152
+  },
+  {
+    "name": "5Trường Đại học Hà Tĩnh",
+    "createdAt": "2016-08-06T10:28:45.399Z",
+    "updatedAt": "2016-08-06T10:28:45.399Z",
+    "id": 17153
+  },
+  {
+    "name": "6Trường Đại học Quảng Bình",
+    "createdAt": "2016-08-06T10:28:45.406Z",
+    "updatedAt": "2016-08-06T10:28:45.406Z",
+    "id": 17154
+  },
+  {
+    "name": "7Khoa Giáo dục Thể chất",
+    "createdAt": "2016-08-06T10:28:45.411Z",
+    "updatedAt": "2016-08-06T10:28:45.411Z",
+    "id": 17155
+  },
+  {
+    "name": "8Khoa Du lịch",
+    "createdAt": "2016-08-06T10:28:45.416Z",
+    "updatedAt": "2016-08-06T10:28:45.416Z",
+    "id": 17156
+  },
+  {
+    "name": "9ĐẠI HỌC HUẾ",
+    "createdAt": "2016-08-06T10:28:45.423Z",
+    "updatedAt": "2016-08-06T10:28:45.423Z",
+    "id": 17157
+  },
+  {
+    "name": "10Trường Đại học Sư phạm Kỹ thuật Vĩnh Long",
+    "createdAt": "2016-08-06T10:28:45.429Z",
+    "updatedAt": "2016-08-06T10:28:45.429Z",
+    "id": 17158
+  },
+  {
+    "name": "11Trường Đại học Thủ Dầu Một",
+    "createdAt": "2016-08-06T10:28:45.435Z",
+    "updatedAt": "2016-08-06T10:28:45.435Z",
+    "id": 17159
+  },
+  {
+    "name": "12Trường Đại học Tiền Giang",
+    "createdAt": "2016-08-06T10:28:45.441Z",
+    "updatedAt": "2016-08-06T10:28:45.441Z",
+    "id": 17160
+  },
+  {
+    "name": "13Trường Đại học Trà Vinh",
+    "createdAt": "2016-08-06T10:28:45.448Z",
+    "updatedAt": "2016-08-06T10:28:45.448Z",
+    "id": 17161
+  },
+  {
+    "name": "14Trường Đại học Xây dựng Miền Tây",
+    "createdAt": "2016-08-06T10:28:45.455Z",
+    "updatedAt": "2016-08-06T10:28:45.455Z",
+    "id": 17162
+  },
+  {
+    "name": "15Trường Đại học Y Dược Cần Thơ",
+    "createdAt": "2016-08-06T10:28:45.460Z",
+    "updatedAt": "2016-08-06T10:28:45.460Z",
+    "id": 17163
+  },
+  {
+    "name": "1Trường Đại học An Giang",
+    "createdAt": "2016-08-06T10:28:45.467Z",
+    "updatedAt": "2016-08-06T10:28:45.467Z",
+    "id": 17164
+  },
+  {
+    "name": "2Trường Đại học Bạc Liêu",
+    "createdAt": "2016-08-06T10:28:45.475Z",
+    "updatedAt": "2016-08-06T10:28:45.475Z",
+    "id": 17165
+  },
+  {
+    "name": "3TRƯỜNG ĐẠI HỌC CẦN THƠ",
+    "createdAt": "2016-08-06T10:28:45.481Z",
+    "updatedAt": "2016-08-06T10:28:45.481Z",
+    "id": 17166
+  },
+  {
+    "name": "4TRƯỜNG ĐẠI HỌC DẦU KHÍ VIỆT NAM",
+    "createdAt": "2016-08-06T10:28:45.488Z",
+    "updatedAt": "2016-08-06T10:28:45.488Z",
+    "id": 17167
+  },
+  {
+    "name": "5TRƯỜNG ĐẠI HỌC ĐỒNG NAI",
+    "createdAt": "2016-08-06T10:28:45.494Z",
+    "updatedAt": "2016-08-06T10:28:45.494Z",
+    "id": 17168
+  },
+  {
+    "name": "6TRƯỜNG ĐẠI HỌC ĐỒNG THÁP",
+    "createdAt": "2016-08-06T10:28:45.500Z",
+    "updatedAt": "2016-08-06T10:28:45.500Z",
+    "id": 17169
+  },
+  {
+    "name": "7Trường Đại học Kiên Giang",
+    "createdAt": "2016-08-06T10:28:45.506Z",
+    "updatedAt": "2016-08-06T10:28:45.506Z",
+    "id": 17170
+  },
+  {
+    "name": "8Trường Đại học Kỹ thuật Công nghệ Cần Thơ",
+    "createdAt": "2016-08-06T10:28:45.512Z",
+    "updatedAt": "2016-08-06T10:28:45.512Z",
+    "id": 17171
+  },
+  {
+    "name": "9Trường Đại học Lâm nghiệp",
+    "createdAt": "2016-08-06T10:28:45.517Z",
+    "updatedAt": "2016-08-06T10:28:45.517Z",
+    "id": 17172
+  },
+  {
+    "name": "1- Trường Đại học Bách Khoa TpHCM",
+    "createdAt": "2016-08-06T10:28:45.523Z",
+    "updatedAt": "2016-08-06T10:28:45.523Z",
+    "id": 17173
+  },
+  {
+    "name": "10 - Trường Đại học Công nghiệp thực phẩm TP",
+    "createdAt": "2016-08-06T10:28:45.528Z",
+    "updatedAt": "2016-08-06T10:28:45.528Z",
+    "id": 17174
+  },
+  {
+    "name": "11- TRƯỜNG ĐH GT VẬN TẢI CƠ SỞ 2",
+    "createdAt": "2016-08-06T10:28:45.534Z",
+    "updatedAt": "2016-08-06T10:28:45.534Z",
+    "id": 17175
+  },
+  {
+    "name": "12 - Trường Đại học Giao thông vận tải TP",
+    "createdAt": "2016-08-06T10:28:45.540Z",
+    "updatedAt": "2016-08-06T10:28:45.540Z",
+    "id": 17176
+  },
+  {
+    "name": "13 - Trường Đại học Kiến trúc TP",
+    "createdAt": "2016-08-06T10:28:45.546Z",
+    "updatedAt": "2016-08-06T10:28:45.546Z",
+    "id": 17177
+  },
+  {
+    "name": "14 - Trường Đại học Kinh tế TP",
+    "createdAt": "2016-08-06T10:28:45.553Z",
+    "updatedAt": "2016-08-06T10:28:45.553Z",
+    "id": 17178
+  },
+  {
+    "name": "15 - Trường Đại học Luật TP",
+    "createdAt": "2016-08-06T10:28:45.562Z",
+    "updatedAt": "2016-08-06T10:28:45.562Z",
+    "id": 17179
+  },
+  {
+    "name": "16 - TRƯỜNG ĐẠI HỌC MỞ TP",
+    "createdAt": "2016-08-06T10:28:45.569Z",
+    "updatedAt": "2016-08-06T10:28:45.569Z",
+    "id": 17180
+  },
+  {
+    "name": "17 - Trường Đại học Mỹ thuật TP",
+    "createdAt": "2016-08-06T10:28:45.576Z",
+    "updatedAt": "2016-08-06T10:28:45.576Z",
+    "id": 17181
+  },
+  {
+    "name": "18 - TRƯỜNG ĐẠI HỌC NGÂN HÀNG TP",
+    "createdAt": "2016-08-06T10:28:45.582Z",
+    "updatedAt": "2016-08-06T10:28:45.582Z",
+    "id": 17182
+  },
+  {
+    "name": "19 - TRƯỜNG ĐẠI HỌC NGOẠI THƯƠNG",
+    "createdAt": "2016-08-06T10:28:45.588Z",
+    "updatedAt": "2016-08-06T10:28:45.588Z",
+    "id": 17183
+  },
+  {
+    "name": "2 - Đại học Khoa học tự nhiên Tp",
+    "createdAt": "2016-08-06T10:28:45.593Z",
+    "updatedAt": "2016-08-06T10:28:45.593Z",
+    "id": 17184
+  },
+  {
+    "name": "20 - NHẠC VIỆN TP",
+    "createdAt": "2016-08-06T10:28:45.599Z",
+    "updatedAt": "2016-08-06T10:28:45.599Z",
+    "id": 17185
+  },
+  {
+    "name": "21 - TRƯỜNG ĐẠI HỌC NÔNG LÂM THÀNH PHỐ HỒ CHÍ MINH",
+    "createdAt": "2016-08-06T10:28:45.606Z",
+    "updatedAt": "2016-08-06T10:28:45.606Z",
+    "id": 17186
+  },
+  {
+    "name": "22 - TRƯỜNG ĐẠI HỌC SÀI GÒN",
+    "createdAt": "2016-08-06T10:28:45.611Z",
+    "updatedAt": "2016-08-06T10:28:45.611Z",
+    "id": 17187
+  },
+  {
+    "name": "23 - ĐH SÂN KHẤU ĐIỆN ẢNH TPHCM",
+    "createdAt": "2016-08-06T10:28:45.617Z",
+    "updatedAt": "2016-08-06T10:28:45.617Z",
+    "id": 17188
+  },
+  {
+    "name": "24 - TRƯỜNG ĐẠI HỌC SƯ PHẠM THÀNH PHỐ HỒ CHÍ MINH",
+    "createdAt": "2016-08-06T10:28:45.623Z",
+    "updatedAt": "2016-08-06T10:28:45.623Z",
+    "id": 17189
+  },
+  {
+    "name": "25 - TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP",
+    "createdAt": "2016-08-06T10:28:45.629Z",
+    "updatedAt": "2016-08-06T10:28:45.629Z",
+    "id": 17190
+  },
+  {
+    "name": "26 - TRƯỜNG ĐẠI HỌC SƯ PHẠM TDTT TPHCM",
+    "createdAt": "2016-08-06T10:28:45.635Z",
+    "updatedAt": "2016-08-06T10:28:45.635Z",
+    "id": 17191
+  },
+  {
+    "name": "27 - TRƯỜNG ĐẠI HỌC TÀI CHÍNH MARKETING ",
+    "createdAt": "2016-08-06T10:28:45.641Z",
+    "updatedAt": "2016-08-06T10:28:45.641Z",
+    "id": 17192
+  },
+  {
+    "name": "28 - TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG TP",
+    "createdAt": "2016-08-06T10:28:45.647Z",
+    "updatedAt": "2016-08-06T10:28:45.647Z",
+    "id": 17193
+  },
+  {
+    "name": "29 - TRƯỜNG ĐẠI HỌC THỂ DỤC THỂ THAO TP",
+    "createdAt": "2016-08-06T10:28:45.652Z",
+    "updatedAt": "2016-08-06T10:28:45.652Z",
+    "id": 17194
+  },
+  {
+    "name": "3 - TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN",
+    "createdAt": "2016-08-06T10:28:45.658Z",
+    "updatedAt": "2016-08-06T10:28:45.658Z",
+    "id": 17195
+  },
+  {
+    "name": "30 - Trường Đại học Tôn Đức Thắng",
+    "createdAt": "2016-08-06T10:28:45.664Z",
+    "updatedAt": "2016-08-06T10:28:45.664Z",
+    "id": 17196
+  },
+  {
+    "name": "31 - TRƯỜNG ĐH VĂN HÓA TP",
+    "createdAt": "2016-08-06T10:28:45.670Z",
+    "updatedAt": "2016-08-06T10:28:45.670Z",
+    "id": 17197
+  },
+  {
+    "name": "32 - TRƯỜNG ĐẠI HỌC Y DƯỢC TP",
+    "createdAt": "2016-08-06T10:28:45.675Z",
+    "updatedAt": "2016-08-06T10:28:45.675Z",
+    "id": 17198
+  },
+  {
+    "name": "33 - TRƯỜNG ĐẠI HỌC Y KHOA PHẠM NGỌC THẠCH",
+    "createdAt": "2016-08-06T10:28:45.681Z",
+    "updatedAt": "2016-08-06T10:28:45.681Z",
+    "id": 17199
+  },
+  {
+    "name": "34 - HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG",
+    "createdAt": "2016-08-06T10:28:45.687Z",
+    "updatedAt": "2016-08-06T10:28:45.687Z",
+    "id": 17200
+  },
+  {
+    "name": "35 - HỌC VIỆN HÀNH CHÍNH QUỐC GIA",
+    "createdAt": "2016-08-06T10:28:45.696Z",
+    "updatedAt": "2016-08-06T10:28:45.696Z",
+    "id": 17201
+  },
+  {
+    "name": "36 - Học viện Kỹ thuật Mật mã",
+    "createdAt": "2016-08-06T10:28:45.703Z",
+    "updatedAt": "2016-08-06T10:28:45.703Z",
+    "id": 17202
+  },
+  {
+    "name": "37 - TRƯỜNG ĐẠI HỌC AN NINH",
+    "createdAt": "2016-08-06T10:28:45.709Z",
+    "updatedAt": "2016-08-06T10:28:45.709Z",
+    "id": 17203
+  },
+  {
+    "name": "38 - TRƯỜNG ĐẠI HỌC CẢNH SÁT NHÂN DÂN",
+    "createdAt": "2016-08-06T10:28:45.714Z",
+    "updatedAt": "2016-08-06T10:28:45.714Z",
+    "id": 17204
+  },
+  {
+    "name": "39 - TRƯỜNG SĨ QUAN KỸ THUẬT QUÂN SỰ TRẦN ĐẠI NGHĨA",
+    "createdAt": "2016-08-06T10:28:45.721Z",
+    "updatedAt": "2016-08-06T10:28:45.721Z",
+    "id": 17205
+  },
+  {
+    "name": "4 - Trường Đại học Quốc tế",
+    "createdAt": "2016-08-06T10:28:45.729Z",
+    "updatedAt": "2016-08-06T10:28:45.729Z",
+    "id": 17206
+  },
+  {
+    "name": "40 - Trường Đại học Thủy lợi Cơ sở 2 TPHCM",
+    "createdAt": "2016-08-06T10:28:45.738Z",
+    "updatedAt": "2016-08-06T10:28:45.738Z",
+    "id": 17207
+  },
+  {
+    "name": "5 - Trường Đại học Công nghệ Thông tin",
+    "createdAt": "2016-08-06T10:28:45.744Z",
+    "updatedAt": "2016-08-06T10:28:45.744Z",
+    "id": 17208
+  },
+  {
+    "name": "6 - Trường Đại học Kinh tế Luật ",
+    "createdAt": "2016-08-06T10:28:45.751Z",
+    "updatedAt": "2016-08-06T10:28:45.751Z",
+    "id": 17209
+  },
+  {
+    "name": "7 - Khoa Y (ĐH Quốc Gia TPHCM) ",
+    "createdAt": "2016-08-06T10:28:45.757Z",
+    "updatedAt": "2016-08-06T10:28:45.757Z",
+    "id": 17210
+  },
+  {
+    "name": "8 - Học viện Hàng Không Việt Nam",
+    "createdAt": "2016-08-06T10:28:45.763Z",
+    "updatedAt": "2016-08-06T10:28:45.763Z",
+    "id": 17211
+  },
+  {
+    "name": "9 - Trường Đại học Công nghiệp TP",
+    "createdAt": "2016-08-06T10:28:45.769Z",
+    "updatedAt": "2016-08-06T10:28:45.769Z",
+    "id": 17212
+  },
+  {
+    "name": "10Học viện Báo chí Tuyên truyền",
+    "createdAt": "2016-08-06T10:28:45.775Z",
+    "updatedAt": "2016-08-06T10:28:45.775Z",
+    "id": 17213
+  },
+  {
+    "name": "11Học viện Chính sách và Phát triển",
+    "createdAt": "2016-08-06T10:28:45.781Z",
+    "updatedAt": "2016-08-06T10:28:45.781Z",
+    "id": 17214
+  },
+  {
+    "name": "12Học viện Công nghệ Bưu chính Viễn thông",
+    "createdAt": "2016-08-06T10:28:45.788Z",
+    "updatedAt": "2016-08-06T10:28:45.788Z",
+    "id": 17215
+  },
+  {
+    "name": "13Học viện Hành chính Quốc gia",
+    "createdAt": "2016-08-06T10:28:45.794Z",
+    "updatedAt": "2016-08-06T10:28:45.794Z",
+    "id": 17216
+  },
+  {
+    "name": "14Học viện Kỹ thuật Mật mã",
+    "createdAt": "2016-08-06T10:28:45.801Z",
+    "updatedAt": "2016-08-06T10:28:45.801Z",
+    "id": 17217
+  },
+  {
+    "name": "15Học viện Ngân hàng",
+    "createdAt": "2016-08-06T10:28:45.807Z",
+    "updatedAt": "2016-08-06T10:28:45.807Z",
+    "id": 17218
+  },
+  {
+    "name": "16Học viện Ngoại giao",
+    "createdAt": "2016-08-06T10:28:45.814Z",
+    "updatedAt": "2016-08-06T10:28:45.814Z",
+    "id": 17219
+  },
+  {
+    "name": "17Học viện Nông nghiệp Việt Nam",
+    "createdAt": "2016-08-06T10:28:45.821Z",
+    "updatedAt": "2016-08-06T10:28:45.821Z",
+    "id": 17220
+  },
+  {
+    "name": "18Học viện Quản lý Giáo dục",
+    "createdAt": "2016-08-06T10:28:45.827Z",
+    "updatedAt": "2016-08-06T10:28:45.827Z",
+    "id": 17221
+  },
+  {
+    "name": "19Học viện Tài chính",
+    "createdAt": "2016-08-06T10:28:45.835Z",
+    "updatedAt": "2016-08-06T10:28:45.835Z",
+    "id": 17222
+  },
+  {
+    "name": "1TRƯỜNG ĐẠI HỌC CÔNG NGHỆ",
+    "createdAt": "2016-08-06T10:28:45.841Z",
+    "updatedAt": "2016-08-06T10:28:45.841Z",
+    "id": 17223
+  },
+  {
+    "name": "20Học viện Thanh thiếu niên Việt Nam",
+    "createdAt": "2016-08-06T10:28:45.848Z",
+    "updatedAt": "2016-08-06T10:28:45.848Z",
+    "id": 17224
+  },
+  {
+    "name": "21Học viện Y Dược học Cổ truyền Việt nam",
+    "createdAt": "2016-08-06T10:28:45.855Z",
+    "updatedAt": "2016-08-06T10:28:45.855Z",
+    "id": 17225
+  },
+  {
+    "name": "22Trường Đại học Bách khoa Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.861Z",
+    "updatedAt": "2016-08-06T10:28:45.861Z",
+    "id": 17226
+  },
+  {
+    "name": "23Trường Đại học Công đoàn",
+    "createdAt": "2016-08-06T10:28:45.869Z",
+    "updatedAt": "2016-08-06T10:28:45.869Z",
+    "id": 17227
+  },
+  {
+    "name": "24Trường Đại học Công nghệ Giao thông vận tải",
+    "createdAt": "2016-08-06T10:28:45.875Z",
+    "updatedAt": "2016-08-06T10:28:45.875Z",
+    "id": 17228
+  },
+  {
+    "name": "25Trường Đại học Công nghiệp Dệt may Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.882Z",
+    "updatedAt": "2016-08-06T10:28:45.882Z",
+    "id": 17229
+  },
+  {
+    "name": "26Trường Đại học Công nghiệp Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.888Z",
+    "updatedAt": "2016-08-06T10:28:45.888Z",
+    "id": 17230
+  },
+  {
+    "name": "27Trường Đại học Công nghiệp Việt",
+    "createdAt": "2016-08-06T10:28:45.895Z",
+    "updatedAt": "2016-08-06T10:28:45.895Z",
+    "id": 17231
+  },
+  {
+    "name": "28Trường Đại học Dược Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.902Z",
+    "updatedAt": "2016-08-06T10:28:45.902Z",
+    "id": 17232
+  },
+  {
+    "name": "29Trường Đại học Điện lực",
+    "createdAt": "2016-08-06T10:28:45.909Z",
+    "updatedAt": "2016-08-06T10:28:45.909Z",
+    "id": 17233
+  },
+  {
+    "name": "2TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN",
+    "createdAt": "2016-08-06T10:28:45.917Z",
+    "updatedAt": "2016-08-06T10:28:45.917Z",
+    "id": 17234
+  },
+  {
+    "name": "30Trường Đại học Giao thông vận tải",
+    "createdAt": "2016-08-06T10:28:45.923Z",
+    "updatedAt": "2016-08-06T10:28:45.923Z",
+    "id": 17235
+  },
+  {
+    "name": "31Trường Đại học Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.929Z",
+    "updatedAt": "2016-08-06T10:28:45.929Z",
+    "id": 17236
+  },
+  {
+    "name": "32Trường Đại học Khoa học và Công nghệ Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.936Z",
+    "updatedAt": "2016-08-06T10:28:45.936Z",
+    "id": 17237
+  },
+  {
+    "name": "33Trường Đại học Kinh tế Kỹ thuật Công nghiệp",
+    "createdAt": "2016-08-06T10:28:45.941Z",
+    "updatedAt": "2016-08-06T10:28:45.941Z",
+    "id": 17238
+  },
+  {
+    "name": "34Trường Đại học Kinh tế Quốc dân",
+    "createdAt": "2016-08-06T10:28:45.949Z",
+    "updatedAt": "2016-08-06T10:28:45.949Z",
+    "id": 17239
+  },
+  {
+    "name": "35Trường Đại học Kiểm sát Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.957Z",
+    "updatedAt": "2016-08-06T10:28:45.957Z",
+    "id": 17240
+  },
+  {
+    "name": "36Trường Đại học Lao động Xã hội",
+    "createdAt": "2016-08-06T10:28:45.965Z",
+    "updatedAt": "2016-08-06T10:28:45.965Z",
+    "id": 17241
+  },
+  {
+    "name": "37Trường Đại học Lâm nghiệp",
+    "createdAt": "2016-08-06T10:28:45.971Z",
+    "updatedAt": "2016-08-06T10:28:45.971Z",
+    "id": 17242
+  },
+  {
+    "name": "38Trường Đại học Luật Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.977Z",
+    "updatedAt": "2016-08-06T10:28:45.977Z",
+    "id": 17243
+  },
+  {
+    "name": "39Trường Đại học Mỏ Địa chất Hà Nội",
+    "createdAt": "2016-08-06T10:28:45.984Z",
+    "updatedAt": "2016-08-06T10:28:45.984Z",
+    "id": 17244
+  },
+  {
+    "name": "3Trường ĐH Khoa học Xã hội và Nhân văn",
+    "createdAt": "2016-08-06T10:28:45.990Z",
+    "updatedAt": "2016-08-06T10:28:45.990Z",
+    "id": 17245
+  },
+  {
+    "name": "4 Trường Đại học Kinh tế ĐHQG HN",
+    "createdAt": "2016-08-06T10:28:45.996Z",
+    "updatedAt": "2016-08-06T10:28:45.996Z",
+    "id": 17246
+  },
+  {
+    "name": "40Trường Đại học Mỹ thuật Công nghiệp",
+    "createdAt": "2016-08-06T10:28:46.004Z",
+    "updatedAt": "2016-08-06T10:28:46.004Z",
+    "id": 17247
+  },
+  {
+    "name": "41Trường Đại học Mỹ thuật công nghiệp Á Châu",
+    "createdAt": "2016-08-06T10:28:46.011Z",
+    "updatedAt": "2016-08-06T10:28:46.011Z",
+    "id": 17248
+  },
+  {
+    "name": "42Trường Đại học Mỹ thuật Việt Nam",
+    "createdAt": "2016-08-06T10:28:46.017Z",
+    "updatedAt": "2016-08-06T10:28:46.017Z",
+    "id": 17249
+  },
+  {
+    "name": "43Trường Đại học Ngoại thương",
+    "createdAt": "2016-08-06T10:28:46.025Z",
+    "updatedAt": "2016-08-06T10:28:46.025Z",
+    "id": 17250
+  },
+  {
+    "name": "44Trường Đại Học Nội vụ Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.031Z",
+    "updatedAt": "2016-08-06T10:28:46.031Z",
+    "id": 17251
+  },
+  {
+    "name": "45Trường Đại học Sân khấu Điện ảnh",
+    "createdAt": "2016-08-06T10:28:46.038Z",
+    "updatedAt": "2016-08-06T10:28:46.038Z",
+    "id": 17252
+  },
+  {
+    "name": "46Trường Đại học Sư phạm Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.045Z",
+    "updatedAt": "2016-08-06T10:28:46.045Z",
+    "id": 17253
+  },
+  {
+    "name": "47Trường Đại học Sư phạm Nghệ thuật Trung ương Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.051Z",
+    "updatedAt": "2016-08-06T10:28:46.051Z",
+    "id": 17254
+  },
+  {
+    "name": "48Trường ĐH Sư phạm Thể dục Thể thao Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.059Z",
+    "updatedAt": "2016-08-06T10:28:46.059Z",
+    "id": 17255
+  },
+  {
+    "name": "49Trường Đại học Tài nguyên và Môi trường Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.066Z",
+    "updatedAt": "2016-08-06T10:28:46.066Z",
+    "id": 17256
+  },
+  {
+    "name": "50Trường Đại học Thủ đô Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.076Z",
+    "updatedAt": "2016-08-06T10:28:46.076Z",
+    "id": 17257
+  },
+  {
+    "name": "51Trường Đại học Thủy lợi",
+    "createdAt": "2016-08-06T10:28:46.083Z",
+    "updatedAt": "2016-08-06T10:28:46.083Z",
+    "id": 17258
+  },
+  {
+    "name": "52Trường Đại học Thương mại",
+    "createdAt": "2016-08-06T10:28:46.089Z",
+    "updatedAt": "2016-08-06T10:28:46.089Z",
+    "id": 17259
+  },
+  {
+    "name": "53Trường Đại học Văn hóa Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.095Z",
+    "updatedAt": "2016-08-06T10:28:46.095Z",
+    "id": 17260
+  },
+  {
+    "name": "54Trường Đại học Xây dựng",
+    "createdAt": "2016-08-06T10:28:46.103Z",
+    "updatedAt": "2016-08-06T10:28:46.103Z",
+    "id": 17261
+  },
+  {
+    "name": "55Trường Đại học Y Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.111Z",
+    "updatedAt": "2016-08-06T10:28:46.111Z",
+    "id": 17262
+  },
+  {
+    "name": "56Trường Đại học Y tế Công cộng",
+    "createdAt": "2016-08-06T10:28:46.121Z",
+    "updatedAt": "2016-08-06T10:28:46.121Z",
+    "id": 17263
+  },
+  {
+    "name": "57Viện Đại học Mở Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.129Z",
+    "updatedAt": "2016-08-06T10:28:46.129Z",
+    "id": 17264
+  },
+  {
+    "name": "5Trường Đại học Ngoại ngữ",
+    "createdAt": "2016-08-06T10:28:46.136Z",
+    "updatedAt": "2016-08-06T10:28:46.136Z",
+    "id": 17265
+  },
+  {
+    "name": "6Trường Đại học Giáo dục",
+    "createdAt": "2016-08-06T10:28:46.144Z",
+    "updatedAt": "2016-08-06T10:28:46.144Z",
+    "id": 17266
+  },
+  {
+    "name": "7Khoa Y",
+    "createdAt": "2016-08-06T10:28:46.150Z",
+    "updatedAt": "2016-08-06T10:28:46.150Z",
+    "id": 17267
+  },
+  {
+    "name": "8Khoa Quốc tế",
+    "createdAt": "2016-08-06T10:28:46.159Z",
+    "updatedAt": "2016-08-06T10:28:46.159Z",
+    "id": 17268
+  },
+  {
+    "name": "9Học viện Âm nhạc Quốc gia Việt Nam",
+    "createdAt": "2016-08-06T10:28:46.166Z",
+    "updatedAt": "2016-08-06T10:28:46.166Z",
+    "id": 17269
+  },
+  {
+    "name": "1Trường Đại học Chu Văn An",
+    "createdAt": "2016-08-06T10:28:46.172Z",
+    "updatedAt": "2016-08-06T10:28:46.172Z",
+    "id": 17270
+  },
+  {
+    "name": "2Trường Đại học Công nghệ Đông Á",
+    "createdAt": "2016-08-06T10:28:46.181Z",
+    "updatedAt": "2016-08-06T10:28:46.181Z",
+    "id": 17271
+  },
+  {
+    "name": "3Trường Đại học Dân lập Hải Phòng",
+    "createdAt": "2016-08-06T10:28:46.188Z",
+    "updatedAt": "2016-08-06T10:28:46.188Z",
+    "id": 17272
+  },
+  {
+    "name": "4Trường Đại học Dân lập Lương Thế Vinh",
+    "createdAt": "2016-08-06T10:28:46.194Z",
+    "updatedAt": "2016-08-06T10:28:46.194Z",
+    "id": 17273
+  },
+  {
+    "name": "5Trường Đại học Hà Hoa Tiên",
+    "createdAt": "2016-08-06T10:28:46.202Z",
+    "updatedAt": "2016-08-06T10:28:46.202Z",
+    "id": 17274
+  },
+  {
+    "name": "6Trường Đại học Kinh Bắc",
+    "createdAt": "2016-08-06T10:28:46.212Z",
+    "updatedAt": "2016-08-06T10:28:46.212Z",
+    "id": 17275
+  },
+  {
+    "name": "7Trường Đại học Thành Đông",
+    "createdAt": "2016-08-06T10:28:46.220Z",
+    "updatedAt": "2016-08-06T10:28:46.220Z",
+    "id": 17276
+  },
+  {
+    "name": "8Trường Đại học Trưng Vương",
+    "createdAt": "2016-08-06T10:28:46.227Z",
+    "updatedAt": "2016-08-06T10:28:46.227Z",
+    "id": 17277
+  },
+  {
+    "name": "10Trường Đại học Quốc tế Miền Đông",
+    "createdAt": "2016-08-06T10:28:46.234Z",
+    "updatedAt": "2016-08-06T10:28:46.234Z",
+    "id": 17278
+  },
+  {
+    "name": "11Trường Đại học Tân Tạo",
+    "createdAt": "2016-08-06T10:28:46.241Z",
+    "updatedAt": "2016-08-06T10:28:46.241Z",
+    "id": 17279
+  },
+  {
+    "name": "12Trường Đại học Tây Đô",
+    "createdAt": "2016-08-06T10:28:46.248Z",
+    "updatedAt": "2016-08-06T10:28:46.248Z",
+    "id": 17280
+  },
+  {
+    "name": "13TRƯỜNG ĐẠI HỌC VÕ TRƯỜNG TOẢN",
+    "createdAt": "2016-08-06T10:28:46.254Z",
+    "updatedAt": "2016-08-06T10:28:46.254Z",
+    "id": 17281
+  },
+  {
+    "name": "1Trường Đại học Bà Rịa",
+    "createdAt": "2016-08-06T10:28:46.261Z",
+    "updatedAt": "2016-08-06T10:28:46.261Z",
+    "id": 17282
+  },
+  {
+    "name": "2Trường Đại học Bình Dương",
+    "createdAt": "2016-08-06T10:28:46.271Z",
+    "updatedAt": "2016-08-06T10:28:46.271Z",
+    "id": 17283
+  },
+  {
+    "name": "3Trường Đại học Công nghệ Đồng Nai",
+    "createdAt": "2016-08-06T10:28:46.279Z",
+    "updatedAt": "2016-08-06T10:28:46.279Z",
+    "id": 17284
+  },
+  {
+    "name": "4Trường Đại học Công nghệ Miền Đông",
+    "createdAt": "2016-08-06T10:28:46.286Z",
+    "updatedAt": "2016-08-06T10:28:46.286Z",
+    "id": 17285
+  },
+  {
+    "name": "5TRƯỜNG ĐẠI HỌC CỬU LONG",
+    "createdAt": "2016-08-06T10:28:46.292Z",
+    "updatedAt": "2016-08-06T10:28:46.292Z",
+    "id": 17286
+  },
+  {
+    "name": "6TRƯỜNG ĐẠI HỌC LẠC HỒNG",
+    "createdAt": "2016-08-06T10:28:46.299Z",
+    "updatedAt": "2016-08-06T10:28:46.299Z",
+    "id": 17287
+  },
+  {
+    "name": "7TRƯỜNG ĐẠI HỌC KINH TẾ CÔNG NGHIỆP LONG AN",
+    "createdAt": "2016-08-06T10:28:46.306Z",
+    "updatedAt": "2016-08-06T10:28:46.306Z",
+    "id": 17288
+  },
+  {
+    "name": "8Trường Đại học Kinh tế Kỹ thuật Bình Dương",
+    "createdAt": "2016-08-06T10:28:46.313Z",
+    "updatedAt": "2016-08-06T10:28:46.313Z",
+    "id": 17289
+  },
+  {
+    "name": "9Trường Đại học Nam Cần Thơ",
+    "createdAt": "2016-08-06T10:28:46.319Z",
+    "updatedAt": "2016-08-06T10:28:46.319Z",
+    "id": 17290
+  },
+  {
+    "name": "10Trường Đại học Quang Trung",
+    "createdAt": "2016-08-06T10:28:46.326Z",
+    "updatedAt": "2016-08-06T10:28:46.326Z",
+    "id": 17291
+  },
+  {
+    "name": "11Trường Đại học Thái Bình Dương",
+    "createdAt": "2016-08-06T10:28:46.332Z",
+    "updatedAt": "2016-08-06T10:28:46.332Z",
+    "id": 17292
+  },
+  {
+    "name": "12Trường Đại học Công nghệ Vạn Xuân",
+    "createdAt": "2016-08-06T10:28:46.339Z",
+    "updatedAt": "2016-08-06T10:28:46.339Z",
+    "id": 17293
+  },
+  {
+    "name": "1Trường Đại học Buôn Ma Thuột",
+    "createdAt": "2016-08-06T10:28:46.346Z",
+    "updatedAt": "2016-08-06T10:28:46.346Z",
+    "id": 17294
+  },
+  {
+    "name": "2Trường Đại học Công nghiệp Vinh",
+    "createdAt": "2016-08-06T10:28:46.352Z",
+    "updatedAt": "2016-08-06T10:28:46.352Z",
+    "id": 17295
+  },
+  {
+    "name": "3Trường Đại học Duy Tân",
+    "createdAt": "2016-08-06T10:28:46.359Z",
+    "updatedAt": "2016-08-06T10:28:46.359Z",
+    "id": 17296
+  },
+  {
+    "name": "4TRƯỜNG ĐẠI HỌC ĐÔNG Á",
+    "createdAt": "2016-08-06T10:28:46.367Z",
+    "updatedAt": "2016-08-06T10:28:46.367Z",
+    "id": 17297
+  },
+  {
+    "name": "5TRƯỜNG ĐẠI HỌC DÂN LẬP PHÚ XUÂN",
+    "createdAt": "2016-08-06T10:28:46.374Z",
+    "updatedAt": "2016-08-06T10:28:46.374Z",
+    "id": 17298
+  },
+  {
+    "name": "6Trường Đại học dân lập Yersin Đà Lạt",
+    "createdAt": "2016-08-06T10:28:46.381Z",
+    "updatedAt": "2016-08-06T10:28:46.381Z",
+    "id": 17299
+  },
+  {
+    "name": "7Trường Đại học Kiến trúc Đà Nẵng",
+    "createdAt": "2016-08-06T10:28:46.388Z",
+    "updatedAt": "2016-08-06T10:28:46.388Z",
+    "id": 17300
+  },
+  {
+    "name": "8Trường Đại học Phan Châu Trinh",
+    "createdAt": "2016-08-06T10:28:46.396Z",
+    "updatedAt": "2016-08-06T10:28:46.396Z",
+    "id": 17301
+  },
+  {
+    "name": "9Trường Đại học Phan Thiết",
+    "createdAt": "2016-08-06T10:28:46.402Z",
+    "updatedAt": "2016-08-06T10:28:46.402Z",
+    "id": 17302
+  },
+  {
+    "name": "10Trường Đại học Tài chính",
+    "createdAt": "2016-08-06T10:28:46.409Z",
+    "updatedAt": "2016-08-06T10:28:46.409Z",
+    "id": 17303
+  },
+  {
+    "name": "11Trường Đại học Thành Tây",
+    "createdAt": "2016-08-06T10:28:46.416Z",
+    "updatedAt": "2016-08-06T10:28:46.416Z",
+    "id": 17304
+  },
+  {
+    "name": "12Trường Đại học Thành Đô",
+    "createdAt": "2016-08-06T10:28:46.423Z",
+    "updatedAt": "2016-08-06T10:28:46.423Z",
+    "id": 17305
+  },
+  {
+    "name": "13Trường Đại học Công nghệ và Quản lý Hữu nghị",
+    "createdAt": "2016-08-06T10:28:46.433Z",
+    "updatedAt": "2016-08-06T10:28:46.433Z",
+    "id": 17306
+  },
+  {
+    "name": "1Trường Đại học Dân lập Đông Đô",
+    "createdAt": "2016-08-06T10:28:46.443Z",
+    "updatedAt": "2016-08-06T10:28:46.443Z",
+    "id": 17307
+  },
+  {
+    "name": "2Trường Đại học DL Phương Đông",
+    "createdAt": "2016-08-06T10:28:46.454Z",
+    "updatedAt": "2016-08-06T10:28:46.454Z",
+    "id": 17308
+  },
+  {
+    "name": "3Trường Đại học Thăng Long",
+    "createdAt": "2016-08-06T10:28:46.464Z",
+    "updatedAt": "2016-08-06T10:28:46.464Z",
+    "id": 17309
+  },
+  {
+    "name": "4TRƯỜNG ĐẠI HỌC ĐẠI NAM",
+    "createdAt": "2016-08-06T10:28:46.475Z",
+    "updatedAt": "2016-08-06T10:28:46.475Z",
+    "id": 17310
+  },
+  {
+    "name": "5Trường Đại học FPT",
+    "createdAt": "2016-08-06T10:28:46.486Z",
+    "updatedAt": "2016-08-06T10:28:46.486Z",
+    "id": 17311
+  },
+  {
+    "name": "6Trường Đại học Hòa Bình",
+    "createdAt": "2016-08-06T10:28:46.496Z",
+    "updatedAt": "2016-08-06T10:28:46.496Z",
+    "id": 17312
+  },
+  {
+    "name": "7Trường Đại học Kinh doanh và Công nghệ Hà Nội",
+    "createdAt": "2016-08-06T10:28:46.506Z",
+    "updatedAt": "2016-08-06T10:28:46.506Z",
+    "id": 17313
+  },
+  {
+    "name": "8Trường Đại học Nguyễn Trãi",
+    "createdAt": "2016-08-06T10:28:46.517Z",
+    "updatedAt": "2016-08-06T10:28:46.517Z",
+    "id": 17314
+  },
+  {
+    "name": "9Trường Đại học Quốc tế Bắc Hà",
+    "createdAt": "2016-08-06T10:28:46.527Z",
+    "updatedAt": "2016-08-06T10:28:46.527Z",
+    "id": 17315
+  },
+  {
+    "name": "1 - TRƯỜNG ĐẠI HỌC CÔNG NGHỆ SÀI GÒN",
+    "createdAt": "2016-08-06T10:28:46.537Z",
+    "updatedAt": "2016-08-06T10:28:46.537Z",
+    "id": 17316
+  },
+  {
+    "name": "10 - TRƯỜNG ĐẠI HỌC VĂN HIẾN",
+    "createdAt": "2016-08-06T10:28:46.547Z",
+    "updatedAt": "2016-08-06T10:28:46.547Z",
+    "id": 17317
+  },
+  {
+    "name": "11 - TRƯỜNG ĐẠI HỌC DÂN LẬP VĂN LANG",
+    "createdAt": "2016-08-06T10:28:46.558Z",
+    "updatedAt": "2016-08-06T10:28:46.558Z",
+    "id": 17318
+  },
+  {
+    "name": "12 - TRƯỜNG ĐẠI HỌC VIỆT ĐỨC",
+    "createdAt": "2016-08-06T10:28:46.568Z",
+    "updatedAt": "2016-08-06T10:28:46.568Z",
+    "id": 17319
+  },
+  {
+    "name": "13 - Trường Đại học FPT",
+    "createdAt": "2016-08-06T10:28:46.578Z",
+    "updatedAt": "2016-08-06T10:28:46.578Z",
+    "id": 17320
+  },
+  {
+    "name": "2 - TRƯỜNG ĐH CÔNG NGHỆ TP HUTECH",
+    "createdAt": "2016-08-06T10:28:46.587Z",
+    "updatedAt": "2016-08-06T10:28:46.587Z",
+    "id": 17321
+  },
+  {
+    "name": "3 - TRƯỜNG ĐH CNTT GIA ĐỊNH",
+    "createdAt": "2016-08-06T10:28:46.597Z",
+    "updatedAt": "2016-08-06T10:28:46.597Z",
+    "id": 17322
+  },
+  {
+    "name": "4 - TRƯỜNG ĐẠI HỌC HOA SEN",
+    "createdAt": "2016-08-06T10:28:46.608Z",
+    "updatedAt": "2016-08-06T10:28:46.608Z",
+    "id": 17323
+  },
+  {
+    "name": "5 - TRƯỜNG ĐH KINH TẾ TÀI CHÍNH TPHCM",
+    "createdAt": "2016-08-06T10:28:46.625Z",
+    "updatedAt": "2016-08-06T10:28:46.625Z",
+    "id": 17324
+  },
+  {
+    "name": "6 - TRƯỜNG ĐH NGOẠI NGỮ TIN HỌC HUFLIT",
+    "createdAt": "2016-08-06T10:28:46.632Z",
+    "updatedAt": "2016-08-06T10:28:46.632Z",
+    "id": 17325
+  },
+  {
+    "name": "7 - TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH",
+    "createdAt": "2016-08-06T10:28:46.638Z",
+    "updatedAt": "2016-08-06T10:28:46.638Z",
+    "id": 17326
+  },
+  {
+    "name": "8 - TRƯỜNG ĐẠI HỌC QUỐC TẾ HỒNG BÀNG",
+    "createdAt": "2016-08-06T10:28:46.645Z",
+    "updatedAt": "2016-08-06T10:28:46.645Z",
+    "id": 17327
+  },
+  {
+    "name": "9 - TRƯỜNG ĐẠI HỌC QUỐC TẾ SÀI GÒN",
+    "createdAt": "2016-08-06T10:28:46.654Z",
+    "updatedAt": "2016-08-06T10:28:46.654Z",
+    "id": 17328
+  }
+]

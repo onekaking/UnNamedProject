@@ -6,7 +6,7 @@
   egoApp.service('schoolService', ['$http', function ($http) {
     return {
       getListSchool: function() {
-        return $http.get('/api/school');
+        return $http.get('/api/school?limit=100');
       },
 
       deleteSchool: function(id) {

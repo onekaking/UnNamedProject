@@ -44,6 +44,9 @@ module.exports.routes = {
   'GET /school/add': {
     view : 'homepage'
   },
+  'GET /school/processData' : 'School.processData',
+  'GET /school/destroyAll': 'School.destroyAll',
+  'GET /school/writejson': 'School.writeJson',
   'GET /school/:id': {
     view : 'homepage'
   },
@@ -51,6 +54,7 @@ module.exports.routes = {
   'POST /school/edit': 'School.update',
   'POST /api/school/:schoolid/addmajor/:majorid': 'School.addMajor',
   'DELETE /api/school/:schoolid/removemajor/:majorid': 'School.removeMajor',
+
 
   /*************************** End School ***********************************/
 
