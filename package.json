@@ -9,6 +9,7 @@
     "angular-ui-router": "^0.3.1",
     "csvtojson": "^1.0.0",
     "ejs": "2.3.4",
+    "googlemaps": "^1.11.1",
     "grunt": "0.4.5",
     "grunt-contrib-clean": "0.6.0",
     "grunt-contrib-coffee": "0.13.0",

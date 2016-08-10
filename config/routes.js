@@ -47,6 +47,8 @@ module.exports.routes = {
   'GET /school/processData' : 'School.processData',
   'GET /school/destroyAll': 'School.destroyAll',
   'GET /school/writejson': 'School.writeJson',
+  'GET /school/readjson': 'School.readJson',
+  'GET /school/maps/:name': 'School.maps',
   'GET /school/:id': {
     view : 'homepage'
   },
